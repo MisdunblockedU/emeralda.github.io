@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "pkmnfont";
+  src: url("../fonts/pkmnfont/pkmn_w.woff") format("woff"),
+    url("../fonts/pkmnfont/pkmn_w.ttf") format("truetype");
+}
+@font-face {
+  font-family: "DotGothic16";
+  src: url("../fonts/DotGothic16/DotGothic16-Regular.ttf") format("truetype");
+}

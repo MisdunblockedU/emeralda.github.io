@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-utils",
+  "version": "1.0.0",
+  "description": "<a href=\"https://p0kem0nemerald.github.io/static/images/background/rayquaza.gif\">   <div align=\"center\"><img src=\"rayquaza.gif\" width=\"60%\"></div> </a> <a href=\"https://www.youtube.com/c/p0kem0nEmerald\">   <img alt=\"YouTube Channel Views\" src=\"https://img.shields.io/youtube/channel/views/UCEWGH8tNvUPUX4M5BTGDSuw?style=social\">   <img alt=\"YouTube Channel Subscribers\" src=\"https://img.shields.io/youtube/channel/subscribers/UCEWGH8tNvUPUX4M5BTGDSuw?style=social\"> </a> <a href=\"https://twitter.com/p0kem0nEmerald\">   <img alt=\"Twitter Follow\" src=\"https://img.shields.io/twitter/follow/p0kem0nEmerald?style=social\"> </a>",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github_p0kem0nEmerald:p0kem0nEmerald/p0kem0nEmerald.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}

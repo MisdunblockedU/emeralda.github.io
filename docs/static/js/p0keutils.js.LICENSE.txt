@@ -1,5 +1,5 @@
 /**
- * @file A js library that provides useful functions for handling RNG(Random Number Generation).
+ * @file Utiliti functions for handling binary (or hexadecimal number.)
  * @author p0kem0nEmerald <https://github.com/p0kem0nEmerald>
  * @copyright p0kem0nEmerald 2021
  * @license MIT <https://github.com/p0kem0nEmerald/p0kem0nEmerald.github.io/blob/main/LICENSE>

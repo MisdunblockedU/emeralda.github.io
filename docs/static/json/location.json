@@ -2,2883 +2,1325 @@
   "ミシロタウン": {
     "en": "Littleroot_Town",
     "map": "Littleroot_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Littleroot_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Littleroot_Town.png" } }
   },
   "コトキタウン": {
     "en": "Oldale_Town",
     "map": "Oldale_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Oldale_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Oldale_Town.png" } }
   },
   "ムロタウン": {
     "en": "Dewford_Town",
     "map": "Dewford_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Dewford_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Dewford_Town.png" } }
   },
   "フエンタウン": {
     "en": "Lavaridge_Town",
     "map": "Lavaridge_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Lavaridge_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Lavaridge_Town.png" } }
   },
   "ハジツゲタウン": {
     "en": "Fallarbor_Town",
     "map": "Fallarbor_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Fallarbor_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Fallarbor_Town.png" } }
   },
   "シダケタウン": {
     "en": "Verdanturf_Town",
     "map": "Verdanturf_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Verdanturf_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Verdanturf_Town.png" } }
   },
   "キナギタウン": {
     "en": "Pacifidlog_Town",
     "map": "Pacifidlog_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Pacifidlog_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Pacifidlog_Town.png" } }
   },
   "トウカシティ": {
     "en": "Petalburg_City",
     "map": "Petalburg_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Petalburg_City.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Petalburg_City.png" } }
   },
   "カイナシティ": {
     "en": "Slateport_City",
     "map": "Slateport_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Slateport_City.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Slateport_City.png" } }
   },
   "キンセツシティ": {
     "en": "Mauville_City",
     "map": "Mauville_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Mauville_City.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Mauville_City.png" } }
   },
   "カナズミシティ": {
     "en": "Rustboro_City",
     "map": "Rustboro_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Rustboro_City.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Rustboro_City.png" } }
   },
   "ヒワマキシティ": {
     "en": "Fortree_City",
     "map": "Fortree_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Fortree_City.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Fortree_City.png" } }
   },
   "ミナモシティ": {
     "en": "Lilycove_City",
     "map": "Lilycove_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Lilycove_City.png"
-      },
-      {
-        "ja": "民宿モナミ",
-        "img": "Cove_Lily_Motel.png"
-      },
-      {
-        "ja": "ポケモントレーナーファンクラブ",
+    "appearance": {
+      "パノラマ": { "img": "Lilycove_City.png" },
+      "民宿モナミ": { "img": "Cove_Lily_Motel.png" },
+      "ポケモントレーナーファンクラブ": {
         "img": "Lilycove_Trainer_Fan_Club_E.png"
       },
-      {
-        "ja": "ミナモ美術館",
-        "img": "Lilycove_Museum.png"
-      }
-    ]
+      "ミナモ美術館": { "img": "Lilycove_Museum.png" }
+    }
   },
   "トクサネシティ": {
     "en": "Mossdeep_City",
     "map": "Mossdeep_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Mossdeep_City.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Mossdeep_City.png" } }
   },
   "ルネシティ": {
     "en": "Sootopolis_City",
     "map": "Sootopolis_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Sootopolis_City.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Sootopolis_City_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Sootopolis_City.png" },
+      "海底": { "img": "Sootopolis_City_underwater.png" }
+    }
   },
   "サイユウシティ": {
     "en": "Ever_Grande_City",
     "map": "Ever_Grande_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Ever_Grande_City.png"
-      },
-      {
-        "ja": "ポケモンセンター",
-        "img": "Ever_Grande_City_League_Lobby.png"
-      },
-      {
-        "ja": "四天王1",
-        "img": "Sidney_room.png"
-      },
-      {
-        "ja": "四天王2",
-        "img": "Phoebe_room.png"
-      },
-      {
-        "ja": "四天王3",
-        "img": "Glacia_room.png"
-      },
-      {
-        "ja": "四天王4",
-        "img": "Drake_room.png"
-      },
-      {
-        "ja": "チャンピオン",
-        "img": "Champion_Wallace_room.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Ever_Grande_City.png" },
+      "ポケモンセンター": { "img": "Ever_Grande_City_League_Lobby.png" },
+      "四天王1": { "img": "Sidney_room.png" },
+      "四天王2": { "img": "Phoebe_room.png" },
+      "四天王3": { "img": "Glacia_room.png" },
+      "四天王4": { "img": "Drake_room.png" },
+      "チャンピオン": { "img": "Champion_Wallace_room.png" }
+    }
   },
   "１０１番道路": {
     "en": "Route_101",
     "map": "Route_101.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_101.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_101.png" } }
   },
   "１０２番道路": {
     "en": "Route_102",
     "map": "Route_102.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_102.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_102.png" } }
   },
   "１０３番道路": {
     "en": "Route_103",
     "map": "Route_103.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_103.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_103.png" } }
   },
   "１０４番道路": {
     "en": "Route_104",
     "map": "Route_104.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_104.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_104.png" } }
   },
   "１０５番水道": {
     "en": "Route_105",
     "map": "Route_105.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_105.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_105_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_105.png" },
+      "海底": { "img": "Route_105_underwater.png" }
+    }
   },
   "１０６番水道": {
     "en": "Route_106",
     "map": "Route_106.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_106.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_106.png" } }
   },
   "１０７番水道": {
     "en": "Route_107",
     "map": "Route_107.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_107.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_107.png" } }
   },
   "１０８番水道": {
     "en": "Route_108",
     "map": "Route_108.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_108.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_108.png" } }
   },
   "１０９番水道": {
     "en": "Route_109",
     "map": "Route_109.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_109.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_109.png" } }
   },
   "１１０番道路": {
     "en": "Route_110",
     "map": "Route_110.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_110.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_110.png" } }
   },
   "１１１番道路": {
     "en": "Route_111",
     "map": "Route_111.png",
-    "appearance": [
-      {
-        "ja": "パノラマ2",
-        "img": "Route_111.png"
-      }
-    ]
+    "appearance": { "パノラマ2": { "img": "Route_111.png" } }
   },
   "１１２番道路": {
     "en": "Route_112",
     "map": "Route_112.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_112.png"
-      },
-      {
-        "ja": "ロープウェイ受付",
-        "img": "Cable_Car.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_112.png" },
+      "ロープウェイ受付": { "img": "Cable_Car.png" }
+    }
   },
   "１１３番道路": {
     "en": "Route_113",
     "map": "Route_113.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_113.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_113.png" } }
   },
   "１１４番道路": {
     "en": "Route_114",
     "map": "Route_114.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_114.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_114.png" } }
   },
   "１１５番道路": {
     "en": "Route_115",
     "map": "Route_115.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_115.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_115.png" } }
   },
   "１１６番道路": {
     "en": "Route_116",
     "map": "Route_116.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_116.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_116.png" } }
   },
   "１１７番道路": {
     "en": "Route_117",
     "map": "Route_117.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_117.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_117.png" } }
   },
   "１１８番道路": {
     "en": "Route_118",
     "map": "Route_118.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_118.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_118.png" } }
   },
   "１１９番道路": {
     "en": "Route_119",
     "map": "Route_119.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_119.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_119.png" } }
   },
   "１２０番道路": {
     "en": "Route_120",
     "map": "Route_120.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_120.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_120.png" } }
   },
   "１２１番道路": {
     "en": "Route_121",
     "map": "Route_121.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_121.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_121.png" } }
   },
   "１２２番水道": {
     "en": "Route_122",
     "map": "Route_122.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_122.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_122.png" } }
   },
   "１２３番道路": {
     "en": "Route_123",
     "map": "Route_123.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_123.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_123.png" } }
   },
   "１２４番水道": {
     "en": "Route_124",
     "map": "Route_124.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_124.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_124_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_124.png" },
+      "海底": { "img": "Route_124_underwater.png" }
+    }
   },
   "１２５番水道": {
     "en": "Route_125",
     "map": "Route_125.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_125.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_125_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_125.png" },
+      "海底": { "img": "Route_125_underwater.png" }
+    }
   },
   "１２６番水道": {
     "en": "Route_126",
     "map": "Route_126.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_126.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_126_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_126.png" },
+      "海底": { "img": "Route_126_underwater.png" }
+    }
   },
   "１２７番水道": {
     "en": "Route_127",
     "map": "Route_127.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_127.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_127_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_127.png" },
+      "海底": { "img": "Route_127_underwater.png" }
+    }
   },
   "１２８番水道": {
     "en": "Route_128",
     "map": "Route_128.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_128.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_128_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_128.png" },
+      "海底": { "img": "Route_128_underwater.png" }
+    }
   },
   "１２９番水道": {
     "en": "Route_129",
     "map": "Route_129.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_129.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_129_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_129.png" },
+      "海底": { "img": "Route_129_underwater.png" }
+    }
   },
   "１３０番水道": {
     "en": "Route_130",
     "map": "Route_130.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_130.png"
-      },
-      {
-        "ja": "パノラマ（マボロシじま）",
-        "img": "Route_130_Mirage_Island.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_130.png" },
+      "パノラマ（マボロシじま）": { "img": "Route_130_Mirage_Island.png" }
+    }
   },
   "１３１番水道": {
     "en": "Route_131",
     "map": "Route_131.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_131.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_131.png" } }
   },
   "１３２番水道": {
     "en": "Route_132",
     "map": "Route_132.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_132.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_132.png" } }
   },
   "１３３番水道": {
     "en": "Route_133",
     "map": "Route_133.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_133.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_133.png" } }
   },
   "１３４番水道": {
     "en": "Route_134",
     "map": "Route_134.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_134.png"
-      },
-      {
-        "ja": "海底",
-        "img": "Route_134_underwater.png"
-      },
-      {
-        "ja": "おふれの石室",
-        "img": "Sealed_Chamber_underwater.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_134.png" },
+      "海底": { "img": "Route_134_underwater.png" },
+      "おふれの石室": { "img": "Sealed_Chamber_underwater.png" }
+    }
   },
   "石の洞窟": {
     "en": "Granite_Cave",
     "map": "Granite_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Granite_Cave.png"
-      },
-      {
-        "ja": "1F 入口",
-        "img": "Granite_Cave_1F_entrance.png"
-      },
-      {
-        "ja": "1F",
-        "img": "Granite_Cave_1F.png"
-      },
-      {
-        "ja": "BF1",
-        "img": "Granite_Cave_B1F.png"
-      },
-      {
-        "ja": "BF2",
-        "img": "Granite_Cave_B2F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Granite_Cave.png" },
+      "1F 入口": { "img": "Granite_Cave_1F_entrance.png" },
+      "1F": { "img": "Granite_Cave_1F.png" },
+      "BF1": { "img": "Granite_Cave_B1F.png" },
+      "BF2": { "img": "Granite_Cave_B2F.png" }
+    }
   },
   "えんとつ山": {
     "en": "Mt._Chimney",
     "map": "Mt_Chimney.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Mt_Chimney.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Mt_Chimney.png" } }
   },
   "サファリゾーン（ホウエン）": {
     "en": "Safari_Zone_Hoenn",
     "map": "Safari_Zone_Hoenn.png",
-    "appearance": [
-      {
-        "ja": "拡張前",
-        "img": "Safari_Zone_Hoenn.png"
-      },
-      {
-        "ja": "拡張後",
-        "img": "Safari_Zone_Hoenn_expanded.png"
-      },
-      {
-        "ja": "エリア別",
-        "img": "Safari_Zone_Hoenn_numbered.png"
-      }
-    ]
+    "appearance": {
+      "拡張前": { "img": "Safari_Zone_Hoenn.png" },
+      "拡張後": { "img": "Safari_Zone_Hoenn_expanded.png" },
+      "エリア別": { "img": "Safari_Zone_Hoenn_numbered.png" }
+    }
   },
-
   "バトルフロンティア": {
     "en": "Battle_Frontier",
     "map": "Battle_Frontier.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Battle_Frontier.png"
-      },
-      {
-        "ja": "バトルファクトリー",
-        "img": "Battle_Factory_E.png"
-      },
-      {
-        "ja": "バトルアリーナ",
-        "img": "Battle_Arena_E.png"
-      },
-      {
-        "ja": "バトルドーム",
-        "img": "Battle_Dome_E.png"
-      },
-      {
-        "ja": "バトルチューブ",
-        "img": "Battle_Pike_E.png"
-      },
-      {
-        "ja": "バトルパレス",
-        "img": "Battle_Palace_E.png"
-      },
-      {
-        "ja": "バトルピラミッド",
-        "img": "Battle_Pyramid_E.png"
-      },
-      {
-        "ja": "バトルタワー",
-        "img": "Battle_Tower_E.png"
-      },
-      {
-        "ja": "ランキングホール",
-        "img": "Record_Hall_E.png"
-      },
-      {
-        "ja": "ひきかえサービスコーナー",
+    "appearance": {
+      "パノラマ": { "img": "Battle_Frontier.png" },
+      "バトルファクトリー": { "img": "Battle_Factory_E.png" },
+      "バトルアリーナ": { "img": "Battle_Arena_E.png" },
+      "バトルドーム": { "img": "Battle_Dome_E.png" },
+      "バトルチューブ": { "img": "Battle_Pike_E.png" },
+      "バトルパレス": { "img": "Battle_Palace_E.png" },
+      "バトルピラミッド": { "img": "Battle_Pyramid_E.png" },
+      "バトルタワー": { "img": "Battle_Tower_E.png" },
+      "ランキングホール": { "img": "Record_Hall_E.png" },
+      "ひきかえサービスコーナー": {
         "img": "Battle_Point_Exchange_Service_Corner_E.png"
       },
-      {
-        "ja": "ひきかえサービスコーナー（内部）",
+      "ひきかえサービスコーナー（内部）": {
         "img": "Exchange_Service_Corner_interior_E.png"
       }
-    ]
+    }
   },
   "トウカの森": {
     "en": "Petalburg_Woods",
     "map": "Petalburg_Woods.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Petalburg_Woods.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Petalburg_Woods.png" } }
   },
   "カナシダトンネル": {
     "en": "Rusturf_Tunnel",
     "map": "Rusturf_Tunnel.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Rusturf_Tunnel.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Rusturf_Tunnel.png" } }
   },
   "すてられ船": {
     "en": "Abandoned_Ship",
     "map": "Abandoned_Ship.png",
-    "appearance": [
-      {
-        "ja": "入口",
-        "img": "Abandoned_Ship_RSE.png"
-      },
-      {
-        "ja": "パノラマ",
-        "img": "Abandoned_Ship_exterior.png"
-      },
-      {
-        "ja": "2F",
-        "img": "Abandoned_Ship_2F_RSE.png"
-      },
-      {
-        "ja": "1F",
-        "img": "Abandoned_Ship_1F_and_rooms.png"
-      },
-      {
-        "ja": "BF1",
-        "img": "Abandoned_Ship_B1F_and_rooms.png"
-      },
-      {
-        "ja": "UF",
-        "img": "Abandoned_Ship_UF.png"
-      },
-      {
-        "ja": "HF",
-        "img": "Abandoned_Ship_HF_and_rooms.png"
-      }
-    ]
+    "appearance": {
+      "入口": { "img": "Abandoned_Ship_RSE.png" },
+      "パノラマ": { "img": "Abandoned_Ship_exterior.png" },
+      "2F": { "img": "Abandoned_Ship_2F_RSE.png" },
+      "1F": { "img": "Abandoned_Ship_1F_and_rooms.png" },
+      "BF1": { "img": "Abandoned_Ship_B1F_and_rooms.png" },
+      "UF": { "img": "Abandoned_Ship_UF.png" },
+      "HF": { "img": "Abandoned_Ship_HF_and_rooms.png" }
+    }
   },
   "ニューキンセツ": {
     "en": "New_Mauville",
     "map": "New_Mauville.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "New_Mauville.png"
-      },
-      {
-        "ja": "入口",
-        "img": "New_Mauville_entrance_E.png"
-      },
-      {
-        "ja": "外観",
-        "img": "New_Mauville_outside_E.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "New_Mauville.png" },
+      "入口": { "img": "New_Mauville_entrance_E.png" },
+      "外観": { "img": "New_Mauville_outside_E.png" }
+    }
   },
   "流星の滝": {
     "en": "Meteor_Falls",
     "map": "Meteor_Falls.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Meteor_Falls_1F1R.png"
-      },
-      {
-        "ja": "1F-2R",
-        "img": "Meteor_Falls_1F2R.png"
-      },
-      {
-        "ja": "B1F-R1",
-        "img": "Meteor_Falls_B1F_R1.png"
-      },
-      {
-        "ja": "BF1-R2",
-        "img": "Meteor_Falls_B1F_R2.png"
-      },
-      {
-        "ja": "ダイゴ部屋",
-        "img": "Meteor_Falls_Steven_Cave.png"
-      },
-      {
-        "ja": "外観",
-        "img": "Meteor_Falls_exterior.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Meteor_Falls_1F1R.png" },
+      "1F-2R": { "img": "Meteor_Falls_1F2R.png" },
+      "B1F-R1": { "img": "Meteor_Falls_B1F_R1.png" },
+      "BF1-R2": { "img": "Meteor_Falls_B1F_R2.png" },
+      "ダイゴ部屋": { "img": "Meteor_Falls_Steven_Cave.png" },
+      "外観": { "img": "Meteor_Falls_exterior.png" }
+    }
   },
   "おくりび山": {
     "en": "Mt._Pyre",
     "map": "Mt_Pyre.png",
-    "appearance": [
-      {
-        "ja": "山頂",
-        "img": "Mt_Pyre_Summit.png"
-      },
-      {
-        "ja": "中腹",
-        "img": "Mt_Pyre_exterior.png"
-      },
-      {
-        "ja": "1F",
-        "img": "Mt_Pyre_1F.png"
-      },
-      {
-        "ja": "2F",
-        "img": "Mt_Pyre_2F.png"
-      },
-      {
-        "ja": "3F",
-        "img": "Mt_Pyre_3F.png"
-      },
-      {
-        "ja": "4F",
-        "img": "Mt_Pyre_4F.png"
-      },
-      {
-        "ja": "5F",
-        "img": "Mt_Pyre_5F.png"
-      },
-      {
-        "ja": "6F",
-        "img": "Mt_Pyre_6F.png"
-      }
-    ]
+    "appearance": {
+      "山頂": { "img": "Mt_Pyre_Summit.png" },
+      "中腹": { "img": "Mt_Pyre_exterior.png" },
+      "1F": { "img": "Mt_Pyre_1F.png" },
+      "2F": { "img": "Mt_Pyre_2F.png" },
+      "3F": { "img": "Mt_Pyre_3F.png" },
+      "4F": { "img": "Mt_Pyre_4F.png" },
+      "5F": { "img": "Mt_Pyre_5F.png" },
+      "6F": { "img": "Mt_Pyre_6F.png" }
+    }
   },
   "アクア団アジト": {
     "en": "Team_Aqua_Hideout",
     "map": "Team_Aqua_Hideout.png",
-    "appearance": [
-      {
-        "ja": "外観",
-        "img": "Lilycove_Hideout_RSE.png"
-      },
-      {
-        "ja": "1F",
-        "img": "Aqua_Hideout_1F_SE.png"
-      },
-      {
-        "ja": "BF1",
-        "img": "Aqua_Hideout_B1F_SE.png"
-      },
-      {
-        "ja": "BF2",
-        "img": "Aqua_Hideout_B2F_SE.png"
-      }
-    ]
+    "appearance": {
+      "外観": { "img": "Lilycove_Hideout_RSE.png" },
+      "1F": { "img": "Aqua_Hideout_1F_SE.png" },
+      "BF1": { "img": "Aqua_Hideout_B1F_SE.png" },
+      "BF2": { "img": "Aqua_Hideout_B2F_SE.png" }
+    }
   },
   "浅瀬の洞穴": {
     "en": "Shoal_Cave",
     "map": "Shoal_Cave.png",
-    "appearance": [
-      {
-        "ja": "1F 手前（満潮）",
-        "img": "Shoal_Cave_entrance_high_tide.png"
-      },
-      {
-        "ja": "1F 奥（満潮）",
-        "img": "Shoal_Cave_inner_room_high_tide.png"
-      },
-      {
-        "ja": "1F 手前（干潮）",
-        "img": "Shoal_Cave_entrance_low_tide.png"
-      },
-      {
-        "ja": "1F 奥（干潮）",
-        "img": "Shoal_Cave_inner_room_low_tide.png"
-      },
-      {
-        "ja": "BF1 東",
-        "img": "Shoal_Cave_stairs_room.png"
-      },
-      {
-        "ja": "BF1 西",
-        "img": "Shoal_Cave_lower_room.png"
-      },
-      {
-        "ja": "BF2",
-        "img": "Shoal_Cave_ice_room.png"
-      }
-    ]
+    "appearance": {
+      "1F 手前（満潮）": { "img": "Shoal_Cave_entrance_high_tide.png" },
+      "1F 奥（満潮）": { "img": "Shoal_Cave_inner_room_high_tide.png" },
+      "1F 手前（干潮）": { "img": "Shoal_Cave_entrance_low_tide.png" },
+      "1F 奥（干潮）": { "img": "Shoal_Cave_inner_room_low_tide.png" },
+      "BF1 東": { "img": "Shoal_Cave_stairs_room.png" },
+      "BF1 西": { "img": "Shoal_Cave_lower_room.png" },
+      "BF2": { "img": "Shoal_Cave_ice_room.png" }
+    }
   },
   "海底洞窟": {
     "en": "Seafloor_Cavern",
     "map": "Seafloor_Cavern.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Seafloor_Cavern_exterior_RSE.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Submarine_Explorer_1.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Seafloor_Cavern_entrance.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Seafloor_Cavern_R1.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Seafloor_Cavern_R2.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Seafloor_Cavern_R3.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Seafloor_Cavern_R4.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Seafloor_Cavern_R5.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Seafloor_Cavern_R6.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Seafloor_Cavern_R7.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Seafloor_Cavern_R8.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Seafloor_Cavern_end.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Seafloor_Cavern_exterior_RSE.png" },
+      "パノラマ2": { "img": "Seafloor_Cavern_end.png" },
+      "パノラマ3": { "img": "Seafloor_Cavern_entrance.png" },
+      "パノラマ4": { "img": "Seafloor_Cavern_R1.png" },
+      "パノラマ5": { "img": "Seafloor_Cavern_R2.png" },
+      "パノラマ6": { "img": "Seafloor_Cavern_R3.png" },
+      "パノラマ7": { "img": "Seafloor_Cavern_R4.png" },
+      "パノラマ8": { "img": "Seafloor_Cavern_R5.png" },
+      "パノラマ9": { "img": "Seafloor_Cavern_R6.png" },
+      "パノラマ0": { "img": "Seafloor_Cavern_R7.png" },
+      "パノラマ1": { "img": "Seafloor_Cavern_R8.png" }
+    }
   },
   "チャンピオンロード（ホウエン）": {
     "en": "Victory_Road_Hoenn",
     "map": "Victory_Road_Hoenn.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Victory_Road.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Victory_Road_B2F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Victory_Road_B1F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Victory_Road_1F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Victory_Road.png" },
+      "パノラマ2": { "img": "Victory_Road_B2F.png" },
+      "パノラマ3": { "img": "Victory_Road_B1F.png" },
+      "パノラマ4": { "img": "Victory_Road_1F.png" }
+    }
   },
   "マボロシじま": {
     "en": "Mirage_Island",
     "map": "Mirage_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Mirage_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Mirage_Island.png" } }
   },
   "目覚めのほこら": {
     "en": "Cave_of_Origin",
     "map": "Cave_of_Origin.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Cave_of_Origin_exterior_E.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Cave_of_Origin_Entrance.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Cave_of_Origin_1F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Cave_of_Origin_B1F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Cave_of_Origin_B1F_unused.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Cave_of_Origin_B2F_unused.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Cave_of_Origin_B3F_unused.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Cave_of_Origin_exterior_E.png" },
+      "パノラマ2": { "img": "Cave_of_Origin_Entrance.png" },
+      "パノラマ3": { "img": "Cave_of_Origin_1F.png" },
+      "パノラマ4": { "img": "Cave_of_Origin_B1F.png" },
+      "パノラマ5": { "img": "Cave_of_Origin_B1F_unused.png" },
+      "パノラマ6": { "img": "Cave_of_Origin_B2F_unused.png" },
+      "パノラマ7": { "img": "Cave_of_Origin_B3F_unused.png" }
+    }
   },
   "南の孤島": {
     "en": "Southern_Island",
     "map": "Southern_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Southern_Island.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Southern_Island_interior.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Southern_Island.png" },
+      "パノラマ2": { "img": "Southern_Island_interior.png" }
+    }
   },
   "炎の抜け道": {
     "en": "Fiery_Path",
     "map": "Fiery_Path.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Fiery_Path.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Fiery_Path.png" } }
   },
   "デコボコ山道": {
     "en": "Jagged_Pass",
     "map": "Jagged_Pass.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Jagged_Pass_2.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Jagged_Pass.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Jagged_Pass_2.png" },
+      "パノラマ2": { "img": "Jagged_Pass.png" }
+    }
   },
   "おふれの石室": {
     "en": "Sealed_Chamber",
     "map": "Sealed_Chamber.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Sealed_Chamber_2R.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Sealed_Chamber_underwater.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Sealed_Chamber_1R.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Sealed_Chamber_2R.png" },
+      "パノラマ2": { "img": "Sealed_Chamber_underwater.png" },
+      "パノラマ3": { "img": "Sealed_Chamber_1R.png" }
+    }
   },
   "日照りの岩戸": {
     "en": "Scorched_Slab",
     "map": "Scorched_Slab.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Scorched_Slab.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Scorched_Slab_interior.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Scorched_Slab.png" },
+      "パノラマ2": { "img": "Scorched_Slab_interior.png" }
+    }
   },
   "小島の横穴": {
     "en": "Island_Cave",
     "map": "Island_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Island_Cave_interior.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Island_Cave_E.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Island_Cave_interior.png" },
+      "パノラマ2": { "img": "Island_Cave_E.png" }
+    }
   },
   "砂漠遺跡": {
     "en": "Desert_Ruins",
     "map": "Desert_Ruins.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Desert_Ruins_interior.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Desert_Ruins.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Desert_Ruins_interior.png" },
+      "パノラマ2": { "img": "Desert_Ruins.png" }
+    }
   },
   "古代塚": {
     "en": "Ancient_Tomb",
     "map": "Ancient_Tomb.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Ancient_Tomb_interior.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Ancient_Tomb.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Ancient_Tomb_interior.png" },
+      "パノラマ2": { "img": "Ancient_Tomb.png" }
+    }
   },
   "トラックのなか": {
     "en": "Inside_of_Truck",
     "map": "Inside_of_Truck.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Inside_of_Truck_RSE.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Inside_of_Truck_RSE.png" } }
   },
   "空の柱": {
     "en": "Sky_Pillar",
     "map": "Sky_Pillar.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Sky_Pillar_before.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Sky_Pillar_entrance.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Sky_Pillar_1F_before.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Sky_Pillar_2F_before.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Sky_Pillar_3F_before.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Sky_Pillar_4F_before.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Sky_Pillar_5F_before.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Sky_Pillar_6F_before.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Sky_Pillar_after.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Sky_Pillar_1F_after.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Sky_Pillar_2F_after.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Sky_Pillar_3F_after.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Sky_Pillar_4F_after.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Sky_Pillar_5F_after.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Sky_Pillar_6F_after.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Sky_Pillar_before.png" },
+      "パノラマ2": { "img": "Sky_Pillar_3F_after.png" },
+      "パノラマ3": { "img": "Sky_Pillar_4F_after.png" },
+      "パノラマ4": { "img": "Sky_Pillar_5F_after.png" },
+      "パノラマ5": { "img": "Sky_Pillar_6F_after.png" },
+      "パノラマ6": { "img": "Sky_Pillar_4F_before.png" },
+      "パノラマ7": { "img": "Sky_Pillar_5F_before.png" },
+      "パノラマ8": { "img": "Sky_Pillar_6F_before.png" },
+      "パノラマ9": { "img": "Sky_Pillar_after.png" },
+      "パノラマ0": { "img": "Sky_Pillar_1F_after.png" },
+      "パノラマ1": { "img": "Sky_Pillar_2F_after.png" }
+    }
   },
   "ひみつきち": {
     "en": "Secret_Base",
     "map": "Secret_Base.png",
-    "appearance": []
+    "appearance": {}
   },
   "タイドリップ号": {
     "en": "S.S._Tidal",
     "map": "Lilycove_City.png",
-    "appearance": [
-      {
-        "ja": "1F",
-        "img": "SSTidal_1F.png"
-      },
-      {
-        "ja": "1F 部屋",
-        "img": "SSTidal_1F_Rooms.png"
-      },
-      {
-        "ja": "BF1",
-        "img": "SSTidal_B1F.png"
-      }
-    ]
+    "appearance": {
+      "1F": { "img": "SSTidal_1F.png" },
+      "1F 部屋": { "img": "SSTidal_1F_Rooms.png" },
+      "BF1": { "img": "SSTidal_B1F.png" }
+    }
   },
   "マサラタウン": {
     "en": "Pallet_Town",
     "map": "Pallet_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Pallet_Town.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Professor_Oak_Lab_inside.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Red_House_HGSS.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Pallet_Town.png" },
+      "パノラマ2": { "img": "Professor_Oak_Lab_inside.png" },
+      "パノラマ3": { "img": "Red_House_HGSS.png" }
+    }
   },
   "トキワシティ": {
     "en": "Viridian_City",
     "map": "Viridian_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Viridian_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Trainer_House_outside_HGSS.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Viridian_Gym.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Viridian_City.png" },
+      "パノラマ2": { "img": "Trainer_House_outside_HGSS.png" },
+      "パノラマ3": { "img": "Viridian_Gym.png" }
+    }
   },
   "ニビシティ": {
     "en": "Pewter_City",
     "map": "Pewter_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Pewter_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Pewter_Museum_of_Science.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Pewter_Gym.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Pewter_City.png" },
+      "パノラマ2": { "img": "Pewter_Museum_of_Science.png" },
+      "パノラマ3": { "img": "Pewter_Gym.png" }
+    }
   },
   "ハナダシティ": {
     "en": "Cerulean_City",
     "map": "Cerulean_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Cerulean_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Cerulean_Gym.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Cerulean_City_Slowbro_SonicBoom.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Cerulean_City.png" },
+      "パノラマ2": { "img": "Cerulean_Gym.png" },
+      "パノラマ3": { "img": "Cerulean_City_Slowbro_SonicBoom.png" }
+    }
   },
   "シオンタウン": {
     "en": "Lavender_Town",
     "map": "Lavender_Town.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Lavender_Town.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Lavender_Town.png" } }
   },
   "クチバシティ": {
     "en": "Vermilion_City",
     "map": "Vermilion_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Vermilion_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Vermilion_Harbor.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Pokemon_Fan_Club_Interior_FRLG.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Vermilion_Gym_FRLG.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Vermilion_City_port_HGSS.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Vermilion_City.png" },
+      "パノラマ2": { "img": "Vermilion_Harbor.png" },
+      "パノラマ3": { "img": "Pokemon_Fan_Club_Interior_FRLG.png" },
+      "パノラマ4": { "img": "Vermilion_Gym_FRLG.png" },
+      "パノラマ5": { "img": "Vermilion_City_port_HGSS.png" }
+    }
   },
   "タマムシシティ": {
     "en": "Celadon_City",
     "map": "Celadon_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Celadon_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Celadon_Game_Corner_Inside.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Celadon_City.png" },
+      "パノラマ2": { "img": "Celadon_Game_Corner_Inside.png" }
+    }
   },
   "セキチクシティ": {
     "en": "Fuchsia_City",
     "map": "Fuchsia_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Fuchsia_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Move_Deleter.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Fuchsia_Gym.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Fuchsia_City.png" },
+      "パノラマ2": { "img": "Move_Deleter.png" },
+      "パノラマ3": { "img": "Fuchsia_Gym.png" }
+    }
   },
   "グレン島グレンタウン": {
     "en": "Cinnabar_Island",
     "map": "Cinnabar_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Cinnabar_Island.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Cinnabar_Gym.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Cinnabar_Island.png" },
+      "パノラマ2": { "img": "Cinnabar_Gym.png" }
+    }
   },
   "セキエイこうげん": {
     "en": "Indigo_Plateau",
     "map": "Indigo_Plateau.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Indigo_Plateau.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Indigo_Plateau_Center.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Lorelei_Room.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Will_Room.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Bruno_Room.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Koga_Room.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Agatha_Room.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Lance_Room.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Karen_Room.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Champion_Room.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Indigo_Plateau.png" },
+      "パノラマ2": { "img": "Indigo_Plateau_Center.png" },
+      "パノラマ3": { "img": "Lorelei_Room.png" },
+      "パノラマ4": { "img": "Will_Room.png" },
+      "パノラマ5": { "img": "Bruno_Room.png" },
+      "パノラマ6": { "img": "Koga_Room.png" },
+      "パノラマ7": { "img": "Agatha_Room.png" },
+      "パノラマ8": { "img": "Lance_Room.png" },
+      "パノラマ9": { "img": "Karen_Room.png" },
+      "パノラマ0": { "img": "Champion_Room.png" }
+    }
   },
   "ヤマブキシティ": {
     "en": "Saffron_City",
     "map": "Saffron_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Saffron_City.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Fighting_Dojo.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Mr_Psychic_House_FRLG.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Mr_Psychic_House_HGSS.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Saffron_Trainer_Fan_Club_interior_FRLG.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Saffron_Gym.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Saffron_City_unused.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Saffron_City.png" },
+      "パノラマ2": { "img": "Fighting_Dojo.png" },
+      "パノラマ3": { "img": "Mr_Psychic_House_FRLG.png" },
+      "パノラマ4": { "img": "Mr_Psychic_House_HGSS.png" },
+      "パノラマ5": { "img": "Saffron_Trainer_Fan_Club_interior_FRLG.png" },
+      "パノラマ6": { "img": "Saffron_Gym.png" },
+      "パノラマ7": { "img": "Saffron_City_unused.png" }
+    }
   },
   "４番道路": {
     "en": "Route_4",
     "map": "Route_4.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_4.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Magikarp_salesman.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_4.png" },
+      "パノラマ2": { "img": "Magikarp_salesman.png" }
+    }
   },
   "１０番道路": {
     "en": "Route_10",
     "map": "Route_10.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_10.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_10.png" } }
   },
   "１番道路": {
     "en": "Route_1",
     "map": "Route_1.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_1.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Pok%C3%A9_Mart_assistant_Route_1.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_1.png" },
+      "パノラマ2": { "img": "Pok%C3%A9_Mart_assistant_Route_1.png" }
+    }
   },
   "２番道路": {
     "en": "Route_2",
     "map": "Route_2.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_2.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_2.png" } }
   },
   "３番道路": {
     "en": "Route_3",
     "map": "Route_3.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_3.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Route_3_meteorites.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_3.png" },
+      "パノラマ2": { "img": "Route_3_meteorites.png" }
+    }
   },
   "５番道路": {
     "en": "Route_5",
     "map": "Route_5.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_5.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Day_Care_1_FRLG.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_5.png" },
+      "パノラマ2": { "img": "Day_Care_1_FRLG.png" }
+    }
   },
   "６番道路": {
     "en": "Route_6",
     "map": "Route_6.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_6.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_6.png" } }
   },
   "７番道路": {
     "en": "Route_7",
     "map": "Route_7.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_7.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_7.png" } }
   },
   "８番道路": {
     "en": "Route_8",
     "map": "Route_8.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_8.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_8.png" } }
   },
   "９番道路": {
     "en": "Route_9",
     "map": "Route_9.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_9.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_9.png" } }
   },
   "１１番道路": {
     "en": "Route_11",
     "map": "Route_11.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_11.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_11.png" } }
   },
   "１２番道路": {
     "en": "Route_12",
     "map": "Route_12.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_12.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Route_12_Snorlax.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_12.png" },
+      "パノラマ2": { "img": "Route_12_Snorlax.png" }
+    }
   },
   "１３番道路": {
     "en": "Route_13",
     "map": "Route_13.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_13.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_13.png" } }
   },
   "１４番道路": {
     "en": "Route_14",
     "map": "Route_14.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_14.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_14.png" } }
   },
   "１５番道路": {
     "en": "Route_15",
     "map": "Route_15.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_15.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_15.png" } }
   },
   "１６番道路": {
     "en": "Route_16",
     "map": "Route_16.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_16.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Route_16_Snorlax.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Route_16.png" },
+      "パノラマ2": { "img": "Route_16_Snorlax.png" }
+    }
   },
   "１７番道路": {
     "en": "Route_17",
     "map": "Route_17.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_17.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_17.png" } }
   },
   "１８番道路": {
     "en": "Route_18",
     "map": "Route_18.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_18.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_18.png" } }
   },
   "１９番水道": {
     "en": "Route_19",
     "map": "Route_19.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_19.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_19.png" } }
   },
   "２０番水道": {
     "en": "Route_20",
     "map": "Route_20.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_20.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_20.png" } }
   },
   "２１番水道": {
     "en": "Route_21",
     "map": "Route_21.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_21.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_21.png" } }
   },
   "２２番道路": {
     "en": "Route_22",
     "map": "Route_22.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_22.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_22.png" } }
   },
   "２３番道路": {
     "en": "Route_23",
     "map": "Route_23.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_23.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_23.png" } }
   },
   "２４番道路": {
     "en": "Route_24",
     "map": "Route_24.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_24.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_24.png" } }
   },
   "２５番道路": {
     "en": "Route_25",
     "map": "Route_25.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Route_25.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Route_25.png" } }
   },
   "トキワの森": {
     "en": "Viridian_Forest",
     "map": "Viridian_Forest.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Viridian_Forest.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Viridian_Forest.png" } }
   },
   "お月見山": {
     "en": "Mt._Moon",
     "map": "Mt._Moon.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Mt_Moon_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Mt_Moon_B1F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Mt_Moon_B2F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Mt_Moon_1F.png" },
+      "パノラマ2": { "img": "Mt_Moon_B1F.png" },
+      "パノラマ3": { "img": "Mt_Moon_B2F.png" }
+    }
   },
   "サント・アンヌ号": {
     "en": "S.S._Anne",
     "map": "S.S._Anne.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "SS_Anne_Basement.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "SS_Anne_Basement_Rooms.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "SS_Anne_1F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "SS_Anne_1F_Rooms.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "SS_Anne_2F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "SS_Anne_2F_Rooms.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "SS_Anne_3F.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "S_S_Anne_truck_FRLG.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "SS_Anne_Basement.png" },
+      "パノラマ2": { "img": "SS_Anne_Basement_Rooms.png" },
+      "パノラマ3": { "img": "SS_Anne_1F.png" },
+      "パノラマ4": { "img": "SS_Anne_1F_Rooms.png" },
+      "パノラマ5": { "img": "SS_Anne_2F.png" },
+      "パノラマ6": { "img": "SS_Anne_2F_Rooms.png" },
+      "パノラマ7": { "img": "SS_Anne_3F.png" },
+      "パノラマ8": { "img": "S_S_Anne_truck_FRLG.png" }
+    }
   },
   "地下通路（５ー６)": {
     "en": "Underground_Path_(Routes_5-6)",
     "map": "Underground_Path_5-6.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Underground_Path_5-6.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Underground_Path_5-6.png" } }
   },
   "地下通路（７ー８）": {
     "en": "Underground_Path_(Routes_7-8)",
     "map": "Underground_Path_7-8.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Underground_Path_7-8.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Underground_Path_7-8.png" } }
   },
   "ディグダの穴": {
     "en": "Diglett%27s_Cave",
     "map": "Digletts_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Diglett_Cave.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Diglett_Cave_Entrance_Route_2.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Diglett_Cave_Entrance_Route_11.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Diglett_Cave.png" },
+      "パノラマ2": { "img": "Diglett_Cave_Entrance_Route_2.png" },
+      "パノラマ3": { "img": "Diglett_Cave_Entrance_Route_11.png" }
+    }
   },
   "チャンピオンロード（カントー）": {
     "en": "Victory_Road_(Kanto)",
     "map": "Victory_Road_Kanto.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Victory_Road_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Victory_Road_2F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Victory_Road_3F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Victory_Road_1F.png" },
+      "パノラマ2": { "img": "Victory_Road_2F.png" },
+      "パノラマ3": { "img": "Victory_Road_3F.png" }
+    }
   },
   "ロケット団アジト": {
     "en": "Team_Rocket_Hideout",
     "map": "Celadon_City.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Rocket_Hideout_B1F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Rocket_Hideout_B2F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Rocket_Hideout_B3F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Rocket_Hideout_B4F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Rocket_Hideout_B1F.png" },
+      "パノラマ3": { "img": "Rocket_Hideout_B2F.png" },
+      "パノラマ4": { "img": "Rocket_Hideout_B3F.png" },
+      "パノラマ5": { "img": "Rocket_Hideout_B4F.png" }
+    }
   },
   "シルフカンパニー": {
     "en": "Silph_Co.",
     "map": "Silph_Co..png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Silph_Co_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Silph_Co_2F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Silph_Co_3F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Silph_Co_4F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Silph_Co_5F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Silph_Co_6F.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Silph_Co_7F.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Silph_Co_8F.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Silph_Co_9F.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Silph_Co_10F.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Silph_Co_11F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Silph_Co_FRLG.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Silph_Co_HGSS.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Silph_Co_1F.png" },
+      "パノラマ2": { "img": "Silph_Co_FRLG.png" },
+      "パノラマ3": { "img": "Silph_Co_HGSS.png" },
+      "パノラマ4": { "img": "Silph_Co_4F.png" },
+      "パノラマ5": { "img": "Silph_Co_5F.png" },
+      "パノラマ6": { "img": "Silph_Co_6F.png" },
+      "パノラマ7": { "img": "Silph_Co_7F.png" },
+      "パノラマ8": { "img": "Silph_Co_8F.png" },
+      "パノラマ9": { "img": "Silph_Co_9F.png" },
+      "パノラマ0": { "img": "Silph_Co_10F.png" },
+      "パノラマ1": { "img": "Silph_Co_11F.png" }
+    }
   },
   "ポケモン屋敷": {
     "en": "Pokemon_Mansion_(Kanto)",
     "map": "Cinnabar_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Pokemon_Mansion_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Pokemon_Mansion_2F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Pokemon_Mansion_3F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Pokemon_Mansion_B1F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Pokemon_Mansion_FRLG.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Pokemon_Mansion_1F.png" },
+      "パノラマ2": { "img": "Pokemon_Mansion_2F.png" },
+      "パノラマ3": { "img": "Pokemon_Mansion_3F.png" },
+      "パノラマ4": { "img": "Pokemon_Mansion_B1F.png" },
+      "パノラマ5": { "img": "Pokemon_Mansion_FRLG.png" }
+    }
   },
   "サファリゾーン（カントー）": {
     "en": "Safari_Zone_Kanto",
     "map": "Safari_Zone_Kanto.png",
-    "appearance": [
-      {
-        "ja": "中央",
-        "img": "Safari_Zone_Kanto_entrance.png"
-      },
-      {
-        "ja": "エリア1",
-        "img": "Safari_Zone_Kanto_area_1.png"
-      },
-      {
-        "ja": "エリア2",
-        "img": "Safari_Zone_Kanto_area_2.png"
-      },
-      {
-        "ja": "エリア3",
-        "img": "Safari_Zone_Kanto_area_3.png"
-      }
-    ]
+    "appearance": {
+      "中央": { "img": "Safari_Zone_Kanto_entrance.png" },
+      "エリア1": { "img": "Safari_Zone_Kanto_area_1.png" },
+      "エリア2": { "img": "Safari_Zone_Kanto_area_2.png" },
+      "エリア3": { "img": "Safari_Zone_Kanto_area_3.png" }
+    }
   },
   "イワヤマトンネル": {
     "en": "Rock_Tunnel",
     "map": "Rock_Tunnel.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Rock_Tunnel_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Rock_Tunnel_B1F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Rock_Tunnel_1.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Rock_Tunnel_2.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Rock_Tunnel_1F.png" },
+      "パノラマ2": { "img": "Rock_Tunnel_B1F.png" },
+      "パノラマ3": { "img": "Rock_Tunnel_1.png" },
+      "パノラマ4": { "img": "Rock_Tunnel_2.png" }
+    }
   },
   "双子島": {
     "en": "Seafoam_Islands",
     "map": "Seafoam_Islands.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Seafoam_Islands_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Articuno_Seafoam_Islands_FRLG.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Seafoam_Islands_B1F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Seafoam_Islands_B2F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Seafoam_Islands_B3F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Seafoam_Islands_B4F.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Cinnabar_Gym.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Seafoam_Islands_1F.png" },
+      "パノラマ2": { "img": "Articuno_Seafoam_Islands_FRLG.png" },
+      "パノラマ3": { "img": "Seafoam_Islands_B1F.png" },
+      "パノラマ4": { "img": "Seafoam_Islands_B2F.png" },
+      "パノラマ5": { "img": "Seafoam_Islands_B3F.png" },
+      "パノラマ6": { "img": "Seafoam_Islands_B4F.png" },
+      "パノラマ7": { "img": "Cinnabar_Gym.png" }
+    }
   },
   "ポケモンタワー": {
     "en": "Pokemon_Tower",
     "map": "Pokemon_Tower.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Pokemon_Tower_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Pokemon_Tower_2F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Pokemon_Tower_3F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Pokemon_Tower_4F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Pokemon_Tower_5F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Pokemon_Tower_6F.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Pokemon_Tower_7F.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Lavender_Radio_Tower_1F.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Pokemon_Tower_FRLG.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Lavender_Radio_Tower_HGSS.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Pokemon_Tower_1F.png" },
+      "パノラマ2": { "img": "Pokemon_Tower_2F.png" },
+      "パノラマ3": { "img": "Pokemon_Tower_3F.png" },
+      "パノラマ4": { "img": "Pokemon_Tower_4F.png" },
+      "パノラマ5": { "img": "Pokemon_Tower_5F.png" },
+      "パノラマ6": { "img": "Pokemon_Tower_6F.png" },
+      "パノラマ7": { "img": "Pokemon_Tower_7F.png" },
+      "パノラマ8": { "img": "Lavender_Radio_Tower_1F.png" },
+      "パノラマ9": { "img": "Pokemon_Tower_FRLG.png" },
+      "パノラマ0": { "img": "Lavender_Radio_Tower_HGSS.png" }
+    }
   },
   "ハナダの洞窟": {
     "en": "Cerulean_Cave",
     "map": "Cerulean_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Cerulean_Cave_1F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Cerulean_Cave_2F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Cerulean_Cave_B1F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Cerulean_Cave_1F.png" },
+      "パノラマ2": { "img": "Cerulean_Cave_2F.png" },
+      "パノラマ3": { "img": "Cerulean_Cave_B1F.png" }
+    }
   },
   "無人発電所": {
     "en": "Power_Plant",
     "map": "Power_Plant.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Power_Plant_interior.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Power_Plant_exterior_FRLG.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Power_Plant_exterior_HGSS.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Power_Plant_interior.png" },
+      "パノラマ2": { "img": "Power_Plant_exterior_FRLG.png" },
+      "パノラマ3": { "img": "Power_Plant_exterior_HGSS.png" }
+    }
   },
   "１のしま": {
     "en": "One_Island",
     "map": "One_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "One_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "One_Island.png" } }
   },
   "２のしま": {
     "en": "Two_Island",
     "map": "Two_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Two_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Two_Island.png" } }
   },
   "３のしま": {
     "en": "Three_Island",
     "map": "Three_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Three_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Three_Island.png" } }
   },
   "４のしま": {
     "en": "Four_Island",
     "map": "Four_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Four_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Four_Island.png" } }
   },
   "５のしま": {
     "en": "Five_Island",
     "map": "Five_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Five_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Five_Island.png" } }
   },
   "６のしま": {
     "en": "Six_Island",
     "map": "Six_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Six_Island.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Six_Island.png" } }
   },
   "７のしま": {
     "en": "Seven_Island",
     "map": "Seven_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Seven_Island.png"
-      }
-    ]
-  },
-  "ほてりのみち": {
-    "en": "Kindle_Road",
-    "map": "Kindle_Road.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Kindle_Road.png"
-      }
-    ]
-  },
-  "たからのはま": {
-    "en": "Treasure_Beach",
-    "map": "Treasure_Beach.png",
-    "appearance": []
-  },
-  "きわのみさき": {
-    "en": "Cape_Brink",
-    "map": "Cape_Brink.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Cape_Brink.png"
-      }
-    ]
-  },
-  "きずなばし": {
-    "en": "Bond_Bridge",
-    "map": "Bond_Bridge.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Bond_Bridge.png"
-      }
-    ]
-  },
-  "３のしまみなと": {
-    "en": "Three_Isle_Port",
-    "map": "Three_Isle_Port.png",
-    "appearance": []
-  },
-  "６ばん ななしま": {
-    "en": "Sevii_Isle_6",
-    "map": "Sevii_Isle_6.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Knot_Island.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Boon_Island.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Four_Island.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Navel_Rock.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Birth_Island.png"
-      }
-    ]
-  },
-  "７ばん ななしま": {
-    "en": "Sevii_Isle_7",
-    "map": "Sevii_Isle_7.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Knot_Island.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Boon_Island.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Four_Island.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Navel_Rock.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Birth_Island.png"
-      }
-    ]
-  },
-  "８ばん ななしま": {
-    "en": "Sevii_Isle_8",
-    "map": "Sevii_Isle_8.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Sevii_Isle_8.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Sevii_Isle_9.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Record_Corner_RSE.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Unused_house_interior.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Unused_Mystery_Trainer_house_unblocked_main_room.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Unused_Safari_Zone_Area_1.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Unused_Safari_Zone_Area_2.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Unused_Safari_Zone_Area_4.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Unused_Batttle_Tower.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Unused_SS_Tidal_hall.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Unused_SS_Tidal_basement.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Unused_SS_Tidal_cabins.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Unused_Hall_of_Fame.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Three_Snowflakes_unused_FRLG.png"
-      }
-    ]
-  },
-  "９ばん ななしま": {
-    "en": "Sevii_Isle_9",
-    "map": "Sevii_Isle_9.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Sevii_Isle_8.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Sevii_Isle_9.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Record_Corner_RSE.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Unused_house_interior.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Unused_Mystery_Trainer_house_unblocked_main_room.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Unused_Safari_Zone_Area_1.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Unused_Safari_Zone_Area_2.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Unused_Safari_Zone_Area_4.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Unused_Batttle_Tower.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Unused_SS_Tidal_hall.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Unused_SS_Tidal_basement.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Unused_SS_Tidal_cabins.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Unused_Hall_of_Fame.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Three_Snowflakes_unused_FRLG.png"
-      }
-    ]
-  },
-  "ゴージャスリゾート": {
-    "en": "Resort_Gorgeous",
-    "map": "Resort_Gorgeous.png",
-    "appearance": []
-  },
-  "みずのめいろ": {
-    "en": "Water_Labyrinth",
-    "map": "Water_Labyrinth.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Water_Labyrinth.png"
-      }
-    ]
-  },
-  "５のしま あきち": {
-    "en": "Five_Isle_Meadow",
-    "map": "Five_Isle_Meadow.png",
-    "appearance": []
-  },
-  "おもいでのとう": {
-    "en": "Memorial_Pillar",
-    "map": "Memorial_Pillar.png",
-    "appearance": []
-  },
-  "はずれのしま": {
-    "en": "Outcast_Island",
-    "map": "Outcast_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Outcast_Island.png"
-      }
-    ]
-  },
-  "みどりのさんぽみち": {
-    "en": "Green_Path",
-    "map": "Green_Path.png",
-    "appearance": []
-  },
-  "みずのさんぽみち": {
-    "en": "Water_Path",
-    "map": "Water_Path.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Water_Path.png"
-      }
-    ]
-  },
-  "いせきのたに": {
-    "en": "Ruin_Valley",
-    "map": "Ruin_Valley.png",
-    "appearance": []
-  },
-  "トレーナータワー": {
-    "en": "Trainer_Tower",
-    "map": "Trainer_Tower.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Trainer_Tower.png"
-      }
-    ]
-  },
-  "けいこくいりぐち": {
-    "en": "Canyon_Entrance",
-    "map": "Canyon_Entrance.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Canyon_Entrance.png"
-      }
-    ]
-  },
-  "しっぽうけいこく": {
-    "en": "Sevault_Canyon",
-    "map": "Sevault_Canyon.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Sevault_Canyon.png"
-      }
-    ]
-  },
-  "アスカナいせき": {
-    "en": "Tanoby_Ruins",
-    "map": "Tanoby_Ruins.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Tanoby_Ruins.png"
-      }
-    ]
-  },
-  "ナナシマ": {
-    "en": "Sevii_Islands",
-    "map": "Sevii_Islands.png",
-    "appearance": [
-      {
-        "ja": "１のしま",
-        "img": "Knot_Island.png"
-      },
-      {
-        "ja": "２のしま",
-        "img": "Boon_Island.png"
-      },
-      {
-        "ja": "４のしま",
-        "img": "Four_Island.png"
-      },
-      {
-        "ja": "へそのいわ",
-        "img": "Navel_Rock.png"
-      },
-      {
-        "ja": "たんじょうのしま",
-        "img": "Birth_Island.png"
-      }
-    ]
-  },
-  "へそのいわ": {
-    "en": "Navel_Rock",
-    "map": "Navel_Rock.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Navel_Rock.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Navel_Rock_Entrance.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Navel_Rock_B1F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Navel_Rock_Crossroad.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Navel_Rock_Ladder_Up.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Navel_Rock_Ladder_Down.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Navel_Rock_Top.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Navel_Rock_Bottom.png"
-      }
-    ]
-  },
-  "ともしびやま": {
-    "en": "Mt._Ember",
-    "map": "Mt._Ember.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Moltres_Mt_Ember_FRLG.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Mt_Ember.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Mt._Ember_Summit.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Mt._Ember_Summit_Path_1F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Mt._Ember_Summit_Path_2F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Mt._Ember_Summit_Path_3F.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Ruby_Path_1F.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Ruby_Path_B1F.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Ruby_Path_B2F.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Ruby_Path_B3F.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Ruby_Path_B4F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Ruby_Path_B5F.png"
-      }
-    ]
-  },
-  "きのみのもり": {
-    "en": "Berry_Forest",
-    "map": "Berry_Forest.png",
-    "appearance": []
-  },
-  "いてだきのどうくつ": {
-    "en": "Icefall_Cave",
-    "map": "Icefall_Cave.png",
-    "appearance": []
-  },
-  "ロケットだんそうこ": {
-    "en": "Rocket_Warehouse",
-    "map": "Rocket_Warehouse.png",
-    "appearance": []
-  },
-  "てんのあな": {
-    "en": "Dotted_Hole",
-    "map": "Dotted_Hole.png",
-    "appearance": []
-  },
-  "かえらずのあな": {
-    "en": "Lost_Cave",
-    "map": "Lost_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Lost_Cave_1F.png"
-      }
-    ]
-  },
-  "しるしのはやし": {
-    "en": "Pattern_Bush",
-    "map": "Pattern_Bush.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Pattern_Bush.png"
-      }
-    ]
-  },
-  "へんげのどうくつ": {
-    "en": "Altering_Cave",
-    "map": "Altering_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Altering_Cave.png"
-      }
-    ]
-  },
-  "３のしま よこあな": {
-    "en": "Three_Isle_Path",
-    "map": "Three_Isle_Path.png",
-    "appearance": []
-  },
-  "アスカナのかぎ": {
-    "en": "Tanoby_Key",
-    "map": "Tanoby_Key.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Tanoby_Key_FRLG.png"
-      }
-    ]
-  },
-  "たんじょうのしま": {
-    "en": "Birth_Island",
-    "map": "Birth_Island.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Birth_Island.png"
-      }
-    ]
-  },
-  "アスカナのせきしつ": {
-    "en": "Viapois_Chamber",
-    "map": "Viapois_Chamber.png",
-    "appearance": []
+    "appearance": { "パノラマ": { "img": "Seven_Island.png" } }
   },
   "ほてりのみち": {
     "en": "Ember_Spa",
     "map": "Ember_Spa.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Kindle_Road.png"
-      }
-    ]
+    "appearance": { "パノラマ": { "img": "Kindle_Road.png" } }
+  },
+  "たからのはま": {
+    "en": "Treasure_Beach",
+    "map": "Treasure_Beach.png",
+    "appearance": {}
+  },
+  "きわのみさき": {
+    "en": "Cape_Brink",
+    "map": "Cape_Brink.png",
+    "appearance": { "パノラマ": { "img": "Cape_Brink.png" } }
+  },
+  "きずなばし": {
+    "en": "Bond_Bridge",
+    "map": "Bond_Bridge.png",
+    "appearance": { "パノラマ": { "img": "Bond_Bridge.png" } }
+  },
+  "３のしまみなと": {
+    "en": "Three_Isle_Port",
+    "map": "Three_Isle_Port.png",
+    "appearance": {}
+  },
+  "６ばん ななしま": {
+    "en": "Sevii_Isle_6",
+    "map": "Sevii_Isle_6.png",
+    "appearance": {
+      "パノラマ": { "img": "Knot_Island.png" },
+      "パノラマ2": { "img": "Boon_Island.png" },
+      "パノラマ3": { "img": "Four_Island.png" },
+      "パノラマ4": { "img": "Navel_Rock.png" },
+      "パノラマ5": { "img": "Birth_Island.png" }
+    }
+  },
+  "７ばん ななしま": {
+    "en": "Sevii_Isle_7",
+    "map": "Sevii_Isle_7.png",
+    "appearance": {
+      "パノラマ": { "img": "Knot_Island.png" },
+      "パノラマ2": { "img": "Boon_Island.png" },
+      "パノラマ3": { "img": "Four_Island.png" },
+      "パノラマ4": { "img": "Navel_Rock.png" },
+      "パノラマ5": { "img": "Birth_Island.png" }
+    }
+  },
+  "８ばん ななしま": {
+    "en": "Sevii_Isle_8",
+    "map": "Sevii_Isle_8.png",
+    "appearance": {
+      "パノラマ": { "img": "Sevii_Isle_8.png" },
+      "パノラマ2": { "img": "Unused_SS_Tidal_cabins.png" },
+      "パノラマ3": { "img": "Unused_Hall_of_Fame.png" },
+      "パノラマ4": { "img": "Three_Snowflakes_unused_FRLG.png" },
+      "パノラマ5": {
+        "img": "Unused_Mystery_Trainer_house_unblocked_main_room.png"
+      },
+      "パノラマ6": { "img": "Unused_Safari_Zone_Area_1.png" },
+      "パノラマ7": { "img": "Unused_Safari_Zone_Area_2.png" },
+      "パノラマ8": { "img": "Unused_Safari_Zone_Area_4.png" },
+      "パノラマ9": { "img": "Unused_Batttle_Tower.png" },
+      "パノラマ0": { "img": "Unused_SS_Tidal_hall.png" },
+      "パノラマ1": { "img": "Unused_SS_Tidal_basement.png" }
+    }
+  },
+  "９ばん ななしま": {
+    "en": "Sevii_Isle_9",
+    "map": "Sevii_Isle_9.png",
+    "appearance": {
+      "パノラマ": { "img": "Sevii_Isle_8.png" },
+      "パノラマ2": { "img": "Unused_SS_Tidal_cabins.png" },
+      "パノラマ3": { "img": "Unused_Hall_of_Fame.png" },
+      "パノラマ4": { "img": "Three_Snowflakes_unused_FRLG.png" },
+      "パノラマ5": {
+        "img": "Unused_Mystery_Trainer_house_unblocked_main_room.png"
+      },
+      "パノラマ6": { "img": "Unused_Safari_Zone_Area_1.png" },
+      "パノラマ7": { "img": "Unused_Safari_Zone_Area_2.png" },
+      "パノラマ8": { "img": "Unused_Safari_Zone_Area_4.png" },
+      "パノラマ9": { "img": "Unused_Batttle_Tower.png" },
+      "パノラマ0": { "img": "Unused_SS_Tidal_hall.png" },
+      "パノラマ1": { "img": "Unused_SS_Tidal_basement.png" }
+    }
+  },
+  "ゴージャスリゾート": {
+    "en": "Resort_Gorgeous",
+    "map": "Resort_Gorgeous.png",
+    "appearance": {}
+  },
+  "みずのめいろ": {
+    "en": "Water_Labyrinth",
+    "map": "Water_Labyrinth.png",
+    "appearance": { "パノラマ": { "img": "Water_Labyrinth.png" } }
+  },
+  "５のしま あきち": {
+    "en": "Five_Isle_Meadow",
+    "map": "Five_Isle_Meadow.png",
+    "appearance": {}
+  },
+  "おもいでのとう": {
+    "en": "Memorial_Pillar",
+    "map": "Memorial_Pillar.png",
+    "appearance": {}
+  },
+  "はずれのしま": {
+    "en": "Outcast_Island",
+    "map": "Outcast_Island.png",
+    "appearance": { "パノラマ": { "img": "Outcast_Island.png" } }
+  },
+  "みどりのさんぽみち": {
+    "en": "Green_Path",
+    "map": "Green_Path.png",
+    "appearance": {}
+  },
+  "みずのさんぽみち": {
+    "en": "Water_Path",
+    "map": "Water_Path.png",
+    "appearance": { "パノラマ": { "img": "Water_Path.png" } }
+  },
+  "いせきのたに": {
+    "en": "Ruin_Valley",
+    "map": "Ruin_Valley.png",
+    "appearance": {}
+  },
+  "トレーナータワー": {
+    "en": "Trainer_Tower",
+    "map": "Trainer_Tower.png",
+    "appearance": { "パノラマ": { "img": "Trainer_Tower.png" } }
+  },
+  "けいこくいりぐち": {
+    "en": "Canyon_Entrance",
+    "map": "Canyon_Entrance.png",
+    "appearance": { "パノラマ": { "img": "Canyon_Entrance.png" } }
+  },
+  "しっぽうけいこく": {
+    "en": "Sevault_Canyon",
+    "map": "Sevault_Canyon.png",
+    "appearance": { "パノラマ": { "img": "Sevault_Canyon.png" } }
+  },
+  "アスカナいせき": {
+    "en": "Tanoby_Ruins",
+    "map": "Tanoby_Ruins.png",
+    "appearance": { "パノラマ": { "img": "Tanoby_Ruins.png" } }
+  },
+  "ナナシマ": {
+    "en": "Sevii_Islands",
+    "map": "Sevii_Islands.png",
+    "appearance": {
+      "１のしま": { "img": "Knot_Island.png" },
+      "２のしま": { "img": "Boon_Island.png" },
+      "４のしま": { "img": "Four_Island.png" },
+      "へそのいわ": { "img": "Navel_Rock.png" },
+      "たんじょうのしま": { "img": "Birth_Island.png" }
+    }
+  },
+  "へそのいわ": {
+    "en": "Navel_Rock",
+    "map": "Navel_Rock.png",
+    "appearance": {
+      "パノラマ": { "img": "Navel_Rock.png" },
+      "パノラマ2": { "img": "Navel_Rock_Entrance.png" },
+      "パノラマ3": { "img": "Navel_Rock_B1F.png" },
+      "パノラマ4": { "img": "Navel_Rock_Crossroad.png" },
+      "パノラマ5": { "img": "Navel_Rock_Ladder_Up.png" },
+      "パノラマ6": { "img": "Navel_Rock_Ladder_Down.png" },
+      "パノラマ7": { "img": "Navel_Rock_Top.png" },
+      "パノラマ8": { "img": "Navel_Rock_Bottom.png" }
+    }
+  },
+  "ともしびやま": {
+    "en": "Mt._Ember",
+    "map": "Mt._Ember.png",
+    "appearance": {
+      "パノラマ": { "img": "Moltres_Mt_Ember_FRLG.png" },
+      "パノラマ2": { "img": "Ruby_Path_B5F.png" },
+      "パノラマ3": { "img": "Mt._Ember_Summit.png" },
+      "パノラマ4": { "img": "Mt._Ember_Summit_Path_1F.png" },
+      "パノラマ5": { "img": "Mt._Ember_Summit_Path_2F.png" },
+      "パノラマ6": { "img": "Mt._Ember_Summit_Path_3F.png" },
+      "パノラマ7": { "img": "Ruby_Path_1F.png" },
+      "パノラマ8": { "img": "Ruby_Path_B1F.png" },
+      "パノラマ9": { "img": "Ruby_Path_B2F.png" },
+      "パノラマ0": { "img": "Ruby_Path_B3F.png" },
+      "パノラマ1": { "img": "Ruby_Path_B4F.png" }
+    }
+  },
+  "きのみのもり": {
+    "en": "Berry_Forest",
+    "map": "Berry_Forest.png",
+    "appearance": {}
+  },
+  "いてだきのどうくつ": {
+    "en": "Icefall_Cave",
+    "map": "Icefall_Cave.png",
+    "appearance": {}
+  },
+  "ロケットだんそうこ": {
+    "en": "Rocket_Warehouse",
+    "map": "Rocket_Warehouse.png",
+    "appearance": {}
+  },
+  "てんのあな": {
+    "en": "Dotted_Hole",
+    "map": "Dotted_Hole.png",
+    "appearance": {}
+  },
+  "かえらずのあな": {
+    "en": "Lost_Cave",
+    "map": "Lost_Cave.png",
+    "appearance": { "パノラマ": { "img": "Lost_Cave_1F.png" } }
+  },
+  "しるしのはやし": {
+    "en": "Pattern_Bush",
+    "map": "Pattern_Bush.png",
+    "appearance": { "パノラマ": { "img": "Pattern_Bush.png" } }
+  },
+  "へんげのどうくつ": {
+    "en": "Altering_Cave",
+    "map": "Altering_Cave.png",
+    "appearance": { "パノラマ": { "img": "Altering_Cave.png" } }
+  },
+  "３のしま よこあな": {
+    "en": "Three_Isle_Path",
+    "map": "Three_Isle_Path.png",
+    "appearance": {}
+  },
+  "アスカナのかぎ": {
+    "en": "Tanoby_Key",
+    "map": "Tanoby_Key.png",
+    "appearance": { "パノラマ": { "img": "Tanoby_Key_FRLG.png" } }
+  },
+  "たんじょうのしま": {
+    "en": "Birth_Island",
+    "map": "Birth_Island.png",
+    "appearance": { "パノラマ": { "img": "Birth_Island.png" } }
+  },
+  "アスカナのせきしつ": {
+    "en": "Viapois_Chamber",
+    "map": "Viapois_Chamber.png",
+    "appearance": {}
   },
   "げんえいのとう": {
     "en": "Mirage_Tower",
     "map": "Mirage_Tower.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Mirage_Tower_E.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Mirage_Tower_1F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Mirage_Tower_2F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Mirage_Tower_3F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Mirage_Tower_4F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Mirage_Tower_E.png" },
+      "パノラマ2": { "img": "Mirage_Tower_1F.png" },
+      "パノラマ3": { "img": "Mirage_Tower_2F.png" },
+      "パノラマ4": { "img": "Mirage_Tower_3F.png" },
+      "パノラマ5": { "img": "Mirage_Tower_4F.png" }
+    }
   },
   "さいはてのことう": {
     "en": "Faraway_Island",
     "map": "Faraway_Island.png",
-    "appearance": []
+    "appearance": {}
   },
   "アトリエのあな": {
     "en": "Artisan_Cave",
     "map": "Artisan_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Artisan_Cave_entrance_E.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Artisan_Cave_1F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Artisan_Cave_B1F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Artisan_Cave_entrance_E.png" },
+      "パノラマ2": { "img": "Artisan_Cave_1F.png" },
+      "パノラマ3": { "img": "Artisan_Cave_B1F.png" }
+    }
   },
   "うみのどうくつ": {
     "en": "Marine_Cave",
     "map": "Marine_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Marine_Cave.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Marine_Cave_underwater_entrance.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Marine_Cave_end.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Marine_Cave.png" },
+      "パノラマ2": { "img": "Marine_Cave_underwater_entrance.png" },
+      "パノラマ3": { "img": "Marine_Cave_end.png" }
+    }
   },
   "りくのどうくつ": {
     "en": "Terra_Cave",
     "map": "Terra_Cave.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Terra_Cave_E.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Terra_Cave_entrance.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Terra_Cave_end.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Terra_Cave_E.png" },
+      "パノラマ2": { "img": "Terra_Cave_entrance.png" },
+      "パノラマ3": { "img": "Terra_Cave_end.png" }
+    }
   },
   "さばくのちかどう": {
     "en": "Desert_Underpass",
     "map": "Desert_Underpass.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Desert_Underpass.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Desert_Underpass_end_E.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Desert_Underpass.png" },
+      "パノラマ2": { "img": "Desert_Underpass_end_E.png" }
+    }
   },
   "トレーナーヒル": {
     "en": "Trainer_Hill",
     "map": "Trainer_Hill.png",
-    "appearance": [
-      {
-        "ja": "パノラマ",
-        "img": "Trainer_Hill_entrance.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Trainer_Hill.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Trainer_Hill_Normal_1F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Trainer_Hill_Normal_2F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Trainer_Hill_Normal_3F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Trainer_Hill_Normal_4F.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Trainer_Hill_roof.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Trainer_Hill_Variety_1F.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Trainer_Hill_Variety_2F.png"
-      },
-      {
-        "ja": "パノラマ0",
-        "img": "Trainer_Hill_Variety_3F.png"
-      },
-      {
-        "ja": "パノラマ1",
-        "img": "Trainer_Hill_Variety_4F.png"
-      },
-      {
-        "ja": "パノラマ2",
-        "img": "Trainer_Hill_Unique_1F.png"
-      },
-      {
-        "ja": "パノラマ3",
-        "img": "Trainer_Hill_Unique_2F.png"
-      },
-      {
-        "ja": "パノラマ4",
-        "img": "Trainer_Hill_Unique_3F.png"
-      },
-      {
-        "ja": "パノラマ5",
-        "img": "Trainer_Hill_Unique_4F.png"
-      },
-      {
-        "ja": "パノラマ6",
-        "img": "Trainer_Hill_Expert_1F.png"
-      },
-      {
-        "ja": "パノラマ7",
-        "img": "Trainer_Hill_Expert_2F.png"
-      },
-      {
-        "ja": "パノラマ8",
-        "img": "Trainer_Hill_Expert_3F.png"
-      },
-      {
-        "ja": "パノラマ9",
-        "img": "Trainer_Hill_Expert_4F.png"
-      }
-    ]
+    "appearance": {
+      "パノラマ": { "img": "Trainer_Hill_entrance.png" },
+      "パノラマ2": { "img": "Trainer_Hill_Unique_1F.png" },
+      "パノラマ3": { "img": "Trainer_Hill_Unique_2F.png" },
+      "パノラマ4": { "img": "Trainer_Hill_Unique_3F.png" },
+      "パノラマ5": { "img": "Trainer_Hill_Unique_4F.png" },
+      "パノラマ6": { "img": "Trainer_Hill_Expert_1F.png" },
+      "パノラマ7": { "img": "Trainer_Hill_Expert_2F.png" },
+      "パノラマ8": { "img": "Trainer_Hill_Expert_3F.png" },
+      "パノラマ9": { "img": "Trainer_Hill_Expert_4F.png" },
+      "パノラマ0": { "img": "Trainer_Hill_Variety_3F.png" },
+      "パノラマ1": { "img": "Trainer_Hill_Variety_4F.png" }
+    }
   }
 }

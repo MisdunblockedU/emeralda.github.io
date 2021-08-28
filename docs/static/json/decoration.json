@@ -1,606 +1,722 @@
 {
-  "つくえ": {
-    "ちいさい つくえ": {
-      "price": "¥3000",
-      "filename": "SmallDesk.png",
-      "en": "Small Desk"
-    },
-    "ポケモン つくえ": {
-      "price": "¥3000",
-      "filename": "PokemonDesk.png",
-      "en": "Pokémon Desk"
-    },
-    "ずっしり つくえ": {
-      "price": "¥6000",
-      "filename": "HeavyDesk.png",
-      "en": "Heavy Desk"
-    },
-    "ゴツゴツ つくえ": {
-      "price": "¥6000",
-      "filename": "RaggedDesk.png",
-      "en": "Ragged Desk"
-    },
-    "ふわふわ つくえ": {
-      "price": "¥6000",
-      "filename": "ComfortDesk.png",
-      "en": "Comfort Desk"
-    },
-    "きれいな つくえ": {
-      "price": "8000 ashes",
-      "filename": "PrettyDesk.png",
-      "en": "Pretty Desk"
-    },
-    "レンガの つくえ": {
-      "price": "¥9000",
-      "filename": "BrickDesk.png",
-      "en": "Brick Desk"
-    },
-    "キャンプ つくえ": {
-      "price": "¥9000",
-      "filename": "CampDesk.png",
-      "en": "Camp Desk"
-    },
-    "かたい つくえ": {
-      "price": "¥9000",
-      "filename": "HardDesk.png",
-      "en": "Hard Desk"
-    }
+  "ちいさい つくえ": {
+    "price": "¥3000",
+    "filename": "SmallDesk.png",
+    "en": "Small Desk",
+    "category": "つくえ"
   },
-  "イス": {
-    "ちいさい イス": {
-      "price": "¥2000",
-      "filename": "SmallChair.png",
-      "en": "Small Chair"
-    },
-    "ポケモン イス": {
-      "price": "¥2000",
-      "filename": "PokemonChair.png",
-      "en": "Pokémon Chair"
-    },
-    "ずっしり イス": {
-      "price": "¥2000",
-      "filename": "HeavyChair.png",
-      "en": "Heavy Chair"
-    },
-    "きれいな イス": {
-      "price": "6000 ashes",
-      "filename": "PrettyChair.png",
-      "en": "Pretty Chair"
-    },
-    "ふわふわ イス": {
-      "price": "¥2000",
-      "filename": "ComfortChair.png",
-      "en": "Comfort Chair"
-    },
-    "ゴツゴツ イス": {
-      "price": "¥2000",
-      "filename": "RaggedChair.png",
-      "en": "Ragged Chair"
-    },
-    "レンガの イス": {
-      "price": "¥2000",
-      "filename": "BrickChair.png",
-      "en": "Brick Chair"
-    },
-    "キャンプ イス": {
-      "price": "¥2000",
-      "filename": "CampChair.png",
-      "en": "Camp Chair"
-    },
-    "かたい イス": {
-      "price": "¥2000",
-      "filename": "HardChair.png",
-      "en": "Hard Chair"
-    }
+  "ポケモン つくえ": {
+    "price": "¥3000",
+    "filename": "PokemonDesk.png",
+    "en": "Pokémon Desk",
+    "category": "つくえ"
   },
-  "はちうえ": {
-    "まっかな うえき": {
-      "price": "¥3000",
-      "filename": "RedPlant.png",
-      "en": "Red Plant"
-    },
-    "なんごくの うえき": {
-      "price": "¥3000",
-      "filename": "TropicalPlant.png",
-      "en": "Tropical Plant"
-    },
-    "かわいい はな": {
-      "price": "¥3000",
-      "filename": "PrettyFlowers.png",
-      "en": "Pretty Flowers"
-    },
-    "カラフル うえき": {
-      "price": "¥5000",
-      "filename": "ColorfulPlant.png",
-      "en": "Colorful Plant"
-    },
-    "おっきな うえき": {
-      "price": "¥5000",
-      "filename": "BigPlant.png",
-      "en": "Big Plant"
-    },
-    "りっぱな うえき": {
-      "price": "¥5000",
-      "filename": "GorgeousPlant.png",
-      "en": "Gorgeous Plant"
-    }
+  "ずっしり つくえ": {
+    "price": "¥6000",
+    "filename": "HeavyDesk.png",
+    "en": "Heavy Desk",
+    "category": "つくえ"
   },
-  "おきもの": {
-    "あかいレンガ": {
-      "price": "¥500",
-      "filename": "RedBrick.png",
-      "en": "Red Brick"
-    },
-    "きいろいレンガ": {
-      "price": "¥500",
-      "filename": "YellowBrick.png",
-      "en": "Yellow Brick"
-    },
-    "あおいレンガ": {
-      "price": "¥500",
-      "filename": "BlueBrick.png",
-      "en": "Blue Brick"
-    },
-    "あかいふうせん": {
-      "price": "¥500",
-      "filename": "RedBalloon.png",
-      "en": "Red Balloon"
-    },
-    "あおいふうせん": {
-      "price": "¥500",
-      "filename": "BlueBalloon.png",
-      "en": "Blue Balloon"
-    },
-    "きいろいふうせん": {
-      "price": "¥500",
-      "filename": "YellowBalloon.png",
-      "en": "Yellow Balloon"
-    },
-    "あかいテント": {
-      "price": "カラクリやしき",
-      "filename": "RedTent.png",
-      "en": "Red Tent"
-    },
-    "あおいテント": {
-      "price": "カラクリやしき",
-      "filename": "BlueTent.png",
-      "en": "Blue Tent"
-    },
-    "じょうぶないた": {
-      "price": "¥3000",
-      "filename": "SolidBoard.png",
-      "en": "Solid Board"
-    },
-    "すべりだい": { "price": "¥8000", "filename": "Slide.png", "en": "Slide" },
-    "タテのさく": {
-      "price": "¥500",
-      "filename": "FenceLength.png",
-      "en": "Fence Length"
-    },
-    "ヨコのさく": {
-      "price": "¥500",
-      "filename": "FenceWidth.png",
-      "en": "Fence Width"
-    },
-    "タイヤ": { "price": "¥800", "filename": "Tire.png", "en": "Tire" },
-    "おおきなだい": {
-      "price": "¥7000",
-      "filename": "Stand.png",
-      "en": "Stand"
-    },
-    "どろだんご": {
-      "price": "¥200",
-      "filename": "MudBall.png",
-      "en": "Mud Ball"
-    },
-    "やぶれるドア": {
-      "price": "¥3000",
-      "filename": "BreakableDoor.png",
-      "en": "Breakable Door"
-    },
-    "すなのおきもの": {
-      "price": "¥3000",
-      "filename": "SandOrnament.png",
-      "en": "Sand Ornament"
-    },
-    "ぎんのたて": {
-      "price": "バトルタワー50連勝",
-      "filename": "SilverShield.png",
-      "en": "Silver Shield"
-    },
-    "きんのたて": {
-      "price": "バトルタワー100連勝",
-      "filename": "GoldShield.png",
-      "en": "Gold Shield"
-    },
-    "ガラスのオブジェ": {
-      "price": "ミナモびじゅつかん",
-      "filename": "GlassOrnament.png",
-      "en": "Glass Ornament"
-    },
-    "テレビ": { "price": "¥3000", "filename": "TV.png", "en": "TV" },
-    "まるいテレビ": {
-      "price": "¥4000",
-      "filename": "RoundTV.png",
-      "en": "Round TV"
-    },
-    "かわいいテレビ": {
-      "price": "¥4000",
-      "filename": "CuteTV.png",
-      "en": "Cute TV"
-    }
+  "ゴツゴツ つくえ": {
+    "price": "¥6000",
+    "filename": "RaggedDesk.png",
+    "en": "Ragged Desk",
+    "category": "つくえ"
   },
-  "マット": {
-    "きらきら マット": {
-      "price": "¥2000",
-      "filename": "GlitterMat.png",
-      "en": "Glitter Mat"
-    },
-    "ジャンプ マット": {
-      "price": "¥2000",
-      "filename": "JumpMat.png",
-      "en": "Jump Mat"
-    },
-    "くるっと マット": {
-      "price": "¥2000",
-      "filename": "SpinMat.png",
-      "en": "Spin Mat"
-    },
-    "おんぷ マット CL": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "C Low Note Mat"
-    },
-    "おんぷ マット D": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "D Note Mat"
-    },
-    "おんぷ マット E": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "E Note Mat"
-    },
-    "おんぷ マット F": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "F Note Mat"
-    },
-    "おんぷ マット G": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "G Note Mat"
-    },
-    "おんぷ マット A": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "A Note Mat"
-    },
-    "おんぷ マット B": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "B Note Mat"
-    },
-    "おんぷ マット CH": {
-      "price": "¥500",
-      "filename": "NoteMat.png",
-      "en": "C High Note Mat"
-    },
-    "なみのり マット": {
-      "price": "¥4000",
-      "filename": "SurfMat.png",
-      "en": "Surf Mat"
-    },
-    "かみなり マット": {
-      "price": "¥4000",
-      "filename": "ThunderMat.png",
-      "en": "Thunder Mat"
-    },
-    "だいもんじ マット": {
-      "price": "¥4000",
-      "filename": "FireBlastMat.png",
-      "en": "Fire Blast Mat"
-    },
-    "こなゆき マット": {
-      "price": "¥4000",
-      "filename": "PowderSnowMat.png",
-      "en": "Powder Snow Mat"
-    },
-    "メロメロ マット": {
-      "price": "¥4000",
-      "filename": "AttractMat.png",
-      "en": "Attract Mat"
-    },
-    "じわれ マット": {
-      "price": "¥4000",
-      "filename": "FissureMat.png",
-      "en": "Fissure Mat"
-    },
-    "まきびし マット": {
-      "price": "¥4000",
-      "filename": "SpikesMat.png",
-      "en": "Spikes Mat"
-    }
+  "ふわふわ つくえ": {
+    "price": "¥6000",
+    "filename": "ComfortDesk.png",
+    "en": "Comfort Desk",
+    "category": "つくえ"
   },
-  "ポスター": {
-    "ボール ポスター": {
-      "price": "¥1000",
-      "filename": "BallPoster.png",
-      "en": "Ball Poster"
-    },
-    "みどりの ポスター": {
-      "price": "¥1000",
-      "filename": "GreenPoster.png",
-      "en": "Green Poster"
-    },
-    "あかい ポスター": {
-      "price": "¥1000",
-      "filename": "RedPoster.png",
-      "en": "Red Poster"
-    },
-    "みずいろ ポスター": {
-      "price": "¥1000",
-      "filename": "BluePoster.png",
-      "en": "Blue Poster"
-    },
-    "かわいい ポスター": {
-      "price": "¥1000",
-      "filename": "CutePoster.png",
-      "en": "Cute Poster"
-    },
-    "ピカピカ ポスター": {
-      "price": "¥1500",
-      "filename": "PikaPoster.png",
-      "en": "Pika Poster"
-    },
-    "ながい ポスター": {
-      "price": "¥1500",
-      "filename": "LongPoster.png",
-      "en": "Long Poster"
-    },
-    "うみの ポスター": {
-      "price": "¥1500",
-      "filename": "SeaPoster.png",
-      "en": "Sea Poster"
-    },
-    "そらの ポスター": {
-      "price": "¥1500",
-      "filename": "SkyPoster.png",
-      "en": "Sky Poster"
-    },
-    "キッス ポスター": {
-      "price": "16BP",
-      "filename": "KissPoster.png",
-      "en": "Kiss Poster"
-    }
+  "きれいな つくえ": {
+    "price": "8000 ashes",
+    "filename": "PrettyDesk.png",
+    "en": "Pretty Desk",
+    "category": "つくえ"
   },
-  "にんぎょう": {
-    "ピチュー ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Pichu.png",
-      "en": "Pichu Doll"
-    },
-    "ピカチュウ ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Pikachu.png",
-      "en": "Pikachu Doll"
-    },
-    "マリル ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Marill.png",
-      "en": "Marill Doll"
-    },
-    "トゲピー ドール": {
-      "price": "48BP",
-      "filename": "Doll_Togepi.png",
-      "en": "Togepi Doll"
-    },
-    "ヒノアラシ ドール": {
-      "price": "80BP",
-      "filename": "Doll_Cyndaquil.png",
-      "en": "Cyndaquil Doll"
-    },
-    "チコリータ ドール": {
-      "price": "80BP",
-      "filename": "Doll_Chikorita.png",
-      "en": "Chikorita Doll"
-    },
-    "ワニノコ ドール": {
-      "price": "80BP",
-      "filename": "Doll_Totodile.png",
-      "en": "Totodile Doll"
-    },
-    "プリン ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Jigglypuff.png",
-      "en": "Jigglypuff Doll"
-    },
-    "ニャース ドール": {
-      "price": "48BP",
-      "filename": "Doll_Meowth.png",
-      "en": "Meowth Doll"
-    },
-    "ピッピ ドール": {
-      "price": "48BP",
-      "filename": "Doll_Clefairy.png",
-      "en": "Clefairy Doll"
-    },
-    "メタモン ドール": {
-      "price": "48BP",
-      "filename": "Doll_Ditto.png",
-      "en": "Ditto Doll"
-    },
-    "ムチュール ドール": {
-      "price": "32BP",
-      "filename": "Doll_Smoochum.png",
-      "en": "Smoochum Doll"
-    },
-    "キモリ ドール": {
-      "price": "1000コイン",
-      "filename": "Doll_Treecko.png",
-      "en": "Treecko Doll"
-    },
-    "アチャモ ドール": {
-      "price": "1000コイン",
-      "filename": "Doll_Torchic.png",
-      "en": "Torchic Doll"
-    },
-    "ミズゴロウ ドール": {
-      "price": "1000コイン",
-      "filename": "Doll_Mudkip.png",
-      "en": "Mudkip Doll"
-    },
-    "ヨマワル ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Duskull.png",
-      "en": "Duskull Doll"
-    },
-    "ソーナノ ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Wynaut.png",
-      "en": "Wynaut Doll"
-    },
-    "ヤジロン ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Baltoy.png",
-      "en": "Baltoy Doll"
-    },
-    "カクレオン ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Kecleon.png",
-      "en": "Kecleon Doll"
-    },
-    "ルリリ ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Azurill.png",
-      "en": "Azurill Doll"
-    },
-    "エネコ ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Skitty.png",
-      "en": "Skitty Doll"
-    },
-    "チルット ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Swablu.png",
-      "en": "Swablu Doll"
-    },
-    "ゴクリン ドール": {
-      "price": "¥3000",
-      "filename": "Doll_Gulpin.png",
-      "en": "Gulpin Doll"
-    },
-    "ハスボー ドール": {
-      "price": "マユミからもらう（RE）",
-      "filename": "Doll_Lotad.png",
-      "en": "Lotad Doll"
-    },
-    "タネボー ドール": {
-      "price": "マユミからもらう（S）",
-      "filename": "Doll_Seedot.png",
-      "en": "Seedot Doll"
-    },
-    "カビゴン ドール": {
-      "price": "128BP",
-      "filename": "Doll_Snorlax.png",
-      "en": "Snorlax Doll"
-    },
-    "サイドン ドール": {
-      "price": "¥10000",
-      "filename": "Doll_Rhydon.png",
-      "en": "Rhydon Doll"
-    },
-    "ラプラス ドール": {
-      "price": "128BP",
-      "filename": "Doll_Lapras.png",
-      "en": "Lapras Doll"
-    },
-    "フシギバナ ドール": {
-      "price": "256BP",
-      "filename": "Doll_Venusaur.png",
-      "en": "Venusaur Doll"
-    },
-    "リザードン ドール": {
-      "price": "256BP",
-      "filename": "Doll_Charizard.png",
-      "en": "Charizard Doll"
-    },
-    "カメックス ドール": {
-      "price": "256BP",
-      "filename": "Doll_Blastoise.png",
-      "en": "Blastoise Doll"
-    },
-    "ホエルコ ドール": {
-      "price": "10000円",
-      "filename": "Doll_Wailmer.png",
-      "en": "Wailmer Doll"
-    },
-    "レジロック ドール": {
-      "price": "カードeリーダー+",
-      "filename": "Doll_Regirock.png",
-      "en": "Regirock Doll"
-    },
-    "レジアイス ドール": {
-      "price": "カードeリーダー+",
-      "filename": "Doll_Regice.png",
-      "en": "Regice Doll"
-    },
-    "レジスチル ドール": {
-      "price": "カードeリーダー+",
-      "filename": "Doll_Registeel.png",
-      "en": "Registeel Doll"
-    }
+  "レンガの つくえ": {
+    "price": "¥9000",
+    "filename": "BrickDesk.png",
+    "en": "Brick Desk",
+    "category": "つくえ"
   },
-  "クッション": {
-    "ピカ クッション": {
-      "price": "¥2000",
-      "filename": "PikaCushion.png",
-      "en": "Pika Cushion"
-    },
-    "まるい クッション": {
-      "price": "¥2000",
-      "filename": "RoundCushion.png",
-      "en": "Round Cushion"
-    },
-    "キッス クッション": {
-      "price": "32BP",
-      "filename": "KissCushion.png",
-      "en": "Kiss Cushion"
-    },
-    "ジグザグ クッション": {
-      "price": "¥2000",
-      "filename": "ZigzagCushion.png",
-      "en": "Zigzag Cushion"
-    },
-    "グルル クッション": {
-      "price": "¥2000",
-      "filename": "SpinCushion.png",
-      "en": "Spin Cushion"
-    },
-    "ダイヤ クッション": {
-      "price": "¥2000",
-      "filename": "DiamondCushion.png",
-      "en": "Diamond Cushion"
-    },
-    "ボール クッション": {
-      "price": "¥2000",
-      "filename": "BallCushion.png",
-      "en": "Ball Cushion"
-    },
-    "くさ クッション": {
-      "price": "¥2000",
-      "filename": "GrassCushion.png",
-      "en": "Grass Cushion"
-    },
-    "ほのお クッション": {
-      "price": "¥2000",
-      "filename": "FireCushion.png",
-      "en": "Fire Cushion"
-    },
-    "みず クッション": {
-      "price": "¥2000",
-      "filename": "WaterCushion.png",
-      "en": "Water Cushion"
-    }
+  "キャンプ つくえ": {
+    "price": "¥9000",
+    "filename": "CampDesk.png",
+    "en": "Camp Desk",
+    "category": "つくえ"
+  },
+  "かたい つくえ": {
+    "price": "¥9000",
+    "filename": "HardDesk.png",
+    "en": "Hard Desk",
+    "category": "つくえ"
+  },
+  "ちいさい イス": {
+    "price": "¥2000",
+    "filename": "SmallChair.png",
+    "en": "Small Chair",
+    "category": "イス"
+  },
+  "ポケモン イス": {
+    "price": "¥2000",
+    "filename": "PokemonChair.png",
+    "en": "Pokémon Chair",
+    "category": "イス"
+  },
+  "ずっしり イス": {
+    "price": "¥2000",
+    "filename": "HeavyChair.png",
+    "en": "Heavy Chair",
+    "category": "イス"
+  },
+  "きれいな イス": {
+    "price": "6000 ashes",
+    "filename": "PrettyChair.png",
+    "en": "Pretty Chair",
+    "category": "イス"
+  },
+  "ふわふわ イス": {
+    "price": "¥2000",
+    "filename": "ComfortChair.png",
+    "en": "Comfort Chair",
+    "category": "イス"
+  },
+  "ゴツゴツ イス": {
+    "price": "¥2000",
+    "filename": "RaggedChair.png",
+    "en": "Ragged Chair",
+    "category": "イス"
+  },
+  "レンガの イス": {
+    "price": "¥2000",
+    "filename": "BrickChair.png",
+    "en": "Brick Chair",
+    "category": "イス"
+  },
+  "キャンプ イス": {
+    "price": "¥2000",
+    "filename": "CampChair.png",
+    "en": "Camp Chair",
+    "category": "イス"
+  },
+  "かたい イス": {
+    "price": "¥2000",
+    "filename": "HardChair.png",
+    "en": "Hard Chair",
+    "category": "イス"
+  },
+  "まっかな うえき": {
+    "price": "¥3000",
+    "filename": "RedPlant.png",
+    "en": "Red Plant",
+    "category": "はちうえ"
+  },
+  "なんごくの うえき": {
+    "price": "¥3000",
+    "filename": "TropicalPlant.png",
+    "en": "Tropical Plant",
+    "category": "はちうえ"
+  },
+  "かわいい はな": {
+    "price": "¥3000",
+    "filename": "PrettyFlowers.png",
+    "en": "Pretty Flowers",
+    "category": "はちうえ"
+  },
+  "カラフル うえき": {
+    "price": "¥5000",
+    "filename": "ColorfulPlant.png",
+    "en": "Colorful Plant",
+    "category": "はちうえ"
+  },
+  "おっきな うえき": {
+    "price": "¥5000",
+    "filename": "BigPlant.png",
+    "en": "Big Plant",
+    "category": "はちうえ"
+  },
+  "りっぱな うえき": {
+    "price": "¥5000",
+    "filename": "GorgeousPlant.png",
+    "en": "Gorgeous Plant",
+    "category": "はちうえ"
+  },
+  "あかいレンガ": {
+    "price": "¥500",
+    "filename": "RedBrick.png",
+    "en": "Red Brick",
+    "category": "おきもの"
+  },
+  "きいろいレンガ": {
+    "price": "¥500",
+    "filename": "YellowBrick.png",
+    "en": "Yellow Brick",
+    "category": "おきもの"
+  },
+  "あおいレンガ": {
+    "price": "¥500",
+    "filename": "BlueBrick.png",
+    "en": "Blue Brick",
+    "category": "おきもの"
+  },
+  "あかいふうせん": {
+    "price": "¥500",
+    "filename": "RedBalloon.png",
+    "en": "Red Balloon",
+    "category": "おきもの"
+  },
+  "あおいふうせん": {
+    "price": "¥500",
+    "filename": "BlueBalloon.png",
+    "en": "Blue Balloon",
+    "category": "おきもの"
+  },
+  "きいろいふうせん": {
+    "price": "¥500",
+    "filename": "YellowBalloon.png",
+    "en": "Yellow Balloon",
+    "category": "おきもの"
+  },
+  "あかいテント": {
+    "price": "カラクリやしき",
+    "filename": "RedTent.png",
+    "en": "Red Tent",
+    "category": "おきもの"
+  },
+  "あおいテント": {
+    "price": "カラクリやしき",
+    "filename": "BlueTent.png",
+    "en": "Blue Tent",
+    "category": "おきもの"
+  },
+  "じょうぶないた": {
+    "price": "¥3000",
+    "filename": "SolidBoard.png",
+    "en": "Solid Board",
+    "category": "おきもの"
+  },
+  "すべりだい": {
+    "price": "¥8000",
+    "filename": "Slide.png",
+    "en": "Slide",
+    "category": "おきもの"
+  },
+  "タテのさく": {
+    "price": "¥500",
+    "filename": "FenceLength.png",
+    "en": "Fence Length",
+    "category": "おきもの"
+  },
+  "ヨコのさく": {
+    "price": "¥500",
+    "filename": "FenceWidth.png",
+    "en": "Fence Width",
+    "category": "おきもの"
+  },
+  "タイヤ": {
+    "price": "¥800",
+    "filename": "Tire.png",
+    "en": "Tire",
+    "category": "おきもの"
+  },
+  "おおきなだい": {
+    "price": "¥7000",
+    "filename": "Stand.png",
+    "en": "Stand",
+    "category": "おきもの"
+  },
+  "どろだんご": {
+    "price": "¥200",
+    "filename": "MudBall.png",
+    "en": "Mud Ball",
+    "category": "おきもの"
+  },
+  "やぶれるドア": {
+    "price": "¥3000",
+    "filename": "BreakableDoor.png",
+    "en": "Breakable Door",
+    "category": "おきもの"
+  },
+  "すなのおきもの": {
+    "price": "¥3000",
+    "filename": "SandOrnament.png",
+    "en": "Sand Ornament",
+    "category": "おきもの"
+  },
+  "ぎんのたて": {
+    "price": "バトルタワー50連勝",
+    "filename": "SilverShield.png",
+    "en": "Silver Shield",
+    "category": "おきもの"
+  },
+  "きんのたて": {
+    "price": "バトルタワー100連勝",
+    "filename": "GoldShield.png",
+    "en": "Gold Shield",
+    "category": "おきもの"
+  },
+  "ガラスのオブジェ": {
+    "price": "ミナモびじゅつかん",
+    "filename": "GlassOrnament.png",
+    "en": "Glass Ornament",
+    "category": "おきもの"
+  },
+  "テレビ": {
+    "price": "¥3000",
+    "filename": "TV.png",
+    "en": "TV",
+    "category": "おきもの"
+  },
+  "まるいテレビ": {
+    "price": "¥4000",
+    "filename": "RoundTV.png",
+    "en": "Round TV",
+    "category": "おきもの"
+  },
+  "かわいいテレビ": {
+    "price": "¥4000",
+    "filename": "CuteTV.png",
+    "en": "Cute TV",
+    "category": "おきもの"
+  },
+  "きらきら マット": {
+    "price": "¥2000",
+    "filename": "GlitterMat.png",
+    "en": "Glitter Mat",
+    "category": "マット"
+  },
+  "ジャンプ マット": {
+    "price": "¥2000",
+    "filename": "JumpMat.png",
+    "en": "Jump Mat",
+    "category": "マット"
+  },
+  "くるっと マット": {
+    "price": "¥2000",
+    "filename": "SpinMat.png",
+    "en": "Spin Mat",
+    "category": "マット"
+  },
+  "おんぷ マット CL": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "C Low Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット D": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "D Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット E": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "E Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット F": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "F Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット G": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "G Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット A": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "A Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット B": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "B Note Mat",
+    "category": "マット"
+  },
+  "おんぷ マット CH": {
+    "price": "¥500",
+    "filename": "NoteMat.png",
+    "en": "C High Note Mat",
+    "category": "マット"
+  },
+  "なみのり マット": {
+    "price": "¥4000",
+    "filename": "SurfMat.png",
+    "en": "Surf Mat",
+    "category": "マット"
+  },
+  "かみなり マット": {
+    "price": "¥4000",
+    "filename": "ThunderMat.png",
+    "en": "Thunder Mat",
+    "category": "マット"
+  },
+  "だいもんじ マット": {
+    "price": "¥4000",
+    "filename": "FireBlastMat.png",
+    "en": "Fire Blast Mat",
+    "category": "マット"
+  },
+  "こなゆき マット": {
+    "price": "¥4000",
+    "filename": "PowderSnowMat.png",
+    "en": "Powder Snow Mat",
+    "category": "マット"
+  },
+  "メロメロ マット": {
+    "price": "¥4000",
+    "filename": "AttractMat.png",
+    "en": "Attract Mat",
+    "category": "マット"
+  },
+  "じわれ マット": {
+    "price": "¥4000",
+    "filename": "FissureMat.png",
+    "en": "Fissure Mat",
+    "category": "マット"
+  },
+  "まきびし マット": {
+    "price": "¥4000",
+    "filename": "SpikesMat.png",
+    "en": "Spikes Mat",
+    "category": "マット"
+  },
+  "ボール ポスター": {
+    "price": "¥1000",
+    "filename": "BallPoster.png",
+    "en": "Ball Poster",
+    "category": "ポスター"
+  },
+  "みどりの ポスター": {
+    "price": "¥1000",
+    "filename": "GreenPoster.png",
+    "en": "Green Poster",
+    "category": "ポスター"
+  },
+  "あかい ポスター": {
+    "price": "¥1000",
+    "filename": "RedPoster.png",
+    "en": "Red Poster",
+    "category": "ポスター"
+  },
+  "みずいろ ポスター": {
+    "price": "¥1000",
+    "filename": "BluePoster.png",
+    "en": "Blue Poster",
+    "category": "ポスター"
+  },
+  "かわいい ポスター": {
+    "price": "¥1000",
+    "filename": "CutePoster.png",
+    "en": "Cute Poster",
+    "category": "ポスター"
+  },
+  "ピカピカ ポスター": {
+    "price": "¥1500",
+    "filename": "PikaPoster.png",
+    "en": "Pika Poster",
+    "category": "ポスター"
+  },
+  "ながい ポスター": {
+    "price": "¥1500",
+    "filename": "LongPoster.png",
+    "en": "Long Poster",
+    "category": "ポスター"
+  },
+  "うみの ポスター": {
+    "price": "¥1500",
+    "filename": "SeaPoster.png",
+    "en": "Sea Poster",
+    "category": "ポスター"
+  },
+  "そらの ポスター": {
+    "price": "¥1500",
+    "filename": "SkyPoster.png",
+    "en": "Sky Poster",
+    "category": "ポスター"
+  },
+  "キッス ポスター": {
+    "price": "16BP",
+    "filename": "KissPoster.png",
+    "en": "Kiss Poster",
+    "category": "ポスター"
+  },
+  "ピチュー ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Pichu.png",
+    "en": "Pichu Doll",
+    "category": "にんぎょう"
+  },
+  "ピカチュウ ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Pikachu.png",
+    "en": "Pikachu Doll",
+    "category": "にんぎょう"
+  },
+  "マリル ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Marill.png",
+    "en": "Marill Doll",
+    "category": "にんぎょう"
+  },
+  "トゲピー ドール": {
+    "price": "48BP",
+    "filename": "Doll_Togepi.png",
+    "en": "Togepi Doll",
+    "category": "にんぎょう"
+  },
+  "ヒノアラシ ドール": {
+    "price": "80BP",
+    "filename": "Doll_Cyndaquil.png",
+    "en": "Cyndaquil Doll",
+    "category": "にんぎょう"
+  },
+  "チコリータ ドール": {
+    "price": "80BP",
+    "filename": "Doll_Chikorita.png",
+    "en": "Chikorita Doll",
+    "category": "にんぎょう"
+  },
+  "ワニノコ ドール": {
+    "price": "80BP",
+    "filename": "Doll_Totodile.png",
+    "en": "Totodile Doll",
+    "category": "にんぎょう"
+  },
+  "プリン ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Jigglypuff.png",
+    "en": "Jigglypuff Doll",
+    "category": "にんぎょう"
+  },
+  "ニャース ドール": {
+    "price": "48BP",
+    "filename": "Doll_Meowth.png",
+    "en": "Meowth Doll",
+    "category": "にんぎょう"
+  },
+  "ピッピ ドール": {
+    "price": "48BP",
+    "filename": "Doll_Clefairy.png",
+    "en": "Clefairy Doll",
+    "category": "にんぎょう"
+  },
+  "メタモン ドール": {
+    "price": "48BP",
+    "filename": "Doll_Ditto.png",
+    "en": "Ditto Doll",
+    "category": "にんぎょう"
+  },
+  "ムチュール ドール": {
+    "price": "32BP",
+    "filename": "Doll_Smoochum.png",
+    "en": "Smoochum Doll",
+    "category": "にんぎょう"
+  },
+  "キモリ ドール": {
+    "price": "1000コイン",
+    "filename": "Doll_Treecko.png",
+    "en": "Treecko Doll",
+    "category": "にんぎょう"
+  },
+  "アチャモ ドール": {
+    "price": "1000コイン",
+    "filename": "Doll_Torchic.png",
+    "en": "Torchic Doll",
+    "category": "にんぎょう"
+  },
+  "ミズゴロウ ドール": {
+    "price": "1000コイン",
+    "filename": "Doll_Mudkip.png",
+    "en": "Mudkip Doll",
+    "category": "にんぎょう"
+  },
+  "ヨマワル ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Duskull.png",
+    "en": "Duskull Doll",
+    "category": "にんぎょう"
+  },
+  "ソーナノ ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Wynaut.png",
+    "en": "Wynaut Doll",
+    "category": "にんぎょう"
+  },
+  "ヤジロン ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Baltoy.png",
+    "en": "Baltoy Doll",
+    "category": "にんぎょう"
+  },
+  "カクレオン ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Kecleon.png",
+    "en": "Kecleon Doll",
+    "category": "にんぎょう"
+  },
+  "ルリリ ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Azurill.png",
+    "en": "Azurill Doll",
+    "category": "にんぎょう"
+  },
+  "エネコ ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Skitty.png",
+    "en": "Skitty Doll",
+    "category": "にんぎょう"
+  },
+  "チルット ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Swablu.png",
+    "en": "Swablu Doll",
+    "category": "にんぎょう"
+  },
+  "ゴクリン ドール": {
+    "price": "¥3000",
+    "filename": "Doll_Gulpin.png",
+    "en": "Gulpin Doll",
+    "category": "にんぎょう"
+  },
+  "ハスボー ドール": {
+    "price": "マユミからもらう（RE）",
+    "filename": "Doll_Lotad.png",
+    "en": "Lotad Doll",
+    "category": "にんぎょう"
+  },
+  "タネボー ドール": {
+    "price": "マユミからもらう（S）",
+    "filename": "Doll_Seedot.png",
+    "en": "Seedot Doll",
+    "category": "にんぎょう"
+  },
+  "カビゴン ドール": {
+    "price": "128BP",
+    "filename": "Doll_Snorlax.png",
+    "en": "Snorlax Doll",
+    "category": "にんぎょう"
+  },
+  "サイドン ドール": {
+    "price": "¥10000",
+    "filename": "Doll_Rhydon.png",
+    "en": "Rhydon Doll",
+    "category": "にんぎょう"
+  },
+  "ラプラス ドール": {
+    "price": "128BP",
+    "filename": "Doll_Lapras.png",
+    "en": "Lapras Doll",
+    "category": "にんぎょう"
+  },
+  "フシギバナ ドール": {
+    "price": "256BP",
+    "filename": "Doll_Venusaur.png",
+    "en": "Venusaur Doll",
+    "category": "にんぎょう"
+  },
+  "リザードン ドール": {
+    "price": "256BP",
+    "filename": "Doll_Charizard.png",
+    "en": "Charizard Doll",
+    "category": "にんぎょう"
+  },
+  "カメックス ドール": {
+    "price": "256BP",
+    "filename": "Doll_Blastoise.png",
+    "en": "Blastoise Doll",
+    "category": "にんぎょう"
+  },
+  "ホエルコ ドール": {
+    "price": "10000円",
+    "filename": "Doll_Wailmer.png",
+    "en": "Wailmer Doll",
+    "category": "にんぎょう"
+  },
+  "レジロック ドール": {
+    "price": "カードeリーダー+",
+    "filename": "Doll_Regirock.png",
+    "en": "Regirock Doll",
+    "category": "にんぎょう"
+  },
+  "レジアイス ドール": {
+    "price": "カードeリーダー+",
+    "filename": "Doll_Regice.png",
+    "en": "Regice Doll",
+    "category": "にんぎょう"
+  },
+  "レジスチル ドール": {
+    "price": "カードeリーダー+",
+    "filename": "Doll_Registeel.png",
+    "en": "Registeel Doll",
+    "category": "にんぎょう"
+  },
+  "ピカ クッション": {
+    "price": "¥2000",
+    "filename": "PikaCushion.png",
+    "en": "Pika Cushion",
+    "category": "クッション"
+  },
+  "まるい クッション": {
+    "price": "¥2000",
+    "filename": "RoundCushion.png",
+    "en": "Round Cushion",
+    "category": "クッション"
+  },
+  "キッス クッション": {
+    "price": "32BP",
+    "filename": "KissCushion.png",
+    "en": "Kiss Cushion",
+    "category": "クッション"
+  },
+  "ジグザグ クッション": {
+    "price": "¥2000",
+    "filename": "ZigzagCushion.png",
+    "en": "Zigzag Cushion",
+    "category": "クッション"
+  },
+  "グルル クッション": {
+    "price": "¥2000",
+    "filename": "SpinCushion.png",
+    "en": "Spin Cushion",
+    "category": "クッション"
+  },
+  "ダイヤ クッション": {
+    "price": "¥2000",
+    "filename": "DiamondCushion.png",
+    "en": "Diamond Cushion",
+    "category": "クッション"
+  },
+  "ボール クッション": {
+    "price": "¥2000",
+    "filename": "BallCushion.png",
+    "en": "Ball Cushion",
+    "category": "クッション"
+  },
+  "くさ クッション": {
+    "price": "¥2000",
+    "filename": "GrassCushion.png",
+    "en": "Grass Cushion",
+    "category": "クッション"
+  },
+  "ほのお クッション": {
+    "price": "¥2000",
+    "filename": "FireCushion.png",
+    "en": "Fire Cushion",
+    "category": "クッション"
+  },
+  "みず クッション": {
+    "price": "¥2000",
+    "filename": "WaterCushion.png",
+    "en": "Water Cushion",
+    "category": "クッション"
   }
 }

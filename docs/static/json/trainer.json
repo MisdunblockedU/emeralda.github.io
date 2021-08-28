@@ -1,820 +1,732 @@
 {
-  "いせきマニア": [
-    {
-      "ja": "男性",
+  "いせきマニア": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Ruin_Maniac.png",
       "back": "",
       "overworld": ["Hiker.png"]
     }
-  ],
-  "うきわガール": [
-    {
-      "ja": "女性",
+  },
+  "うきわガール": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Tuber_F.png",
       "back": "",
       "overworld": ["Tuber_F.png"]
     }
-  ],
-  "うきわボーイ": [
-    {
-      "ja": "男性",
+  },
+  "うきわボーイ": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Tuber_M.png",
       "back": "",
       "overworld": ["Tuber_M.png"]
     }
-  ],
-  "うみきょうだい": [
-    {
-      "ja": "男女",
+  },
+  "うみきょうだい": {
+    "男女": {
       "en": "malefemale",
       "match": "double",
       "front": "Sis_and_Bro.png",
       "back": "",
       "overworld": ["Swimmer_F.png", "Bro.png"]
     }
-  ],
-  "おじょうさま": [
-    {
-      "ja": "女性",
+  },
+  "おじょうさま": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Lady.png",
       "back": "",
       "overworld": ["Lady.png"]
     }
-  ],
-  "おぼっちゃま": [
-    {
-      "ja": "男性",
+  },
+  "おぼっちゃま": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Rich_Boy.png",
       "back": "",
       "overworld": ["Rich_Boy.png", "Rich_Boy_2.png"]
     }
-  ],
-  "かいじゅうマニア": [
-    {
-      "ja": "男性",
+  },
+  "かいじゅうマニア": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Poke_Maniac.png",
       "back": "",
       "overworld": ["Fossil_Maniac.png"]
     }
-  ],
-  "かいパンやろう": [
-    {
-      "ja": "男性",
+  },
+  "かいパンやろう": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Swimmer_M.png",
       "back": "",
       "overworld": ["Swimmer_M.png"]
     }
-  ],
-  "からておう": [
-    {
-      "ja": "男性",
+  },
+  "からておう": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Black_Belt.png",
       "back": "",
       "overworld": ["Black_Belt.png"]
     }
-  ],
-  "きんこんしき": [
-    {
-      "ja": "男女",
+  },
+  "きんこんしき": {
+    "男女": {
       "en": "malefemale",
       "match": "single",
       "front": "Old_Couple.png",
       "back": "",
       "overworld": ["Mr_Briney.png", "Expert_F.png"]
     }
-  ],
-  "こんちゅうマニア": [
-    {
-      "ja": "男性",
+  },
+  "こんちゅうマニア": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Bug_Maniac.png",
       "back": "",
       "overworld": ["Fossil_Maniac.png"]
     }
-  ],
-  "たつじん": [
-    {
-      "ja": "男性",
+  },
+  "たつじん": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Expert_M.png",
       "back": "",
       "overworld": ["Mr_Briney.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Expert_F.png",
       "back": "",
       "overworld": ["Expert_F.png"]
     }
-  ],
-  "たんパンこぞう": [
-    {
-      "ja": "男性",
+  },
+  "たんパンこぞう": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Youngster.png",
       "back": "",
       "overworld": ["Youngster.png"]
     }
-  ],
-  "つりびと": [
-    {
-      "ja": "男性",
+  },
+  "つりびと": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Fisherman.png",
       "back": "",
       "overworld": ["Fisherman.png"]
     }
-  ],
-  "とりつかい": [
-    {
-      "ja": "男性",
+  },
+  "とりつかい": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Bird_Keeper.png",
       "back": "",
       "overworld": ["Guitarist.pn"]
     }
-  ],
-  "ふなのり": [
-    {
-      "ja": "男性",
+  },
+  "ふなのり": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Sailor_JP.png",
       "back": "",
       "overworld": ["Sailor.png"]
     }
-  ],
-  "むしとりしょうねん": [
-    {
-      "ja": "男性",
+  },
+  "むしとりしょうねん": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Bug_Catcher.png",
       "back": "",
       "overworld": ["Bug_Catcher.png"]
     }
-  ],
-  "アクアだんかんぶ": [
-    {
-      "ja": "ウシオ",
+  },
+  "アクアだんかんぶ": {
+    "ウシオ": {
       "en": "Matt",
       "match": "single",
       "front": "Matt.png",
       "back": "",
       "overworld": ["Aqua_Grunt_M.png"]
     },
-    {
-      "ja": "イズミ",
+    "イズミ": {
       "en": "Shelly",
       "match": "single",
       "front": "Shelly.png",
       "back": "",
       "overworld": ["Aqua_Grunt_F.png"]
     }
-  ],
-  "アクアだんのしたっぱ": [
-    {
-      "ja": "男性",
+  },
+  "アクアだんのしたっぱ": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Team_Aqua_Grunt_M.png",
       "back": "",
       "overworld": ["Aqua_Grunt_M.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Team_Aqua_Grunt_F.png",
       "back": "",
       "overworld": ["Aqua_Grunt_F.png"]
     }
-  ],
-  "アクアだんリーダー": [
-    {
-      "ja": "オアギリ",
+  },
+  "アクアだんリーダー": {
+    "オアギリ": {
       "en": "Archie",
       "match": "single",
       "front": "Archie.png",
       "back": "",
       "overworld": ["Archie.png"]
     }
-  ],
-  "アロマなおねえさん": [
-    {
-      "ja": "女性",
+  },
+  "アロマなおねえさん": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Aroma_Lady.png",
       "back": "",
       "overworld": ["Lady.png"]
     }
-  ],
-  "インタビュアー": [
-    {
-      "ja": "男女",
+  },
+  "インタビュアー": {
+    "男女": {
       "en": "malefemale",
       "match": "double",
       "front": "Interviewer.png",
       "back": "",
       "overworld": ["Interviewer_F.png", "Interviewer_M.png"]
     }
-  ],
-  "オカルトマニア": [
-    {
-      "ja": "女性",
+  },
+  "オカルトマニア": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Hex_Maniac.png",
       "back": "",
       "overworld": ["Hex_Maniac.png"]
     }
-  ],
-  "カチヌキファミリー": [
-    {
-      "ja": "ハルヒコ",
+  },
+  "カチヌキファミリー": {
+    "ハルヒコ": {
       "en": "Victor",
       "match": "single",
       "front": "Poke_fan_M.png",
       "back": "",
       "overworld": ["Dock.png"]
     },
-    {
-      "ja": "ヤスエ",
+    "ヤスエ": {
       "en": "Victoria",
       "match": "single",
       "front": "Poke_fan_F.png",
       "back": "",
       "overworld": ["Poke_fan_F.png"]
     },
-    {
-      "ja": "アキ",
+    "アキ": {
       "en": "Vivi",
       "match": "single",
       "front": "Lass.png",
       "back": "",
       "overworld": ["Lass.png"]
     },
-    {
-      "ja": "ミツヨ",
+    "ミツヨ": {
       "en": "Vicky",
       "match": "single",
       "front": "Expert_F.png",
       "back": "",
       "overworld": ["Expert_F.png"]
     },
-    {
-      "ja": "リョウヘイ",
+    "リョウヘイ": {
       "en": "male",
       "match": "single",
       "front": "Cooltrainer_M.png",
       "back": "",
       "overworld": ["Cooltrainer_M.png"]
     }
-  ],
-  "キャンプファイヤー": [
-    {
-      "ja": "男性",
+  },
+  "キャンプファイヤー": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Kindler.png",
       "back": "",
       "overworld": ["Guitarist.png"]
     }
-  ],
-  "キャンプボーイ": [
-    {
-      "ja": "男性",
+  },
+  "キャンプボーイ": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Camper.png",
       "back": "",
       "overworld": ["Camper.png"]
     }
-  ],
-  "ギタリスト": [
-    {
-      "ja": "男性",
+  },
+  "ギタリスト": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Guitarist.png",
       "back": "",
       "overworld": ["Guitarist.png"]
     }
-  ],
-  "サイキッカー": [
-    {
-      "ja": "男性",
+  },
+  "サイキッカー": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Psychic_M.png",
       "back": "",
       "overworld": ["Psychic_M.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Psychic_F_JP.png",
       "back": "",
       "overworld": ["Lass.png"]
     }
-  ],
-  "ジェントルマン": [
-    {
-      "ja": "男性",
+  },
+  "ジェントルマン": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Gentleman.png",
       "back": "",
       "overworld": ["Gentleman.png"]
     }
-  ],
-  "センパイとコウハイ": [
-    {
-      "ja": "女女",
+  },
+  "センパイとコウハイ": {
+    "女女": {
       "en": "femalefemale",
       "match": "double",
       "front": "Sr_and_Jr.png",
       "back": "",
       "overworld": ["Lass.png", "Lass.png"]
     }
-  ],
-  "トライアスリート": [
-    {
-      "ja": "男性（バイク）",
+  },
+  "トライアスリート": {
+    "男性（バイク）": {
       "en": "male(Biker)",
       "match": "single",
       "front": "Triathlete_Biker_M.png",
       "back": "",
       "overworld": ["Triathlete_Biker_M"]
     },
-    {
-      "ja": "女性（バイク）",
+    "女性（バイク）": {
       "en": "female(Biker)",
       "match": "single",
       "front": "Triathlete_Biker_F.png",
       "back": "",
       "overworld": ["Triathlete_Biker_F"]
     },
-    {
-      "ja": "男性（ラン）",
+    "男性（ラン）": {
       "en": "male(Runner)",
       "match": "single",
       "front": "Triathlete_Runner_M.png",
       "back": "",
       "overworld": ["Triathlete_Runner_M"]
     },
-    {
-      "ja": "女性（ラン）",
+    "女性（ラン）": {
       "en": "female(Runner)",
       "match": "single",
       "front": "Triathlete_Runner_F.png",
       "back": "",
       "overworld": ["Triathlete_Runner_F"]
     },
-    {
-      "ja": "男性（スイム）",
+    "男性（スイム）": {
       "en": "male(Swimmer)",
       "match": "single",
       "front": "Triathlete_Swimmer_M.png",
       "back": "",
       "overworld": ["Swimmer_M"]
     },
-    {
-      "ja": "女性（スイム）",
+    "女性（スイム）": {
       "en": "female(Swimmer)",
       "match": "single",
       "front": "Triathlete_Swimmer_F.png",
       "back": "",
       "overworld": ["Swimmer_F"]
     }
-  ],
-  "ドラゴンつかい": [
-    {
-      "ja": "男性",
+  },
+  "ドラゴンつかい": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Dragon_Tamer.png",
       "back": "",
       "overworld": ["Cooltrainer_M.png"]
     }
-  ],
-  "ニンジャごっこ": [
-    {
-      "ja": "男性",
+  },
+  "ニンジャごっこ": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Ninja_Boy.png",
       "back": "",
       "overworld": ["Ninja_Boy.png"]
     }
-  ],
-  "バトルガール": [
-    {
-      "ja": "女性",
+  },
+  "バトルガール": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Battle_Girl.png",
       "back": "",
       "overworld": ["Battle_Girl.png"]
     }
-  ],
-  "パラソルおねえさん": [
-    {
-      "ja": "女性",
+  },
+  "パラソルおねえさん": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Parasol_Lady.png",
       "back": "",
       "overworld": ["Cooltrainer_F.png", "Lady.png"]
     }
-  ],
-  "ビキニのおねえさん": [
-    {
-      "ja": "女性",
+  },
+  "ビキニのおねえさん": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Swimmer_F.png",
       "back": "",
       "overworld": ["Swimmer_F.png"]
     }
-  ],
-  "ピクニックガール": [
-    {
-      "ja": "女性",
+  },
+  "ピクニックガール": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Picnicker.png",
       "back": "",
       "overworld": ["Picnicker.png"]
     }
-  ],
-  "ポケモンコレクター": [
-    {
-      "ja": "男性",
+  },
+  "ポケモンコレクター": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Collector.png",
       "back": "",
       "overworld": ["Fossil_Maniac.png"]
     }
-  ],
-  "ポケモンブリーダー": [
-    {
-      "ja": "男性",
+  },
+  "ポケモンブリーダー": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Pokemon_Breeder_M.png",
       "back": "",
       "overworld": ["Pokemon_Breeder_M.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Pokemon_Breeder_F.png",
       "back": "",
       "overworld": ["Lady.png"]
     }
-  ],
-  "ポケモンレンジャー": [
-    {
-      "ja": "男性",
+  },
+  "ポケモンレンジャー": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Pokemon_Ranger_M.png",
       "back": "",
       "overworld": ["Camper.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Pokemon_Ranger_F.png",
       "back": "",
       "overworld": ["Picnicker.png"]
     }
-  ],
-  "マグマだんかんぶ": [
-    {
-      "ja": "ホムラ",
+  },
+  "マグマだんかんぶ": {
+    "ホムラ": {
       "en": "Tabitha",
       "match": "single",
       "front": "Tabitha.png",
       "back": "",
       "overworld": ["Magma_Grunt_M.png"]
     },
-    {
-      "ja": "カガリ",
+    "カガリ": {
       "en": "Courtney",
       "match": "single",
       "front": "Courtney.png",
       "back": "",
       "overworld": ["Magma_Grunt_F.png"]
     }
-  ],
-  "マグマだんのしたっぱ": [
-    {
-      "ja": "男性",
+  },
+  "マグマだんのしたっぱ": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "Team_Magma_Grunt_M.png",
       "back": "",
       "overworld": ["Magma_Grunt_M.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Team_Magma_Grunt_F.png",
       "back": "",
       "overworld": ["Magma_Grunt_F.png"]
     }
-  ],
-  "マグマだんリーダー": [
-    {
-      "ja": "マツブサ",
+  },
+  "マグマだんリーダー": {
+    "マツブサ": {
       "en": "Maxie",
       "match": "single",
       "front": "Maxie.png",
       "back": "",
       "overworld": ["Maxie.png"]
     }
-  ],
-  "ラブラブカップル": [
-    {
-      "ja": "男女",
+  },
+  "ラブラブカップル": {
+    "男女": {
       "en": "malefemale",
       "match": "double",
       "front": "Young_Couple.png",
       "back": "",
       "overworld": ["Young_Couple_F.png", "Pokemon_Breeder_M.png"]
     }
-  ],
-  "塾がえり": [
-    {
-      "ja": "男性",
+  },
+  "塾がえり": {
+    "男性": {
       "en": "male",
       "match": "single",
       "front": "School_Kid_M.png",
       "back": "",
       "overworld": ["Battle_Girl.png"]
     },
-    {
-      "ja": "女性",
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "School_Kid_F.png",
       "back": "",
       "overworld": ["Battle_Girl.png"]
     }
-  ],
-  "大人のおねえさん": [
-    {
-      "ja": "女性",
+  },
+  "大人のおねえさん": {
+    "女性": {
       "en": "female",
       "match": "single",
       "front": "Beauty.png",
       "back": "",
       "overworld": ["Beauty.png"]
     }
-  ],
-  "アリーナキャプテン": [
-    {
-      "ja": "コゴミ",
+  },
+  "アリーナキャプテン": {
+    "コゴミ": {
       "en": "Greta",
       "match": "single",
       "front": "Greta.png",
       "back": "",
       "overworld": ["Greta.png"]
     }
-  ],
-  "ドームスーパースター": [
-    {
-      "ja": "ヒース",
+  },
+  "ドームスーパースター": {
+    "ヒース": {
       "en": "Tucker",
       "match": "single",
       "front": "Tucker.png",
       "back": "",
       "overworld": ["Tucker.png"]
     }
-  ],
-  "ファクトリーヘッド": [
-    {
-      "ja": "ダツラ",
+  },
+  "ファクトリーヘッド": {
+    "ダツラ": {
       "en": "Noland",
       "match": "single",
       "front": "Noland.png",
       "back": "",
       "overworld": ["Noland.png"]
     }
-  ],
-  "パレスガーディアン": [
-    {
-      "ja": "ウコン",
+  },
+  "パレスガーディアン": {
+    "ウコン": {
       "en": "Spenser",
       "match": "single",
       "front": "Spenser.png",
       "back": "",
       "overworld": ["Spenser.png"]
     }
-  ],
-  "チューブクイーン": [
-    {
-      "ja": "アザミ",
+  },
+  "チューブクイーン": {
+    "アザミ": {
       "en": "Lucy",
       "match": "single",
       "front": "Lucy.png",
       "back": "",
       "overworld": ["Lucy.png"]
     }
-  ],
-  "ピラミッドキング": [
-    {
-      "ja": "ジンダイ",
+  },
+  "ピラミッドキング": {
+    "ジンダイ": {
       "en": "Brandon",
       "match": "single",
       "front": "Brandon.png",
       "back": "",
       "overworld": ["Brandon.png"]
     }
-  ],
-  "タワータイクーン": [
-    {
-      "ja": "リラ",
+  },
+  "タワータイクーン": {
+    "リラ": {
       "en": "Anabel",
       "match": "single",
       "front": "Anabel.png",
       "back": "",
       "overworld": ["Anabel.png"]
     }
-  ],
-  "ジムリーダー": [
-    {
-      "ja": "ツツジ",
+  },
+  "ジムリーダー": {
+    "ツツジ": {
       "en": "Roxanne",
       "match": "single",
       "front": "Roxanne.png",
       "back": "",
       "overworld": ["Roxanne.png"]
     },
-    {
-      "ja": "トウキ",
+    "トウキ": {
       "en": "Brawly",
       "match": "single",
       "front": "Brawly.png",
       "back": "",
       "overworld": ["Brawly.png"]
     },
-    {
-      "ja": "テッセン",
+    "テッセン": {
       "en": "Wattson",
       "match": "single",
       "front": "Wattson.png",
       "back": "",
       "overworld": ["Wattson.png"]
     },
-    {
-      "ja": "アスナ",
+    "アスナ": {
       "en": "Flannery",
       "match": "single",
       "front": "Flannery.png",
       "back": "",
       "overworld": ["Flannery.png"]
     },
-    {
-      "ja": "センリ",
+    "センリ": {
       "en": "Norman",
       "match": "single",
       "front": "Norman.png",
       "back": "",
       "overworld": ["Norman.png"]
     },
-    {
-      "ja": "ナギ",
+    "ナギ": {
       "en": "Winona",
       "match": "single",
       "front": "Winona.png",
       "back": "",
       "overworld": ["Winona.png"]
     },
-    {
-      "ja": "フウとラン",
+    "フウとラン": {
       "en": "Tate and Liza",
       "match": "double",
       "front": "Tate_and_Liza.png",
       "back": "",
       "overworld": ["Tate.png", "Liza.png"]
     },
-    {
-      "ja": "アダン",
+    "アダン": {
       "en": "Juan",
       "match": "single",
       "front": "Juan.png",
       "back": "",
       "overworld": ["Juan.png"]
     }
-  ],
-  "してんのう": [
-    {
-      "ja": "カゲツ",
+  },
+  "してんのう": {
+    "カゲツ": {
       "en": "Sidney",
       "match": "single",
       "front": "Sidney.png",
       "back": "",
       "overworld": ["Sidney.png"]
     },
-    {
-      "ja": "フヨウ",
+    "フヨウ": {
       "en": "Phoebe",
       "match": "single",
       "front": "Phoebe.png",
       "back": "",
       "overworld": ["Phoebe.png"]
     },
-    {
-      "ja": "プリム",
+    "プリム": {
       "en": "Glacia",
       "match": "single",
       "front": "Glacia.png",
       "back": "",
       "overworld": ["Glacia.png"]
     },
-    {
-      "ja": "ゲンジ",
+    "ゲンジ": {
       "en": "Drake",
       "match": "single",
       "front": "Drake.png",
       "back": "",
       "overworld": ["Drake.png"]
     }
-  ],
-  "チャンピオン": [
-    {
-      "ja": "ミクリ",
+  },
+  "チャンピオン": {
+    "ミクリ": {
       "en": "Wallace",
       "match": "single",
       "front": "Wallace.png",
       "back": "",
       "overworld": ["Wallace.png"]
     }
-  ],
-  "ポケモントレーナー": [
-    {
-      "ja": "ミツル",
+  },
+  "ポケモントレーナー": {
+    "ミツル": {
       "en": "Wally",
       "match": "single",
       "front": "Wally.png",
       "back": "Wally.png",
       "overworld": ["Wally.png"]
     },
-    {
-      "ja": "ダイゴ",
+    "ダイゴ": {
       "en": "Steven",
       "match": "single",
       "front": "Steven.png",
       "back": "Steven.png",
       "overworld": ["Steven.png"]
     },
-    {
-      "ja": "ユウキ",
+    "ユウキ": {
       "en": "Brendan",
       "match": "single",
       "front": "Brendan.png",
       "back": "Brendan.png",
       "overworld": ["Brendan.png"]
     },
-    {
-      "ja": "ハルカ",
+    "ハルカ": {
       "en": "May",
       "match": "single",
       "front": "May.png",
       "back": "May.png",
       "overworld": ["May.png"]
     }
-  ]
+  }
 }

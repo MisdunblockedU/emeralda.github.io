@@ -5,9 +5,9 @@
     "bstats": { "H": 45, "A": 49, "B": 49, "C": 65, "D": 65, "S": 45 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "001",
     "height": 0.7,
-    "weight": 6.9
+    "weight": 6.9,
+    "basename": "001"
   },
   "フシギソウ": {
     "no": 2,
@@ -15,9 +15,9 @@
     "bstats": { "H": 60, "A": 62, "B": 63, "C": 80, "D": 80, "S": 60 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "002",
     "height": 1.0,
-    "weight": 13.0
+    "weight": 13.0,
+    "basename": "002"
   },
   "フシギバナ": {
     "no": 3,
@@ -25,9 +25,9 @@
     "bstats": { "H": 80, "A": 82, "B": 83, "C": 100, "D": 100, "S": 80 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "003",
     "height": 2.0,
-    "weight": 100.0
+    "weight": 100.0,
+    "basename": "003"
   },
   "ヒトカゲ": {
     "no": 4,
@@ -35,9 +35,9 @@
     "bstats": { "H": 39, "A": 52, "B": 43, "C": 60, "D": 50, "S": 65 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "004",
     "height": 0.6,
-    "weight": 8.5
+    "weight": 8.5,
+    "basename": "004"
   },
   "リザード": {
     "no": 5,
@@ -45,9 +45,9 @@
     "bstats": { "H": 58, "A": 64, "B": 58, "C": 80, "D": 65, "S": 80 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "005",
     "height": 1.1,
-    "weight": 19.0
+    "weight": 19.0,
+    "basename": "005"
   },
   "リザードン": {
     "no": 6,
@@ -55,9 +55,9 @@
     "bstats": { "H": 78, "A": 84, "B": 78, "C": 109, "D": 85, "S": 100 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "006",
     "height": 1.7,
-    "weight": 90.5
+    "weight": 90.5,
+    "basename": "006"
   },
   "ゼニガメ": {
     "no": 7,
@@ -65,9 +65,9 @@
     "bstats": { "H": 44, "A": 48, "B": 65, "C": 50, "D": 64, "S": 43 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "007",
     "height": 0.5,
-    "weight": 9.0
+    "weight": 9.0,
+    "basename": "007"
   },
   "カメール": {
     "no": 8,
@@ -75,9 +75,9 @@
     "bstats": { "H": 59, "A": 63, "B": 80, "C": 65, "D": 80, "S": 58 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "008",
     "height": 1.0,
-    "weight": 22.5
+    "weight": 22.5,
+    "basename": "008"
   },
   "カメックス": {
     "no": 9,
@@ -85,9 +85,9 @@
     "bstats": { "H": 79, "A": 83, "B": 100, "C": 85, "D": 105, "S": 78 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "009",
     "height": 1.6,
-    "weight": 85.5
+    "weight": 85.5,
+    "basename": "009"
   },
   "キャタピー": {
     "no": 10,
@@ -95,9 +95,9 @@
     "bstats": { "H": 45, "A": 30, "B": 35, "C": 20, "D": 20, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["りんぷん", ""],
-    "filename": "010",
     "height": 0.3,
-    "weight": 2.9
+    "weight": 2.9,
+    "basename": "010"
   },
   "トランセル": {
     "no": 11,
@@ -105,9 +105,9 @@
     "bstats": { "H": 50, "A": 20, "B": 55, "C": 25, "D": 25, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "011",
     "height": 0.7,
-    "weight": 9.9
+    "weight": 9.9,
+    "basename": "011"
   },
   "バタフリー": {
     "no": 12,
@@ -115,9 +115,9 @@
     "bstats": { "H": 60, "A": 45, "B": 50, "C": 80, "D": 80, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ふくがん", ""],
-    "filename": "012",
     "height": 1.1,
-    "weight": 32.0
+    "weight": 32.0,
+    "basename": "012"
   },
   "ビードル": {
     "no": 13,
@@ -125,9 +125,9 @@
     "bstats": { "H": 40, "A": 35, "B": 30, "C": 20, "D": 20, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["りんぷん", ""],
-    "filename": "013",
     "height": 0.3,
-    "weight": 3.2
+    "weight": 3.2,
+    "basename": "013"
   },
   "コクーン": {
     "no": 14,
@@ -135,9 +135,9 @@
     "bstats": { "H": 45, "A": 25, "B": 50, "C": 25, "D": 25, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "014",
     "height": 0.6,
-    "weight": 10.0
+    "weight": 10.0,
+    "basename": "014"
   },
   "スピアー": {
     "no": 15,
@@ -145,9 +145,9 @@
     "bstats": { "H": 65, "A": 80, "B": 40, "C": 45, "D": 80, "S": 75 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", ""],
-    "filename": "015",
     "height": 1.0,
-    "weight": 29.5
+    "weight": 29.5,
+    "basename": "015"
   },
   "ポッポ": {
     "no": 16,
@@ -155,9 +155,9 @@
     "bstats": { "H": 40, "A": 45, "B": 40, "C": 35, "D": 35, "S": 56 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ"],
-    "filename": "016",
     "height": 0.3,
-    "weight": 1.8
+    "weight": 1.8,
+    "basename": "016"
   },
   "ピジョン": {
     "no": 17,
@@ -165,9 +165,9 @@
     "bstats": { "H": 63, "A": 60, "B": 55, "C": 50, "D": 50, "S": 71 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ"],
-    "filename": "017",
     "height": 1.1,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "017"
   },
   "ピジョット": {
     "no": 18,
@@ -175,9 +175,9 @@
     "bstats": { "H": 83, "A": 80, "B": 75, "C": 70, "D": 70, "S": 91 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ"],
-    "filename": "018",
     "height": 1.5,
-    "weight": 39.5
+    "weight": 39.5,
+    "basename": "018"
   },
   "コラッタ": {
     "no": 19,
@@ -185,9 +185,9 @@
     "bstats": { "H": 30, "A": 56, "B": 35, "C": 25, "D": 35, "S": 72 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "こんじょう"],
-    "filename": "019",
     "height": 0.3,
-    "weight": 3.5
+    "weight": 3.5,
+    "basename": "019"
   },
   "ラッタ": {
     "no": 20,
@@ -195,9 +195,9 @@
     "bstats": { "H": 55, "A": 81, "B": 60, "C": 50, "D": 70, "S": 97 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "こんじょう"],
-    "filename": "020",
     "height": 0.7,
-    "weight": 18.5
+    "weight": 18.5,
+    "basename": "020"
   },
   "オニスズメ": {
     "no": 21,
@@ -205,9 +205,9 @@
     "bstats": { "H": 40, "A": 60, "B": 30, "C": 31, "D": 31, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ", ""],
-    "filename": "021",
     "height": 0.3,
-    "weight": 2.0
+    "weight": 2.0,
+    "basename": "021"
   },
   "オニドリル": {
     "no": 22,
@@ -215,9 +215,9 @@
     "bstats": { "H": 65, "A": 90, "B": 65, "C": 61, "D": 61, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ", ""],
-    "filename": "022",
     "height": 1.2,
-    "weight": 38.0
+    "weight": 38.0,
+    "basename": "022"
   },
   "アーボ": {
     "no": 23,
@@ -225,9 +225,9 @@
     "bstats": { "H": 35, "A": 60, "B": 44, "C": 40, "D": 54, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["いかく", "だっぴ"],
-    "filename": "023",
     "height": 2.0,
-    "weight": 6.9
+    "weight": 6.9,
+    "basename": "023"
   },
   "アーボック": {
     "no": 24,
@@ -235,9 +235,9 @@
     "bstats": { "H": 60, "A": 85, "B": 69, "C": 65, "D": 79, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["いかく", "だっぴ"],
-    "filename": "024",
     "height": 3.5,
-    "weight": 65.0
+    "weight": 65.0,
+    "basename": "024"
   },
   "ピカチュウ": {
     "no": 25,
@@ -245,9 +245,9 @@
     "bstats": { "H": 35, "A": 55, "B": 30, "C": 50, "D": 40, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", ""],
-    "filename": "025",
     "height": 0.4,
-    "weight": 6.0
+    "weight": 6.0,
+    "basename": "025"
   },
   "ライチュウ": {
     "no": 26,
@@ -255,9 +255,9 @@
     "bstats": { "H": 60, "A": 90, "B": 55, "C": 90, "D": 80, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", ""],
-    "filename": "026",
     "height": 0.8,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "026"
   },
   "サンド": {
     "no": 27,
@@ -265,9 +265,9 @@
     "bstats": { "H": 50, "A": 75, "B": 85, "C": 20, "D": 30, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["すながくれ", ""],
-    "filename": "027",
     "height": 0.6,
-    "weight": 12.0
+    "weight": 12.0,
+    "basename": "027"
   },
   "サンドパン": {
     "no": 28,
@@ -275,9 +275,9 @@
     "bstats": { "H": 75, "A": 100, "B": 110, "C": 45, "D": 55, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["すながくれ", ""],
-    "filename": "028",
     "height": 1.0,
-    "weight": 29.5
+    "weight": 29.5,
+    "basename": "028"
   },
   "ニドラン♀": {
     "no": 29,
@@ -285,9 +285,9 @@
     "bstats": { "H": 55, "A": 47, "B": 52, "C": 40, "D": 40, "S": 41 },
     "gender_ratio": "♀のみ",
     "abilities": ["どくのトゲ"],
-    "filename": "029",
     "height": 0.4,
-    "weight": 7.0
+    "weight": 7.0,
+    "basename": "029"
   },
   "ニドリーナ": {
     "no": 30,
@@ -295,9 +295,9 @@
     "bstats": { "H": 70, "A": 62, "B": 67, "C": 55, "D": 55, "S": 56 },
     "gender_ratio": "♀のみ",
     "abilities": ["どくのトゲ"],
-    "filename": "030",
     "height": 0.8,
-    "weight": 20.0
+    "weight": 20.0,
+    "basename": "030"
   },
   "ニドクイン": {
     "no": 31,
@@ -305,9 +305,9 @@
     "bstats": { "H": 90, "A": 82, "B": 87, "C": 75, "D": 85, "S": 76 },
     "gender_ratio": "♀のみ",
     "abilities": ["どくのトゲ"],
-    "filename": "031",
     "height": 1.3,
-    "weight": 60.0
+    "weight": 60.0,
+    "basename": "031"
   },
   "ニドラン♂": {
     "no": 32,
@@ -315,9 +315,9 @@
     "bstats": { "H": 46, "A": 57, "B": 40, "C": 40, "D": 40, "S": 50 },
     "gender_ratio": "♂のみ",
     "abilities": ["どくのトゲ"],
-    "filename": "032",
     "height": 0.5,
-    "weight": 9.0
+    "weight": 9.0,
+    "basename": "032"
   },
   "ニドリーノ": {
     "no": 33,
@@ -325,9 +325,9 @@
     "bstats": { "H": 61, "A": 72, "B": 57, "C": 55, "D": 55, "S": 65 },
     "gender_ratio": "♂のみ",
     "abilities": ["どくのトゲ"],
-    "filename": "033",
     "height": 0.9,
-    "weight": 19.5
+    "weight": 19.5,
+    "basename": "033"
   },
   "ニドキング": {
     "no": 34,
@@ -335,9 +335,9 @@
     "bstats": { "H": 81, "A": 92, "B": 77, "C": 85, "D": 75, "S": 85 },
     "gender_ratio": "♂のみ",
     "abilities": ["どくのトゲ"],
-    "filename": "034",
     "height": 1.4,
-    "weight": 62.0
+    "weight": 62.0,
+    "basename": "034"
   },
   "ピッピ": {
     "no": 35,
@@ -345,9 +345,9 @@
     "bstats": { "H": 70, "A": 45, "B": 48, "C": 60, "D": 65, "S": 35 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ"],
-    "filename": "035",
     "height": 0.6,
-    "weight": 7.5
+    "weight": 7.5,
+    "basename": "035"
   },
   "ピクシー": {
     "no": 36,
@@ -355,9 +355,9 @@
     "bstats": { "H": 95, "A": 70, "B": 73, "C": 85, "D": 90, "S": 60 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ"],
-    "filename": "036",
     "height": 1.3,
-    "weight": 40.0
+    "weight": 40.0,
+    "basename": "036"
   },
   "ロコン": {
     "no": 37,
@@ -365,9 +365,9 @@
     "bstats": { "H": 38, "A": 41, "B": 40, "C": 50, "D": 65, "S": 65 },
     "gender_ratio": "3:1",
     "abilities": ["もらいび", ""],
-    "filename": "037",
     "height": 0.6,
-    "weight": 9.9
+    "weight": 9.9,
+    "basename": "037"
   },
   "キュウコン": {
     "no": 38,
@@ -375,9 +375,9 @@
     "bstats": { "H": 73, "A": 76, "B": 75, "C": 81, "D": 100, "S": 100 },
     "gender_ratio": "3:1",
     "abilities": ["もらいび", ""],
-    "filename": "038",
     "height": 1.1,
-    "weight": 19.9
+    "weight": 19.9,
+    "basename": "038"
   },
   "プリン": {
     "no": 39,
@@ -385,9 +385,9 @@
     "bstats": { "H": 115, "A": 45, "B": 20, "C": 45, "D": 25, "S": 20 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ", ""],
-    "filename": "039",
     "height": 0.5,
-    "weight": 5.5
+    "weight": 5.5,
+    "basename": "039"
   },
   "プクリン": {
     "no": 40,
@@ -395,9 +395,9 @@
     "bstats": { "H": 140, "A": 70, "B": 45, "C": 75, "D": 50, "S": 45 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ", ""],
-    "filename": "040",
     "height": 1.0,
-    "weight": 12.0
+    "weight": 12.0,
+    "basename": "040"
   },
   "ズバット": {
     "no": 41,
@@ -405,9 +405,9 @@
     "bstats": { "H": 40, "A": 45, "B": 35, "C": 30, "D": 40, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく", ""],
-    "filename": "041",
     "height": 0.8,
-    "weight": 7.5
+    "weight": 7.5,
+    "basename": "041"
   },
   "ゴルバット": {
     "no": 42,
@@ -415,9 +415,9 @@
     "bstats": { "H": 75, "A": 80, "B": 70, "C": 65, "D": 75, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく", ""],
-    "filename": "042",
     "height": 1.6,
-    "weight": 55.0
+    "weight": 55.0,
+    "basename": "042"
   },
   "ナゾノクサ": {
     "no": 43,
@@ -425,9 +425,9 @@
     "bstats": { "H": 45, "A": 50, "B": 55, "C": 75, "D": 65, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "043",
     "height": 0.5,
-    "weight": 5.4
+    "weight": 5.4,
+    "basename": "043"
   },
   "クサイハナ": {
     "no": 44,
@@ -435,9 +435,9 @@
     "bstats": { "H": 60, "A": 65, "B": 70, "C": 85, "D": 75, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "044",
     "height": 0.8,
-    "weight": 8.6
+    "weight": 8.6,
+    "basename": "044"
   },
   "ラフレシア": {
     "no": 45,
@@ -445,9 +445,9 @@
     "bstats": { "H": 75, "A": 80, "B": 85, "C": 100, "D": 90, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "045",
     "height": 1.2,
-    "weight": 18.6
+    "weight": 18.6,
+    "basename": "045"
   },
   "パラス": {
     "no": 46,
@@ -455,9 +455,9 @@
     "bstats": { "H": 35, "A": 70, "B": 55, "C": 45, "D": 55, "S": 25 },
     "gender_ratio": "1:1",
     "abilities": ["ほうし"],
-    "filename": "046",
     "height": 0.3,
-    "weight": 5.4
+    "weight": 5.4,
+    "basename": "046"
   },
   "パラセクト": {
     "no": 47,
@@ -465,9 +465,9 @@
     "bstats": { "H": 60, "A": 95, "B": 80, "C": 60, "D": 80, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["ほうし"],
-    "filename": "047",
     "height": 1.0,
-    "weight": 29.5
+    "weight": 29.5,
+    "basename": "047"
   },
   "コンパン": {
     "no": 48,
@@ -475,9 +475,9 @@
     "bstats": { "H": 60, "A": 55, "B": 50, "C": 40, "D": 55, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["ふくがん"],
-    "filename": "048",
     "height": 1.0,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "048"
   },
   "モルフォン": {
     "no": 49,
@@ -485,9 +485,9 @@
     "bstats": { "H": 70, "A": 65, "B": 60, "C": 90, "D": 75, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["りんぷん"],
-    "filename": "049",
     "height": 1.5,
-    "weight": 12.5
+    "weight": 12.5,
+    "basename": "049"
   },
   "ディグダ": {
     "no": 50,
@@ -495,9 +495,9 @@
     "bstats": { "H": 10, "A": 55, "B": 25, "C": 35, "D": 45, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["すながくれ", "ありじごく"],
-    "filename": "050",
     "height": 0.2,
-    "weight": 0.8
+    "weight": 0.8,
+    "basename": "050"
   },
   "ダグトリオ": {
     "no": 51,
@@ -505,9 +505,9 @@
     "bstats": { "H": 35, "A": 80, "B": 50, "C": 50, "D": 70, "S": 120 },
     "gender_ratio": "1:1",
     "abilities": ["すながくれ", "ありじごく"],
-    "filename": "051",
     "height": 0.7,
-    "weight": 33.3
+    "weight": 33.3,
+    "basename": "051"
   },
   "ニャース": {
     "no": 52,
@@ -515,9 +515,9 @@
     "bstats": { "H": 40, "A": 45, "B": 35, "C": 40, "D": 40, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["ものひろい"],
-    "filename": "052",
     "height": 0.4,
-    "weight": 4.2
+    "weight": 4.2,
+    "basename": "052"
   },
   "ペルシアン": {
     "no": 53,
@@ -525,9 +525,9 @@
     "bstats": { "H": 65, "A": 70, "B": 60, "C": 65, "D": 65, "S": 115 },
     "gender_ratio": "1:1",
     "abilities": ["じゅうなん"],
-    "filename": "053",
     "height": 1.0,
-    "weight": 32.0
+    "weight": 32.0,
+    "basename": "053"
   },
   "コダック": {
     "no": 54,
@@ -535,9 +535,9 @@
     "bstats": { "H": 50, "A": 52, "B": 48, "C": 65, "D": 50, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["しめりけ", "ノーてんき"],
-    "filename": "054",
     "height": 0.8,
-    "weight": 19.6
+    "weight": 19.6,
+    "basename": "054"
   },
   "ゴルダック": {
     "no": 55,
@@ -545,9 +545,9 @@
     "bstats": { "H": 80, "A": 82, "B": 78, "C": 95, "D": 80, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["しめりけ", "ノーてんき"],
-    "filename": "055",
     "height": 1.7,
-    "weight": 76.6
+    "weight": 76.6,
+    "basename": "055"
   },
   "マンキー": {
     "no": 56,
@@ -555,9 +555,9 @@
     "bstats": { "H": 40, "A": 80, "B": 35, "C": 35, "D": 45, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["やるき"],
-    "filename": "056",
     "height": 0.5,
-    "weight": 28.0
+    "weight": 28.0,
+    "basename": "056"
   },
   "オコリザル": {
     "no": 57,
@@ -565,9 +565,9 @@
     "bstats": { "H": 65, "A": 105, "B": 60, "C": 60, "D": 70, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["やるき"],
-    "filename": "057",
     "height": 1.0,
-    "weight": 32.0
+    "weight": 32.0,
+    "basename": "057"
   },
   "ガーディ": {
     "no": 58,
@@ -575,9 +575,9 @@
     "bstats": { "H": 55, "A": 70, "B": 45, "C": 70, "D": 50, "S": 60 },
     "gender_ratio": "1:3",
     "abilities": ["いかく", "もらいび"],
-    "filename": "058",
     "height": 0.7,
-    "weight": 19.0
+    "weight": 19.0,
+    "basename": "058"
   },
   "ウインディ": {
     "no": 59,
@@ -585,9 +585,9 @@
     "bstats": { "H": 90, "A": 110, "B": 80, "C": 100, "D": 80, "S": 95 },
     "gender_ratio": "1:3",
     "abilities": ["いかく", "もらいび"],
-    "filename": "059",
     "height": 1.9,
-    "weight": 155.0
+    "weight": 155.0,
+    "basename": "059"
   },
   "ニョロモ": {
     "no": 60,
@@ -595,9 +595,9 @@
     "bstats": { "H": 40, "A": 50, "B": 40, "C": 40, "D": 40, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["ちょすい", "しめりけ"],
-    "filename": "060",
     "height": 0.6,
-    "weight": 12.4
+    "weight": 12.4,
+    "basename": "060"
   },
   "ニョロゾ": {
     "no": 61,
@@ -605,9 +605,9 @@
     "bstats": { "H": 65, "A": 65, "B": 65, "C": 50, "D": 50, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["ちょすい", "しめりけ"],
-    "filename": "061",
     "height": 1.0,
-    "weight": 20.0
+    "weight": 20.0,
+    "basename": "061"
   },
   "ニョロボン": {
     "no": 62,
@@ -615,9 +615,9 @@
     "bstats": { "H": 90, "A": 85, "B": 95, "C": 70, "D": 90, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ちょすい", "しめりけ"],
-    "filename": "062",
     "height": 1.3,
-    "weight": 54.0
+    "weight": 54.0,
+    "basename": "062"
   },
   "ケーシィ": {
     "no": 63,
@@ -625,9 +625,9 @@
     "bstats": { "H": 25, "A": 20, "B": 15, "C": 105, "D": 55, "S": 90 },
     "gender_ratio": "1:3",
     "abilities": ["シンクロ", "せいしんりょく"],
-    "filename": "063",
     "height": 0.9,
-    "weight": 19.5
+    "weight": 19.5,
+    "basename": "063"
   },
   "ユンゲラー": {
     "no": 64,
@@ -635,9 +635,9 @@
     "bstats": { "H": 40, "A": 35, "B": 30, "C": 120, "D": 70, "S": 105 },
     "gender_ratio": "1:3",
     "abilities": ["シンクロ", "せいしんりょく"],
-    "filename": "064",
     "height": 1.3,
-    "weight": 56.5
+    "weight": 56.5,
+    "basename": "064"
   },
   "フーディン": {
     "no": 65,
@@ -645,9 +645,9 @@
     "bstats": { "H": 55, "A": 50, "B": 45, "C": 135, "D": 85, "S": 120 },
     "gender_ratio": "1:3",
     "abilities": ["シンクロ", "せいしんりょく"],
-    "filename": "065",
     "height": 1.5,
-    "weight": 48.0
+    "weight": 48.0,
+    "basename": "065"
   },
   "ワンリキー": {
     "no": 66,
@@ -655,9 +655,9 @@
     "bstats": { "H": 70, "A": 80, "B": 50, "C": 35, "D": 35, "S": 35 },
     "gender_ratio": "1:3",
     "abilities": ["こんじょう"],
-    "filename": "066",
     "height": 0.8,
-    "weight": 19.5
+    "weight": 19.5,
+    "basename": "066"
   },
   "ゴーリキー": {
     "no": 67,
@@ -665,9 +665,9 @@
     "bstats": { "H": 80, "A": 100, "B": 70, "C": 50, "D": 60, "S": 45 },
     "gender_ratio": "1:3",
     "abilities": ["こんじょう"],
-    "filename": "067",
     "height": 1.5,
-    "weight": 70.5
+    "weight": 70.5,
+    "basename": "067"
   },
   "カイリキー": {
     "no": 68,
@@ -675,9 +675,9 @@
     "bstats": { "H": 90, "A": 130, "B": 80, "C": 65, "D": 85, "S": 55 },
     "gender_ratio": "1:3",
     "abilities": ["こんじょう"],
-    "filename": "068",
     "height": 1.6,
-    "weight": 130.0
+    "weight": 130.0,
+    "basename": "068"
   },
   "マダツボミ": {
     "no": 69,
@@ -685,9 +685,9 @@
     "bstats": { "H": 50, "A": 75, "B": 35, "C": 70, "D": 30, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "069",
     "height": 0.7,
-    "weight": 4.0
+    "weight": 4.0,
+    "basename": "069"
   },
   "ウツドン": {
     "no": 70,
@@ -695,9 +695,9 @@
     "bstats": { "H": 65, "A": 90, "B": 50, "C": 85, "D": 45, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "070",
     "height": 1.0,
-    "weight": 6.4
+    "weight": 6.4,
+    "basename": "070"
   },
   "ウツボット": {
     "no": 71,
@@ -705,9 +705,9 @@
     "bstats": { "H": 80, "A": 105, "B": 65, "C": 100, "D": 60, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "071",
     "height": 1.7,
-    "weight": 15.5
+    "weight": 15.5,
+    "basename": "071"
   },
   "メノクラゲ": {
     "no": 72,
@@ -715,9 +715,9 @@
     "bstats": { "H": 40, "A": 40, "B": 35, "C": 50, "D": 100, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["クリアボディ", "ヘドロえき"],
-    "filename": "072",
     "height": 0.9,
-    "weight": 45.5
+    "weight": 45.5,
+    "basename": "072"
   },
   "ドククラゲ": {
     "no": 73,
@@ -725,9 +725,9 @@
     "bstats": { "H": 80, "A": 70, "B": 65, "C": 80, "D": 120, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["クリアボディ", "ヘドロえき"],
-    "filename": "073",
     "height": 1.6,
-    "weight": 55.0
+    "weight": 55.0,
+    "basename": "073"
   },
   "イシツブテ": {
     "no": 74,
@@ -735,9 +735,9 @@
     "bstats": { "H": 40, "A": 80, "B": 100, "C": 30, "D": 30, "S": 20 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "がんじょう"],
-    "filename": "074",
     "height": 0.4,
-    "weight": 20.0
+    "weight": 20.0,
+    "basename": "074"
   },
   "ゴローン": {
     "no": 75,
@@ -745,9 +745,9 @@
     "bstats": { "H": 55, "A": 95, "B": 115, "C": 45, "D": 45, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "がんじょう"],
-    "filename": "075",
     "height": 1.0,
-    "weight": 105.0
+    "weight": 105.0,
+    "basename": "075"
   },
   "ゴローニャ": {
     "no": 76,
@@ -755,9 +755,9 @@
     "bstats": { "H": 80, "A": 110, "B": 130, "C": 55, "D": 65, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "がんじょう"],
-    "filename": "076",
     "height": 1.4,
-    "weight": 300.0
+    "weight": 300.0,
+    "basename": "076"
   },
   "ポニータ": {
     "no": 77,
@@ -765,9 +765,9 @@
     "bstats": { "H": 50, "A": 85, "B": 55, "C": 65, "D": 65, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "もらいび"],
-    "filename": "077",
     "height": 1.0,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "077"
   },
   "ギャロップ": {
     "no": 78,
@@ -775,9 +775,9 @@
     "bstats": { "H": 65, "A": 100, "B": 70, "C": 80, "D": 80, "S": 105 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "もらいび"],
-    "filename": "078",
     "height": 1.7,
-    "weight": 95.0
+    "weight": 95.0,
+    "basename": "078"
   },
   "ヤドン": {
     "no": 79,
@@ -785,9 +785,9 @@
     "bstats": { "H": 90, "A": 65, "B": 65, "C": 40, "D": 40, "S": 15 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん", "マイペース"],
-    "filename": "079",
     "height": 1.2,
-    "weight": 36.0
+    "weight": 36.0,
+    "basename": "079"
   },
   "ヤドラン": {
     "no": 80,
@@ -795,9 +795,9 @@
     "bstats": { "H": 95, "A": 75, "B": 110, "C": 100, "D": 80, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん", "マイペース"],
-    "filename": "080",
     "height": 1.6,
-    "weight": 78.5
+    "weight": 78.5,
+    "basename": "080"
   },
   "コイル": {
     "no": 81,
@@ -805,9 +805,9 @@
     "bstats": { "H": 25, "A": 35, "B": 70, "C": 95, "D": 55, "S": 45 },
     "gender_ratio": "ふめい",
     "abilities": ["じりょく", "がんじょう"],
-    "filename": "081",
     "height": 0.3,
-    "weight": 6.0
+    "weight": 6.0,
+    "basename": "081"
   },
   "レアコイル": {
     "no": 82,
@@ -815,9 +815,9 @@
     "bstats": { "H": 50, "A": 60, "B": 95, "C": 120, "D": 70, "S": 70 },
     "gender_ratio": "ふめい",
     "abilities": ["じりょく", "がんじょう"],
-    "filename": "082",
     "height": 1.0,
-    "weight": 60.0
+    "weight": 60.0,
+    "basename": "082"
   },
   "カモネギ": {
     "no": 83,
@@ -825,9 +825,9 @@
     "bstats": { "H": 52, "A": 65, "B": 55, "C": 58, "D": 62, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ", "せいしんりょく"],
-    "filename": "083",
     "height": 0.8,
-    "weight": 15.0
+    "weight": 15.0,
+    "basename": "083"
   },
   "ドードー": {
     "no": 84,
@@ -835,9 +835,9 @@
     "bstats": { "H": 35, "A": 85, "B": 45, "C": 35, "D": 35, "S": 75 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "はやおき"],
-    "filename": "084",
     "height": 1.4,
-    "weight": 39.2
+    "weight": 39.2,
+    "basename": "084"
   },
   "ドードリオ": {
     "no": 85,
@@ -845,9 +845,9 @@
     "bstats": { "H": 60, "A": 110, "B": 70, "C": 60, "D": 60, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "はやおき"],
-    "filename": "085",
     "height": 1.8,
-    "weight": 85.2
+    "weight": 85.2,
+    "basename": "085"
   },
   "パウワウ": {
     "no": 86,
@@ -855,9 +855,9 @@
     "bstats": { "H": 65, "A": 45, "B": 55, "C": 45, "D": 70, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう"],
-    "filename": "086",
     "height": 1.1,
-    "weight": 90.0
+    "weight": 90.0,
+    "basename": "086"
   },
   "ジュゴン": {
     "no": 87,
@@ -865,9 +865,9 @@
     "bstats": { "H": 90, "A": 70, "B": 80, "C": 70, "D": 95, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう"],
-    "filename": "087",
     "height": 1.7,
-    "weight": 120.0
+    "weight": 120.0,
+    "basename": "087"
   },
   "ベトベター": {
     "no": 88,
@@ -875,9 +875,9 @@
     "bstats": { "H": 80, "A": 80, "B": 50, "C": 40, "D": 50, "S": 25 },
     "gender_ratio": "1:1",
     "abilities": ["あくしゅう", "ねんちゃく"],
-    "filename": "088",
     "height": 0.9,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "088"
   },
   "ベトベトン": {
     "no": 89,
@@ -885,9 +885,9 @@
     "bstats": { "H": 105, "A": 105, "B": 75, "C": 65, "D": 100, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["あくしゅう", "ねんちゃく"],
-    "filename": "089",
     "height": 1.2,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "089"
   },
   "シェルダー": {
     "no": 90,
@@ -895,9 +895,9 @@
     "bstats": { "H": 30, "A": 65, "B": 100, "C": 45, "D": 25, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["シェルアーマー"],
-    "filename": "090",
     "height": 0.3,
-    "weight": 4.0
+    "weight": 4.0,
+    "basename": "090"
   },
   "パルシェン": {
     "no": 91,
@@ -905,9 +905,9 @@
     "bstats": { "H": 50, "A": 95, "B": 180, "C": 85, "D": 45, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["シェルアーマー"],
-    "filename": "091",
     "height": 1.5,
-    "weight": 132.5
+    "weight": 132.5,
+    "basename": "091"
   },
   "ゴース": {
     "no": 92,
@@ -915,9 +915,9 @@
     "bstats": { "H": 30, "A": 35, "B": 30, "C": 100, "D": 35, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "092",
     "height": 1.3,
-    "weight": 0.1
+    "weight": 0.1,
+    "basename": "092"
   },
   "ゴースト": {
     "no": 93,
@@ -925,9 +925,9 @@
     "bstats": { "H": 45, "A": 50, "B": 45, "C": 115, "D": 55, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "093",
     "height": 1.6,
-    "weight": 0.1
+    "weight": 0.1,
+    "basename": "093"
   },
   "ゲンガー": {
     "no": 94,
@@ -935,9 +935,9 @@
     "bstats": { "H": 60, "A": 65, "B": 60, "C": 130, "D": 75, "S": 110 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "094",
     "height": 1.5,
-    "weight": 40.5
+    "weight": 40.5,
+    "basename": "094"
   },
   "イワーク": {
     "no": 95,
@@ -945,9 +945,9 @@
     "bstats": { "H": 35, "A": 45, "B": 160, "C": 30, "D": 45, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "がんじょう"],
-    "filename": "095",
     "height": 8.8,
-    "weight": 210.0
+    "weight": 210.0,
+    "basename": "095"
   },
   "スリープ": {
     "no": 96,
@@ -955,9 +955,9 @@
     "bstats": { "H": 60, "A": 48, "B": 45, "C": 43, "D": 90, "S": 42 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん"],
-    "filename": "096",
     "height": 1.0,
-    "weight": 32.4
+    "weight": 32.4,
+    "basename": "096"
   },
   "スリーパー": {
     "no": 97,
@@ -965,9 +965,9 @@
     "bstats": { "H": 85, "A": 73, "B": 70, "C": 73, "D": 115, "S": 67 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん"],
-    "filename": "097",
     "height": 1.6,
-    "weight": 75.6
+    "weight": 75.6,
+    "basename": "097"
   },
   "クラブ": {
     "no": 98,
@@ -975,9 +975,9 @@
     "bstats": { "H": 30, "A": 105, "B": 90, "C": 25, "D": 25, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "シェルアーマー"],
-    "filename": "098",
     "height": 0.4,
-    "weight": 6.5
+    "weight": 6.5,
+    "basename": "098"
   },
   "キングラー": {
     "no": 99,
@@ -985,9 +985,9 @@
     "bstats": { "H": 55, "A": 130, "B": 115, "C": 50, "D": 50, "S": 75 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "シェルアーマー"],
-    "filename": "099",
     "height": 1.3,
-    "weight": 60.0
+    "weight": 60.0,
+    "basename": "099"
   },
   "ビリリダマ": {
     "no": 100,
@@ -995,9 +995,9 @@
     "bstats": { "H": 40, "A": 30, "B": 50, "C": 55, "D": 55, "S": 100 },
     "gender_ratio": "ふめい",
     "abilities": ["ぼうおん", "せいでんき"],
-    "filename": "100",
     "height": 0.5,
-    "weight": 10.4
+    "weight": 10.4,
+    "basename": "100"
   },
   "マルマイン": {
     "no": 101,
@@ -1005,9 +1005,9 @@
     "bstats": { "H": 60, "A": 50, "B": 70, "C": 80, "D": 80, "S": 140 },
     "gender_ratio": "ふめい",
     "abilities": ["ぼうおん", "せいでんき"],
-    "filename": "101",
     "height": 1.2,
-    "weight": 66.6
+    "weight": 66.6,
+    "basename": "101"
   },
   "タマタマ": {
     "no": 102,
@@ -1015,9 +1015,9 @@
     "bstats": { "H": 60, "A": 40, "B": 80, "C": 60, "D": 45, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "102",
     "height": 0.4,
-    "weight": 2.5
+    "weight": 2.5,
+    "basename": "102"
   },
   "ナッシー": {
     "no": 103,
@@ -1025,9 +1025,9 @@
     "bstats": { "H": 95, "A": 95, "B": 85, "C": 125, "D": 65, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "103",
     "height": 2.0,
-    "weight": 120.0
+    "weight": 120.0,
+    "basename": "103"
   },
   "カラカラ": {
     "no": 104,
@@ -1035,9 +1035,9 @@
     "bstats": { "H": 50, "A": 50, "B": 95, "C": 40, "D": 50, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "ひらいしん"],
-    "filename": "104",
     "height": 0.4,
-    "weight": 6.5
+    "weight": 6.5,
+    "basename": "104"
   },
   "ガラガラ": {
     "no": 105,
@@ -1045,9 +1045,9 @@
     "bstats": { "H": 60, "A": 80, "B": 110, "C": 50, "D": 80, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "ひらいしん"],
-    "filename": "105",
     "height": 1.0,
-    "weight": 45.0
+    "weight": 45.0,
+    "basename": "105"
   },
   "サワムラー": {
     "no": 106,
@@ -1055,9 +1055,9 @@
     "bstats": { "H": 50, "A": 120, "B": 53, "C": 35, "D": 110, "S": 87 },
     "gender_ratio": "♂のみ",
     "abilities": ["じゅうなん"],
-    "filename": "106",
     "height": 1.5,
-    "weight": 49.8
+    "weight": 49.8,
+    "basename": "106"
   },
   "エビワラー": {
     "no": 107,
@@ -1065,9 +1065,9 @@
     "bstats": { "H": 50, "A": 105, "B": 79, "C": 35, "D": 110, "S": 76 },
     "gender_ratio": "♂のみ",
     "abilities": ["するどいめ"],
-    "filename": "107",
     "height": 1.4,
-    "weight": 50.2
+    "weight": 50.2,
+    "basename": "107"
   },
   "ベロリンガ": {
     "no": 108,
@@ -1075,9 +1075,9 @@
     "bstats": { "H": 90, "A": 55, "B": 75, "C": 60, "D": 75, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["マイペース", "どんかん"],
-    "filename": "108",
     "height": 1.2,
-    "weight": 65.5
+    "weight": 65.5,
+    "basename": "108"
   },
   "ドガース": {
     "no": 109,
@@ -1085,9 +1085,9 @@
     "bstats": { "H": 40, "A": 65, "B": 95, "C": 60, "D": 45, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "109",
     "height": 0.6,
-    "weight": 1.0
+    "weight": 1.0,
+    "basename": "109"
   },
   "マタドガス": {
     "no": 110,
@@ -1095,9 +1095,9 @@
     "bstats": { "H": 65, "A": 90, "B": 120, "C": 85, "D": 70, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "110",
     "height": 1.2,
-    "weight": 9.5
+    "weight": 9.5,
+    "basename": "110"
   },
   "サイホーン": {
     "no": 111,
@@ -1105,9 +1105,9 @@
     "bstats": { "H": 80, "A": 85, "B": 95, "C": 30, "D": 30, "S": 25 },
     "gender_ratio": "1:1",
     "abilities": ["ひらいしん", "いしあたま"],
-    "filename": "111",
     "height": 1.0,
-    "weight": 115.0
+    "weight": 115.0,
+    "basename": "111"
   },
   "サイドン": {
     "no": 112,
@@ -1115,9 +1115,9 @@
     "bstats": { "H": 105, "A": 130, "B": 120, "C": 45, "D": 45, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ひらいしん", "いしあたま"],
-    "filename": "112",
     "height": 1.9,
-    "weight": 120.0
+    "weight": 120.0,
+    "basename": "112"
   },
   "ラッキー": {
     "no": 113,
@@ -1125,9 +1125,9 @@
     "bstats": { "H": 250, "A": 5, "B": 5, "C": 35, "D": 105, "S": 50 },
     "gender_ratio": "♀のみ",
     "abilities": ["しぜんかいふく", "てんのめぐみ"],
-    "filename": "113",
     "height": 1.1,
-    "weight": 34.6
+    "weight": 34.6,
+    "basename": "113"
   },
   "モンジャラ": {
     "no": 114,
@@ -1135,9 +1135,9 @@
     "bstats": { "H": 65, "A": 55, "B": 115, "C": 100, "D": 40, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "114",
     "height": 1.0,
-    "weight": 35.0
+    "weight": 35.0,
+    "basename": "114"
   },
   "ガルーラ": {
     "no": 115,
@@ -1145,9 +1145,9 @@
     "bstats": { "H": 105, "A": 95, "B": 80, "C": 40, "D": 80, "S": 90 },
     "gender_ratio": "♀のみ",
     "abilities": ["はやおき"],
-    "filename": "115",
     "height": 2.2,
-    "weight": 80.0
+    "weight": 80.0,
+    "basename": "115"
   },
   "タッツー": {
     "no": 116,
@@ -1155,9 +1155,9 @@
     "bstats": { "H": 30, "A": 40, "B": 70, "C": 70, "D": 25, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい"],
-    "filename": "116",
     "height": 0.4,
-    "weight": 8.0
+    "weight": 8.0,
+    "basename": "116"
   },
   "シードラ": {
     "no": 117,
@@ -1165,9 +1165,9 @@
     "bstats": { "H": 55, "A": 65, "B": 95, "C": 95, "D": 45, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["どくのトゲ"],
-    "filename": "117",
     "height": 1.2,
-    "weight": 25.0
+    "weight": 25.0,
+    "basename": "117"
   },
   "トサキント": {
     "no": 118,
@@ -1175,9 +1175,9 @@
     "bstats": { "H": 45, "A": 67, "B": 60, "C": 35, "D": 50, "S": 63 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", "みずのベール"],
-    "filename": "118",
     "height": 0.6,
-    "weight": 15.0
+    "weight": 15.0,
+    "basename": "118"
   },
   "アズマオウ": {
     "no": 119,
@@ -1185,9 +1185,9 @@
     "bstats": { "H": 80, "A": 92, "B": 65, "C": 65, "D": 80, "S": 68 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", "みずのベール"],
-    "filename": "119",
     "height": 1.3,
-    "weight": 39.0
+    "weight": 39.0,
+    "basename": "119"
   },
   "ヒトデマン": {
     "no": 120,
@@ -1195,9 +1195,9 @@
     "bstats": { "H": 30, "A": 45, "B": 55, "C": 70, "D": 55, "S": 85 },
     "gender_ratio": "ふめい",
     "abilities": ["はっこう", "しぜんかいふく"],
-    "filename": "120",
     "height": 0.8,
-    "weight": 34.5
+    "weight": 34.5,
+    "basename": "120"
   },
   "スターミー": {
     "no": 121,
@@ -1205,9 +1205,9 @@
     "bstats": { "H": 60, "A": 75, "B": 85, "C": 100, "D": 85, "S": 115 },
     "gender_ratio": "ふめい",
     "abilities": ["はっこう", "しぜんかいふく"],
-    "filename": "121",
     "height": 1.1,
-    "weight": 80.0
+    "weight": 80.0,
+    "basename": "121"
   },
   "バリヤード": {
     "no": 122,
@@ -1215,9 +1215,9 @@
     "bstats": { "H": 40, "A": 45, "B": 65, "C": 100, "D": 120, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["ぼうおん"],
-    "filename": "122",
     "height": 1.3,
-    "weight": 54.5
+    "weight": 54.5,
+    "basename": "122"
   },
   "ストライク": {
     "no": 123,
@@ -1225,9 +1225,9 @@
     "bstats": { "H": 70, "A": 110, "B": 80, "C": 55, "D": 80, "S": 105 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ"],
-    "filename": "123",
     "height": 1.5,
-    "weight": 56.0
+    "weight": 56.0,
+    "basename": "123"
   },
   "ルージュラ": {
     "no": 124,
@@ -1235,9 +1235,9 @@
     "bstats": { "H": 65, "A": 50, "B": 35, "C": 115, "D": 95, "S": 95 },
     "gender_ratio": "♀のみ",
     "abilities": ["どんかん"],
-    "filename": "124",
     "height": 1.4,
-    "weight": 40.6
+    "weight": 40.6,
+    "basename": "124"
   },
   "エレブー": {
     "no": 125,
@@ -1245,9 +1245,9 @@
     "bstats": { "H": 65, "A": 83, "B": 57, "C": 95, "D": 85, "S": 105 },
     "gender_ratio": "1:3",
     "abilities": ["せいでんき", ""],
-    "filename": "125",
     "height": 1.1,
-    "weight": 30.0
+    "weight": 30.0,
+    "basename": "125"
   },
   "ブーバー": {
     "no": 126,
@@ -1255,9 +1255,9 @@
     "bstats": { "H": 65, "A": 95, "B": 57, "C": 100, "D": 85, "S": 93 },
     "gender_ratio": "1:3",
     "abilities": ["ほのおのからだ", ""],
-    "filename": "126",
     "height": 1.3,
-    "weight": 44.5
+    "weight": 44.5,
+    "basename": "126"
   },
   "カイロス": {
     "no": 127,
@@ -1265,9 +1265,9 @@
     "bstats": { "H": 65, "A": 125, "B": 100, "C": 55, "D": 70, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ"],
-    "filename": "127",
     "height": 1.5,
-    "weight": 55.0
+    "weight": 55.0,
+    "basename": "127"
   },
   "ケンタロス": {
     "no": 128,
@@ -1275,9 +1275,9 @@
     "bstats": { "H": 75, "A": 100, "B": 95, "C": 40, "D": 70, "S": 110 },
     "gender_ratio": "♂のみ",
     "abilities": ["いかく"],
-    "filename": "128",
     "height": 1.4,
-    "weight": 88.4
+    "weight": 88.4,
+    "basename": "128"
   },
   "コイキング": {
     "no": 129,
@@ -1285,9 +1285,9 @@
     "bstats": { "H": 20, "A": 10, "B": 55, "C": 15, "D": 20, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", ""],
-    "filename": "129",
     "height": 0.9,
-    "weight": 10.0
+    "weight": 10.0,
+    "basename": "129"
   },
   "ギャラドス": {
     "no": 130,
@@ -1295,9 +1295,9 @@
     "bstats": { "H": 95, "A": 125, "B": 79, "C": 60, "D": 100, "S": 81 },
     "gender_ratio": "1:1",
     "abilities": ["いかく", ""],
-    "filename": "130",
     "height": 6.5,
-    "weight": 235.0
+    "weight": 235.0,
+    "basename": "130"
   },
   "ラプラス": {
     "no": 131,
@@ -1305,9 +1305,9 @@
     "bstats": { "H": 130, "A": 85, "B": 80, "C": 85, "D": 95, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["ちょすい", "シェルアーマー"],
-    "filename": "131",
     "height": 2.5,
-    "weight": 220.0
+    "weight": 220.0,
+    "basename": "131"
   },
   "メタモン": {
     "no": 132,
@@ -1315,9 +1315,9 @@
     "bstats": { "H": 48, "A": 48, "B": 48, "C": 48, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["じゅうなん", ""],
-    "filename": "132",
     "height": 0.3,
-    "weight": 4.0
+    "weight": 4.0,
+    "basename": "132"
   },
   "イーブイ": {
     "no": 133,
@@ -1325,9 +1325,9 @@
     "bstats": { "H": 55, "A": 55, "B": 50, "C": 45, "D": 65, "S": 55 },
     "gender_ratio": "1:7",
     "abilities": ["にげあし"],
-    "filename": "133",
     "height": 0.3,
-    "weight": 6.5
+    "weight": 6.5,
+    "basename": "133"
   },
   "シャワーズ": {
     "no": 134,
@@ -1335,9 +1335,9 @@
     "bstats": { "H": 130, "A": 65, "B": 60, "C": 110, "D": 95, "S": 65 },
     "gender_ratio": "1:7",
     "abilities": ["ちょすい", ""],
-    "filename": "134",
     "height": 1.0,
-    "weight": 29.0
+    "weight": 29.0,
+    "basename": "134"
   },
   "サンダース": {
     "no": 135,
@@ -1345,9 +1345,9 @@
     "bstats": { "H": 65, "A": 65, "B": 60, "C": 110, "D": 95, "S": 130 },
     "gender_ratio": "1:7",
     "abilities": ["ちくでん", ""],
-    "filename": "135",
     "height": 0.8,
-    "weight": 24.5
+    "weight": 24.5,
+    "basename": "135"
   },
   "ブースター": {
     "no": 136,
@@ -1355,9 +1355,9 @@
     "bstats": { "H": 65, "A": 130, "B": 60, "C": 95, "D": 110, "S": 65 },
     "gender_ratio": "1:7",
     "abilities": ["もらいび", ""],
-    "filename": "136",
     "height": 0.9,
-    "weight": 25.0
+    "weight": 25.0,
+    "basename": "136"
   },
   "ポリゴン": {
     "no": 137,
@@ -1365,9 +1365,9 @@
     "bstats": { "H": 65, "A": 60, "B": 70, "C": 85, "D": 75, "S": 40 },
     "gender_ratio": "ふめい",
     "abilities": ["トレース"],
-    "filename": "137",
     "height": 0.8,
-    "weight": 36.5
+    "weight": 36.5,
+    "basename": "137"
   },
   "オムナイト": {
     "no": 138,
@@ -1375,9 +1375,9 @@
     "bstats": { "H": 35, "A": 40, "B": 100, "C": 90, "D": 55, "S": 35 },
     "gender_ratio": "1:7",
     "abilities": ["すいすい", "シェルアーマー"],
-    "filename": "138",
     "height": 0.4,
-    "weight": 7.5
+    "weight": 7.5,
+    "basename": "138"
   },
   "オムスター": {
     "no": 139,
@@ -1385,9 +1385,9 @@
     "bstats": { "H": 70, "A": 60, "B": 125, "C": 115, "D": 70, "S": 55 },
     "gender_ratio": "1:7",
     "abilities": ["すいすい", "シェルアーマー"],
-    "filename": "139",
     "height": 1.0,
-    "weight": 35.0
+    "weight": 35.0,
+    "basename": "139"
   },
   "カブト": {
     "no": 140,
@@ -1395,9 +1395,9 @@
     "bstats": { "H": 30, "A": 80, "B": 90, "C": 55, "D": 45, "S": 55 },
     "gender_ratio": "1:7",
     "abilities": ["すいすい", "カブトアーマー"],
-    "filename": "140",
     "height": 0.5,
-    "weight": 11.5
+    "weight": 11.5,
+    "basename": "140"
   },
   "カブトプス": {
     "no": 141,
@@ -1405,9 +1405,9 @@
     "bstats": { "H": 60, "A": 115, "B": 105, "C": 65, "D": 70, "S": 80 },
     "gender_ratio": "1:7",
     "abilities": ["すいすい", "カブトアーマー"],
-    "filename": "141",
     "height": 1.3,
-    "weight": 40.5
+    "weight": 40.5,
+    "basename": "141"
   },
   "プテラ": {
     "no": 142,
@@ -1415,9 +1415,9 @@
     "bstats": { "H": 80, "A": 105, "B": 65, "C": 60, "D": 75, "S": 130 },
     "gender_ratio": "1:7",
     "abilities": ["いしあたま", "プレッシャー"],
-    "filename": "142",
     "height": 1.8,
-    "weight": 59.0
+    "weight": 59.0,
+    "basename": "142"
   },
   "カビゴン": {
     "no": 143,
@@ -1425,9 +1425,9 @@
     "bstats": { "H": 160, "A": 110, "B": 65, "C": 65, "D": 110, "S": 30 },
     "gender_ratio": "1:7",
     "abilities": ["めんえき", "あついしぼう"],
-    "filename": "143",
     "height": 2.1,
-    "weight": 460.0
+    "weight": 460.0,
+    "basename": "143"
   },
   "フリーザー": {
     "no": 144,
@@ -1435,9 +1435,9 @@
     "bstats": { "H": 90, "A": 85, "B": 100, "C": 95, "D": 125, "S": 85 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "144",
     "height": 1.7,
-    "weight": 55.4
+    "weight": 55.4,
+    "basename": "144"
   },
   "サンダー": {
     "no": 145,
@@ -1445,9 +1445,9 @@
     "bstats": { "H": 90, "A": 90, "B": 85, "C": 125, "D": 90, "S": 100 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "145",
     "height": 1.6,
-    "weight": 52.6
+    "weight": 52.6,
+    "basename": "145"
   },
   "ファイヤー": {
     "no": 146,
@@ -1455,9 +1455,9 @@
     "bstats": { "H": 90, "A": 100, "B": 90, "C": 125, "D": 85, "S": 90 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "146",
     "height": 2.0,
-    "weight": 60.0
+    "weight": 60.0,
+    "basename": "146"
   },
   "ミニリュウ": {
     "no": 147,
@@ -1465,9 +1465,9 @@
     "bstats": { "H": 41, "A": 64, "B": 45, "C": 50, "D": 50, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "147",
     "height": 1.8,
-    "weight": 3.3
+    "weight": 3.3,
+    "basename": "147"
   },
   "ハクリュー": {
     "no": 148,
@@ -1475,9 +1475,9 @@
     "bstats": { "H": 61, "A": 84, "B": 65, "C": 70, "D": 70, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "148",
     "height": 4.0,
-    "weight": 16.5
+    "weight": 16.5,
+    "basename": "148"
   },
   "カイリュー": {
     "no": 149,
@@ -1485,9 +1485,9 @@
     "bstats": { "H": 91, "A": 134, "B": 95, "C": 100, "D": 100, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく", ""],
-    "filename": "149",
     "height": 2.2,
-    "weight": 210.0
+    "weight": 210.0,
+    "basename": "149"
   },
   "ミュウツー": {
     "no": 150,
@@ -1495,9 +1495,9 @@
     "bstats": { "H": 106, "A": 110, "B": 90, "C": 154, "D": 90, "S": 130 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "150",
     "height": 2.0,
-    "weight": 122.0
+    "weight": 122.0,
+    "basename": "150"
   },
   "ミュウ": {
     "no": 151,
@@ -1505,9 +1505,9 @@
     "bstats": { "H": 100, "A": 100, "B": 100, "C": 100, "D": 100, "S": 100 },
     "gender_ratio": "ふめい",
     "abilities": ["シンクロ", ""],
-    "filename": "151",
     "height": 0.4,
-    "weight": 4.0
+    "weight": 4.0,
+    "basename": "151"
   },
   "チコリータ": {
     "no": 152,
@@ -1515,9 +1515,9 @@
     "bstats": { "H": 45, "A": 49, "B": 65, "C": 49, "D": 65, "S": 45 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "152",
     "height": 0.9,
-    "weight": 6.4
+    "weight": 6.4,
+    "basename": "152"
   },
   "ベイリーフ": {
     "no": 153,
@@ -1525,9 +1525,9 @@
     "bstats": { "H": 60, "A": 62, "B": 80, "C": 63, "D": 80, "S": 60 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "153",
     "height": 1.2,
-    "weight": 15.8
+    "weight": 15.8,
+    "basename": "153"
   },
   "メガニウム": {
     "no": 154,
@@ -1535,9 +1535,9 @@
     "bstats": { "H": 80, "A": 82, "B": 100, "C": 83, "D": 100, "S": 80 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "154",
     "height": 1.8,
-    "weight": 100.5
+    "weight": 100.5,
+    "basename": "154"
   },
   "ヒノアラシ": {
     "no": 155,
@@ -1545,9 +1545,9 @@
     "bstats": { "H": 39, "A": 52, "B": 43, "C": 60, "D": 50, "S": 65 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "155",
     "height": 0.5,
-    "weight": 7.9
+    "weight": 7.9,
+    "basename": "155"
   },
   "マグマラシ": {
     "no": 156,
@@ -1555,9 +1555,9 @@
     "bstats": { "H": 58, "A": 64, "B": 58, "C": 80, "D": 65, "S": 80 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "156",
     "height": 0.9,
-    "weight": 19.0
+    "weight": 19.0,
+    "basename": "156"
   },
   "バクフーン": {
     "no": 157,
@@ -1565,9 +1565,9 @@
     "bstats": { "H": 78, "A": 84, "B": 78, "C": 109, "D": 85, "S": 100 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "157",
     "height": 1.7,
-    "weight": 79.5
+    "weight": 79.5,
+    "basename": "157"
   },
   "ワニノコ": {
     "no": 158,
@@ -1575,9 +1575,9 @@
     "bstats": { "H": 50, "A": 65, "B": 64, "C": 44, "D": 48, "S": 43 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "158",
     "height": 0.6,
-    "weight": 9.5
+    "weight": 9.5,
+    "basename": "158"
   },
   "アリゲイツ": {
     "no": 159,
@@ -1585,9 +1585,9 @@
     "bstats": { "H": 65, "A": 80, "B": 80, "C": 59, "D": 63, "S": 58 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "159",
     "height": 1.1,
-    "weight": 25.0
+    "weight": 25.0,
+    "basename": "159"
   },
   "オーダイル": {
     "no": 160,
@@ -1595,9 +1595,9 @@
     "bstats": { "H": 85, "A": 105, "B": 100, "C": 79, "D": 83, "S": 78 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "160",
     "height": 2.3,
-    "weight": 88.8
+    "weight": 88.8,
+    "basename": "160"
   },
   "オタチ": {
     "no": 161,
@@ -1605,9 +1605,9 @@
     "bstats": { "H": 35, "A": 46, "B": 34, "C": 35, "D": 45, "S": 20 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "するどいめ"],
-    "filename": "161",
     "height": 0.8,
-    "weight": 6.0
+    "weight": 6.0,
+    "basename": "161"
   },
   "オオタチ": {
     "no": 162,
@@ -1615,9 +1615,9 @@
     "bstats": { "H": 85, "A": 76, "B": 64, "C": 45, "D": 55, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "するどいめ"],
-    "filename": "162",
     "height": 1.8,
-    "weight": 32.5
+    "weight": 32.5,
+    "basename": "162"
   },
   "ホーホー": {
     "no": 163,
@@ -1625,9 +1625,9 @@
     "bstats": { "H": 60, "A": 30, "B": 30, "C": 36, "D": 56, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん", "するどいめ"],
-    "filename": "163",
     "height": 0.7,
-    "weight": 21.2
+    "weight": 21.2,
+    "basename": "163"
   },
   "ヨルノズク": {
     "no": 164,
@@ -1635,9 +1635,9 @@
     "bstats": { "H": 100, "A": 50, "B": 50, "C": 76, "D": 96, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん", "するどいめ"],
-    "filename": "164",
     "height": 1.6,
-    "weight": 40.8
+    "weight": 40.8,
+    "basename": "164"
   },
   "レディバ": {
     "no": 165,
@@ -1645,9 +1645,9 @@
     "bstats": { "H": 40, "A": 20, "B": 30, "C": 40, "D": 80, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", "はやおき"],
-    "filename": "165",
     "height": 1.0,
-    "weight": 10.8
+    "weight": 10.8,
+    "basename": "165"
   },
   "レディアン": {
     "no": 166,
@@ -1655,9 +1655,9 @@
     "bstats": { "H": 55, "A": 35, "B": 50, "C": 55, "D": 110, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", "はやおき"],
-    "filename": "166",
     "height": 1.4,
-    "weight": 35.6
+    "weight": 35.6,
+    "basename": "166"
   },
   "イトマル": {
     "no": 167,
@@ -1665,9 +1665,9 @@
     "bstats": { "H": 40, "A": 60, "B": 40, "C": 40, "D": 40, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", "ふみん"],
-    "filename": "167",
     "height": 0.5,
-    "weight": 8.5
+    "weight": 8.5,
+    "basename": "167"
   },
   "アリアドス": {
     "no": 168,
@@ -1675,9 +1675,9 @@
     "bstats": { "H": 70, "A": 90, "B": 70, "C": 60, "D": 60, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", "ふみん"],
-    "filename": "168",
     "height": 1.1,
-    "weight": 33.5
+    "weight": 33.5,
+    "basename": "168"
   },
   "クロバット": {
     "no": 169,
@@ -1685,9 +1685,9 @@
     "bstats": { "H": 85, "A": 90, "B": 80, "C": 70, "D": 80, "S": 130 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく", ""],
-    "filename": "169",
     "height": 1.8,
-    "weight": 75.0
+    "weight": 75.0,
+    "basename": "169"
   },
   "チョンチー": {
     "no": 170,
@@ -1695,9 +1695,9 @@
     "bstats": { "H": 75, "A": 38, "B": 38, "C": 56, "D": 56, "S": 67 },
     "gender_ratio": "1:1",
     "abilities": ["ちくでん", "はっこう"],
-    "filename": "170",
     "height": 0.5,
-    "weight": 12.0
+    "weight": 12.0,
+    "basename": "170"
   },
   "ランターン": {
     "no": 171,
@@ -1705,9 +1705,9 @@
     "bstats": { "H": 125, "A": 58, "B": 58, "C": 76, "D": 76, "S": 67 },
     "gender_ratio": "1:1",
     "abilities": ["ちくでん", "はっこう"],
-    "filename": "171",
     "height": 1.2,
-    "weight": 22.5
+    "weight": 22.5,
+    "basename": "171"
   },
   "ピチュー": {
     "no": 172,
@@ -1715,9 +1715,9 @@
     "bstats": { "H": 20, "A": 40, "B": 15, "C": 35, "D": 35, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", ""],
-    "filename": "172",
     "height": 0.3,
-    "weight": 2.0
+    "weight": 2.0,
+    "basename": "172"
   },
   "ピィ": {
     "no": 173,
@@ -1725,9 +1725,9 @@
     "bstats": { "H": 50, "A": 25, "B": 28, "C": 45, "D": 55, "S": 15 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ"],
-    "filename": "173",
     "height": 0.3,
-    "weight": 3.0
+    "weight": 3.0,
+    "basename": "173"
   },
   "ププリン": {
     "no": 174,
@@ -1735,9 +1735,9 @@
     "bstats": { "H": 90, "A": 30, "B": 15, "C": 40, "D": 20, "S": 15 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ", ""],
-    "filename": "174",
     "height": 0.3,
-    "weight": 1.0
+    "weight": 1.0,
+    "basename": "174"
   },
   "トゲピー": {
     "no": 175,
@@ -1745,9 +1745,9 @@
     "bstats": { "H": 35, "A": 20, "B": 65, "C": 40, "D": 65, "S": 20 },
     "gender_ratio": "1:7",
     "abilities": ["はりきり", "てんのめぐみ"],
-    "filename": "175",
     "height": 0.3,
-    "weight": 1.5
+    "weight": 1.5,
+    "basename": "175"
   },
   "トゲチック": {
     "no": 176,
@@ -1755,9 +1755,9 @@
     "bstats": { "H": 55, "A": 40, "B": 85, "C": 80, "D": 105, "S": 40 },
     "gender_ratio": "1:7",
     "abilities": ["はりきり", "てんのめぐみ"],
-    "filename": "176",
     "height": 0.6,
-    "weight": 3.2
+    "weight": 3.2,
+    "basename": "176"
   },
   "ネイティ": {
     "no": 177,
@@ -1765,9 +1765,9 @@
     "bstats": { "H": 40, "A": 50, "B": 45, "C": 70, "D": 45, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["シンクロ", "はやおき"],
-    "filename": "177",
     "height": 0.2,
-    "weight": 2.0
+    "weight": 2.0,
+    "basename": "177"
   },
   "ネイティオ": {
     "no": 178,
@@ -1775,9 +1775,9 @@
     "bstats": { "H": 65, "A": 75, "B": 70, "C": 95, "D": 70, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["シンクロ", "はやおき"],
-    "filename": "178",
     "height": 1.5,
-    "weight": 15.0
+    "weight": 15.0,
+    "basename": "178"
   },
   "メリープ": {
     "no": 179,
@@ -1785,9 +1785,9 @@
     "bstats": { "H": 55, "A": 40, "B": 40, "C": 65, "D": 45, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", ""],
-    "filename": "179",
     "height": 0.6,
-    "weight": 7.8
+    "weight": 7.8,
+    "basename": "179"
   },
   "モココ": {
     "no": 180,
@@ -1795,9 +1795,9 @@
     "bstats": { "H": 70, "A": 55, "B": 55, "C": 80, "D": 60, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", ""],
-    "filename": "180",
     "height": 0.8,
-    "weight": 13.3
+    "weight": 13.3,
+    "basename": "180"
   },
   "デンリュウ": {
     "no": 181,
@@ -1805,9 +1805,9 @@
     "bstats": { "H": 90, "A": 75, "B": 75, "C": 115, "D": 90, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", ""],
-    "filename": "181",
     "height": 1.4,
-    "weight": 61.5
+    "weight": 61.5,
+    "basename": "181"
   },
   "キレイハナ": {
     "no": 182,
@@ -1815,9 +1815,9 @@
     "bstats": { "H": 75, "A": 80, "B": 85, "C": 90, "D": 100, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", ""],
-    "filename": "182",
     "height": 0.4,
-    "weight": 5.8
+    "weight": 5.8,
+    "basename": "182"
   },
   "マリル": {
     "no": 183,
@@ -1825,9 +1825,9 @@
     "bstats": { "H": 70, "A": 20, "B": 50, "C": 20, "D": 50, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう", "ちからもち"],
-    "filename": "183",
     "height": 0.4,
-    "weight": 8.5
+    "weight": 8.5,
+    "basename": "183"
   },
   "マリルリ": {
     "no": 184,
@@ -1835,9 +1835,9 @@
     "bstats": { "H": 100, "A": 50, "B": 80, "C": 50, "D": 80, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう", "ちからもち"],
-    "filename": "184",
     "height": 0.8,
-    "weight": 28.5
+    "weight": 28.5,
+    "basename": "184"
   },
   "ウソッキー": {
     "no": 185,
@@ -1845,9 +1845,9 @@
     "bstats": { "H": 70, "A": 100, "B": 115, "C": 30, "D": 65, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", "いしあたま"],
-    "filename": "185",
     "height": 1.2,
-    "weight": 38.0
+    "weight": 38.0,
+    "basename": "185"
   },
   "ニョロトノ": {
     "no": 186,
@@ -1855,9 +1855,9 @@
     "bstats": { "H": 90, "A": 75, "B": 75, "C": 90, "D": 100, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ちょすい", "しめりけ"],
-    "filename": "186",
     "height": 1.1,
-    "weight": 33.9
+    "weight": 33.9,
+    "basename": "186"
   },
   "ハネッコ": {
     "no": 187,
@@ -1865,9 +1865,9 @@
     "bstats": { "H": 35, "A": 35, "B": 40, "C": 35, "D": 55, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "187",
     "height": 0.4,
-    "weight": 0.5
+    "weight": 0.5,
+    "basename": "187"
   },
   "ポポッコ": {
     "no": 188,
@@ -1875,9 +1875,9 @@
     "bstats": { "H": 55, "A": 45, "B": 50, "C": 45, "D": 65, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "188",
     "height": 0.6,
-    "weight": 1.0
+    "weight": 1.0,
+    "basename": "188"
   },
   "ワタッコ": {
     "no": 189,
@@ -1885,9 +1885,9 @@
     "bstats": { "H": 75, "A": 55, "B": 70, "C": 55, "D": 85, "S": 110 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "189",
     "height": 0.8,
-    "weight": 3.0
+    "weight": 3.0,
+    "basename": "189"
   },
   "エイパム": {
     "no": 190,
@@ -1895,9 +1895,9 @@
     "bstats": { "H": 55, "A": 70, "B": 55, "C": 40, "D": 55, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし", "ものひろい"],
-    "filename": "190",
     "height": 0.8,
-    "weight": 11.5
+    "weight": 11.5,
+    "basename": "190"
   },
   "ヒマナッツ": {
     "no": 191,
@@ -1905,9 +1905,9 @@
     "bstats": { "H": 30, "A": 30, "B": 30, "C": 30, "D": 30, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "191",
     "height": 0.3,
-    "weight": 1.8
+    "weight": 1.8,
+    "basename": "191"
   },
   "キマワリ": {
     "no": 192,
@@ -1915,9 +1915,9 @@
     "bstats": { "H": 75, "A": 75, "B": 55, "C": 105, "D": 85, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "192",
     "height": 0.8,
-    "weight": 8.5
+    "weight": 8.5,
+    "basename": "192"
   },
   "ヤンヤンマ": {
     "no": 193,
@@ -1925,9 +1925,9 @@
     "bstats": { "H": 65, "A": 65, "B": 45, "C": 75, "D": 45, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["かそく", "ふくがん"],
-    "filename": "193",
     "height": 1.2,
-    "weight": 38.0
+    "weight": 38.0,
+    "basename": "193"
   },
   "ウパー": {
     "no": 194,
@@ -1935,9 +1935,9 @@
     "bstats": { "H": 55, "A": 45, "B": 45, "C": 25, "D": 25, "S": 15 },
     "gender_ratio": "1:1",
     "abilities": ["しめりけ", "ちょすい"],
-    "filename": "194",
     "height": 0.4,
-    "weight": 8.5
+    "weight": 8.5,
+    "basename": "194"
   },
   "ヌオー": {
     "no": 195,
@@ -1945,9 +1945,9 @@
     "bstats": { "H": 95, "A": 85, "B": 85, "C": 65, "D": 65, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["しめりけ", "ちょすい"],
-    "filename": "195",
     "height": 1.4,
-    "weight": 75.0
+    "weight": 75.0,
+    "basename": "195"
   },
   "エーフィ": {
     "no": 196,
@@ -1955,9 +1955,9 @@
     "bstats": { "H": 65, "A": 65, "B": 60, "C": 130, "D": 95, "S": 110 },
     "gender_ratio": "1:7",
     "abilities": ["シンクロ", ""],
-    "filename": "196",
     "height": 0.9,
-    "weight": 26.5
+    "weight": 26.5,
+    "basename": "196"
   },
   "ブラッキー": {
     "no": 197,
@@ -1965,9 +1965,9 @@
     "bstats": { "H": 95, "A": 65, "B": 110, "C": 60, "D": 130, "S": 65 },
     "gender_ratio": "1:7",
     "abilities": ["シンクロ", ""],
-    "filename": "197",
     "height": 1.0,
-    "weight": 27.0
+    "weight": 27.0,
+    "basename": "197"
   },
   "ヤミカラス": {
     "no": 198,
@@ -1975,9 +1975,9 @@
     "bstats": { "H": 60, "A": 85, "B": 42, "C": 85, "D": 42, "S": 91 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん"],
-    "filename": "198",
     "height": 0.5,
-    "weight": 2.1
+    "weight": 2.1,
+    "basename": "198"
   },
   "ヤドキング": {
     "no": 199,
@@ -1985,9 +1985,9 @@
     "bstats": { "H": 95, "A": 75, "B": 80, "C": 100, "D": 110, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん", "マイペース"],
-    "filename": "199",
     "height": 2.0,
-    "weight": 79.5
+    "weight": 79.5,
+    "basename": "199"
   },
   "ムウマ": {
     "no": 200,
@@ -1995,9 +1995,9 @@
     "bstats": { "H": 60, "A": 60, "B": 60, "C": 85, "D": 85, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "200",
     "height": 0.7,
-    "weight": 1.0
+    "weight": 1.0,
+    "basename": "200"
   },
   "アンノーン": {
     "no": 201,
@@ -2005,289 +2005,289 @@
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201"
   },
-  "アンノーンＡ": {
+  "アンノーン(A)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201A",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(A)"
   },
-  "アンノーンＢ": {
+  "アンノーン(B)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201B",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(B)"
   },
-  "アンノーンＣ": {
+  "アンノーン(C)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201C",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(C)"
   },
-  "アンノーンＤ": {
+  "アンノーン(D)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201D",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(D)"
   },
-  "アンノーンＥ": {
+  "アンノーン(E)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201E",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(E)"
   },
-  "アンノーンＦ": {
+  "アンノーン(F)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201F",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(F)"
   },
-  "アンノーンＧ": {
+  "アンノーン(G)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201G",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(G)"
   },
-  "アンノーンＨ": {
+  "アンノーン(H)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201H",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(H)"
   },
-  "アンノーンＩ": {
+  "アンノーン(I)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201I",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(I)"
   },
-  "アンノーンＪ": {
+  "アンノーン(J)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201J",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(J)"
   },
-  "アンノーンＫ": {
+  "アンノーン(K)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201K",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(K)"
   },
-  "アンノーンＬ": {
+  "アンノーン(L)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201L",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(L)"
   },
-  "アンノーンＭ": {
+  "アンノーン(M)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201M",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(M)"
   },
-  "アンノーンＮ": {
+  "アンノーン(N)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201N",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(N)"
   },
-  "アンノーンＯ": {
+  "アンノーン(O)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201O",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(O)"
   },
-  "アンノーンＰ": {
+  "アンノーン(P)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201P",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(P)"
   },
-  "アンノーンＱ": {
+  "アンノーン(Q)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201Q",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(Q)"
   },
-  "アンノーンＲ": {
+  "アンノーン(R)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201R",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(R)"
   },
-  "アンノーンＳ": {
+  "アンノーン(S)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201S",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(S)"
   },
-  "アンノーンＴ": {
+  "アンノーン(T)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201T",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(T)"
   },
-  "アンノーンＵ": {
+  "アンノーン(U)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201U",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(U)"
   },
-  "アンノーンＶ": {
+  "アンノーン(V)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201V",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(V)"
   },
-  "アンノーンＷ": {
+  "アンノーン(W)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201W",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(W)"
   },
-  "アンノーンＸ": {
+  "アンノーン(X)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201X",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(X)"
   },
-  "アンノーンＹ": {
+  "アンノーン(Y)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201Y",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(Y)"
   },
-  "アンノーンＺ": {
+  "アンノーン(Z)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201Z",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(Z)"
   },
-  "アンノーン！": {
+  "アンノーン(!)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201EX",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(!)"
   },
-  "アンノーン？": {
+  "アンノーン(?)": {
     "no": 201,
     "types": ["エスパー", ""],
     "bstats": { "H": 48, "A": 72, "B": 48, "C": 72, "D": 48, "S": 48 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "201QU",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "201(?)"
   },
   "ソーナンス": {
     "no": 202,
@@ -2295,9 +2295,9 @@
     "bstats": { "H": 190, "A": 33, "B": 58, "C": 33, "D": 58, "S": 33 },
     "gender_ratio": "1:1",
     "abilities": ["かげふみ", ""],
-    "filename": "202",
     "height": 1.3,
-    "weight": 28.5
+    "weight": 28.5,
+    "basename": "202"
   },
   "キリンリキ": {
     "no": 203,
@@ -2305,9 +2305,9 @@
     "bstats": { "H": 70, "A": 80, "B": 65, "C": 90, "D": 65, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく", "はやおき"],
-    "filename": "203",
     "height": 1.5,
-    "weight": 41.5
+    "weight": 41.5,
+    "basename": "203"
   },
   "クヌギダマ": {
     "no": 204,
@@ -2315,9 +2315,9 @@
     "bstats": { "H": 50, "A": 65, "B": 90, "C": 35, "D": 35, "S": 15 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", ""],
-    "filename": "204",
     "height": 0.6,
-    "weight": 7.2
+    "weight": 7.2,
+    "basename": "204"
   },
   "フォレトス": {
     "no": 205,
@@ -2325,9 +2325,9 @@
     "bstats": { "H": 75, "A": 90, "B": 140, "C": 60, "D": 60, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", ""],
-    "filename": "205",
     "height": 1.2,
-    "weight": 125.8
+    "weight": 125.8,
+    "basename": "205"
   },
   "ノコッチ": {
     "no": 206,
@@ -2335,9 +2335,9 @@
     "bstats": { "H": 100, "A": 70, "B": 70, "C": 65, "D": 65, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["てんのめぐみ", "にげあし"],
-    "filename": "206",
     "height": 1.5,
-    "weight": 14.0
+    "weight": 14.0,
+    "basename": "206"
   },
   "グライガー": {
     "no": 207,
@@ -2345,9 +2345,9 @@
     "bstats": { "H": 65, "A": 75, "B": 105, "C": 35, "D": 65, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "すながくれ"],
-    "filename": "207",
     "height": 1.1,
-    "weight": 64.8
+    "weight": 64.8,
+    "basename": "207"
   },
   "ハガネール": {
     "no": 208,
@@ -2355,9 +2355,9 @@
     "bstats": { "H": 75, "A": 85, "B": 200, "C": 55, "D": 65, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", "がんじょう"],
-    "filename": "208",
     "height": 9.2,
-    "weight": 400.0
+    "weight": 400.0,
+    "basename": "208"
   },
   "ブルー": {
     "no": 209,
@@ -2365,9 +2365,9 @@
     "bstats": { "H": 60, "A": 80, "B": 50, "C": 40, "D": 40, "S": 30 },
     "gender_ratio": "3:1",
     "abilities": ["いかく", "にげあし"],
-    "filename": "209",
     "height": 0.6,
-    "weight": 7.8
+    "weight": 7.8,
+    "basename": "209"
   },
   "グランブル": {
     "no": 210,
@@ -2375,9 +2375,9 @@
     "bstats": { "H": 90, "A": 120, "B": 75, "C": 60, "D": 60, "S": 45 },
     "gender_ratio": "3:1",
     "abilities": ["いかく"],
-    "filename": "210",
     "height": 1.4,
-    "weight": 48.7
+    "weight": 48.7,
+    "basename": "210"
   },
   "ハリーセン": {
     "no": 211,
@@ -2385,9 +2385,9 @@
     "bstats": { "H": 65, "A": 95, "B": 75, "C": 55, "D": 55, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["どくのトゲ", "すいすい"],
-    "filename": "211",
     "height": 0.5,
-    "weight": 3.9
+    "weight": 3.9,
+    "basename": "211"
   },
   "ハッサム": {
     "no": 212,
@@ -2395,9 +2395,9 @@
     "bstats": { "H": 70, "A": 130, "B": 100, "C": 55, "D": 80, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ"],
-    "filename": "212",
     "height": 1.8,
-    "weight": 118.0
+    "weight": 118.0,
+    "basename": "212"
   },
   "ツボツボ": {
     "no": 213,
@@ -2405,9 +2405,9 @@
     "bstats": { "H": 20, "A": 10, "B": 230, "C": 10, "D": 230, "S": 5 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう"],
-    "filename": "213",
     "height": 0.6,
-    "weight": 20.5
+    "weight": 20.5,
+    "basename": "213"
   },
   "ヘラクロス": {
     "no": 214,
@@ -2415,9 +2415,9 @@
     "bstats": { "H": 80, "A": 125, "B": 75, "C": 40, "D": 95, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", "こんじょう"],
-    "filename": "214",
     "height": 1.5,
-    "weight": 54.0
+    "weight": 54.0,
+    "basename": "214"
   },
   "ニューラ": {
     "no": 215,
@@ -2425,9 +2425,9 @@
     "bstats": { "H": 55, "A": 95, "B": 55, "C": 35, "D": 75, "S": 115 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく", "するどいめ"],
-    "filename": "215",
     "height": 0.9,
-    "weight": 28.0
+    "weight": 28.0,
+    "basename": "215"
   },
   "ヒメグマ": {
     "no": 216,
@@ -2435,9 +2435,9 @@
     "bstats": { "H": 60, "A": 80, "B": 50, "C": 50, "D": 50, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ものひろい"],
-    "filename": "216",
     "height": 0.6,
-    "weight": 8.8
+    "weight": 8.8,
+    "basename": "216"
   },
   "リングマ": {
     "no": 217,
@@ -2445,9 +2445,9 @@
     "bstats": { "H": 90, "A": 130, "B": 75, "C": 75, "D": 75, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["こんじょう"],
-    "filename": "217",
     "height": 1.8,
-    "weight": 125.8
+    "weight": 125.8,
+    "basename": "217"
   },
   "マグマッグ": {
     "no": 218,
@@ -2455,9 +2455,9 @@
     "bstats": { "H": 40, "A": 40, "B": 40, "C": 70, "D": 40, "S": 20 },
     "gender_ratio": "1:1",
     "abilities": ["マグマのよろい", "ほのおのからだ"],
-    "filename": "218",
     "height": 0.7,
-    "weight": 35.0
+    "weight": 35.0,
+    "basename": "218"
   },
   "マグカルゴ": {
     "no": 219,
@@ -2465,9 +2465,9 @@
     "bstats": { "H": 50, "A": 50, "B": 120, "C": 80, "D": 80, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["マグマのよろい", "ほのおのからだ"],
-    "filename": "219",
     "height": 0.8,
-    "weight": 55.0
+    "weight": 55.0,
+    "basename": "219"
   },
   "ウリムー": {
     "no": 220,
@@ -2475,9 +2475,9 @@
     "bstats": { "H": 50, "A": 50, "B": 40, "C": 30, "D": 30, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん"],
-    "filename": "220",
     "height": 0.4,
-    "weight": 6.5
+    "weight": 6.5,
+    "basename": "220"
   },
   "イノムー": {
     "no": 221,
@@ -2485,9 +2485,9 @@
     "bstats": { "H": 100, "A": 100, "B": 80, "C": 60, "D": 60, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん"],
-    "filename": "221",
     "height": 1.1,
-    "weight": 55.8
+    "weight": 55.8,
+    "basename": "221"
   },
   "サニーゴ": {
     "no": 222,
@@ -2495,9 +2495,9 @@
     "bstats": { "H": 55, "A": 55, "B": 85, "C": 65, "D": 85, "S": 35 },
     "gender_ratio": "3:1",
     "abilities": ["はりきり", "しぜんかいふく"],
-    "filename": "222",
     "height": 0.6,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "222"
   },
   "テッポウオ": {
     "no": 223,
@@ -2505,9 +2505,9 @@
     "bstats": { "H": 35, "A": 65, "B": 35, "C": 65, "D": 35, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["はりきり"],
-    "filename": "223",
     "height": 0.6,
-    "weight": 12.0
+    "weight": 12.0,
+    "basename": "223"
   },
   "オクタン": {
     "no": 224,
@@ -2515,9 +2515,9 @@
     "bstats": { "H": 75, "A": 105, "B": 75, "C": 105, "D": 75, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["きゅうばん"],
-    "filename": "224",
     "height": 0.9,
-    "weight": 28.5
+    "weight": 28.5,
+    "basename": "224"
   },
   "デリバード": {
     "no": 225,
@@ -2525,9 +2525,9 @@
     "bstats": { "H": 45, "A": 55, "B": 45, "C": 65, "D": 45, "S": 75 },
     "gender_ratio": "1:1",
     "abilities": ["やるき", "はりきり"],
-    "filename": "225",
     "height": 0.9,
-    "weight": 16.0
+    "weight": 16.0,
+    "basename": "225"
   },
   "マンタイン": {
     "no": 226,
@@ -2535,9 +2535,9 @@
     "bstats": { "H": 65, "A": 40, "B": 70, "C": 80, "D": 140, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", "ちょすい"],
-    "filename": "226",
     "height": 2.1,
-    "weight": 220.0
+    "weight": 220.0,
+    "basename": "226"
   },
   "エアームド": {
     "no": 227,
@@ -2545,9 +2545,9 @@
     "bstats": { "H": 65, "A": 80, "B": 140, "C": 40, "D": 70, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ", "がんじょう"],
-    "filename": "227",
     "height": 1.7,
-    "weight": 50.5
+    "weight": 50.5,
+    "basename": "227"
   },
   "デルビル": {
     "no": 228,
@@ -2555,9 +2555,9 @@
     "bstats": { "H": 45, "A": 60, "B": 30, "C": 80, "D": 50, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["はやおき", "もらいび"],
-    "filename": "228",
     "height": 0.6,
-    "weight": 10.8
+    "weight": 10.8,
+    "basename": "228"
   },
   "ヘルガー": {
     "no": 229,
@@ -2565,9 +2565,9 @@
     "bstats": { "H": 75, "A": 90, "B": 50, "C": 110, "D": 80, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["はやおき", "もらいび"],
-    "filename": "229",
     "height": 1.4,
-    "weight": 35.0
+    "weight": 35.0,
+    "basename": "229"
   },
   "キングドラ": {
     "no": 230,
@@ -2575,9 +2575,9 @@
     "bstats": { "H": 75, "A": 95, "B": 95, "C": 95, "D": 95, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい"],
-    "filename": "230",
     "height": 1.8,
-    "weight": 152.0
+    "weight": 152.0,
+    "basename": "230"
   },
   "ゴマゾウ": {
     "no": 231,
@@ -2585,9 +2585,9 @@
     "bstats": { "H": 90, "A": 60, "B": 60, "C": 40, "D": 40, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ものひろい", ""],
-    "filename": "231",
     "height": 0.5,
-    "weight": 33.5
+    "weight": 33.5,
+    "basename": "231"
   },
   "ドンファン": {
     "no": 232,
@@ -2595,9 +2595,9 @@
     "bstats": { "H": 90, "A": 120, "B": 120, "C": 60, "D": 60, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", ""],
-    "filename": "232",
     "height": 1.1,
-    "weight": 120.0
+    "weight": 120.0,
+    "basename": "232"
   },
   "ポリゴン2": {
     "no": 233,
@@ -2605,9 +2605,9 @@
     "bstats": { "H": 85, "A": 80, "B": 90, "C": 105, "D": 95, "S": 60 },
     "gender_ratio": "ふめい",
     "abilities": ["トレース"],
-    "filename": "233",
     "height": 0.6,
-    "weight": 32.5
+    "weight": 32.5,
+    "basename": "233"
   },
   "オドシシ": {
     "no": 234,
@@ -2615,9 +2615,9 @@
     "bstats": { "H": 73, "A": 95, "B": 62, "C": 85, "D": 65, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["いかく"],
-    "filename": "234",
     "height": 1.4,
-    "weight": 71.2
+    "weight": 71.2,
+    "basename": "234"
   },
   "ドーブル": {
     "no": 235,
@@ -2625,9 +2625,9 @@
     "bstats": { "H": 55, "A": 20, "B": 35, "C": 20, "D": 45, "S": 75 },
     "gender_ratio": "1:1",
     "abilities": ["マイペース"],
-    "filename": "235",
     "height": 1.2,
-    "weight": 58.0
+    "weight": 58.0,
+    "basename": "235"
   },
   "バルキー": {
     "no": 236,
@@ -2635,9 +2635,9 @@
     "bstats": { "H": 35, "A": 35, "B": 35, "C": 35, "D": 35, "S": 35 },
     "gender_ratio": "♂のみ",
     "abilities": ["こんじょう"],
-    "filename": "236",
     "height": 0.7,
-    "weight": 21.0
+    "weight": 21.0,
+    "basename": "236"
   },
   "カポエラー": {
     "no": 237,
@@ -2645,9 +2645,9 @@
     "bstats": { "H": 50, "A": 95, "B": 95, "C": 35, "D": 110, "S": 70 },
     "gender_ratio": "♂のみ",
     "abilities": ["いかく"],
-    "filename": "237",
     "height": 1.4,
-    "weight": 48.0
+    "weight": 48.0,
+    "basename": "237"
   },
   "ムチュール": {
     "no": 238,
@@ -2655,9 +2655,9 @@
     "bstats": { "H": 45, "A": 30, "B": 15, "C": 85, "D": 65, "S": 65 },
     "gender_ratio": "♀のみ",
     "abilities": ["どんかん"],
-    "filename": "238",
     "height": 0.4,
-    "weight": 6.0
+    "weight": 6.0,
+    "basename": "238"
   },
   "エレキッド": {
     "no": 239,
@@ -2665,9 +2665,9 @@
     "bstats": { "H": 45, "A": 63, "B": 37, "C": 65, "D": 55, "S": 95 },
     "gender_ratio": "1:3",
     "abilities": ["せいでんき", ""],
-    "filename": "239",
     "height": 0.6,
-    "weight": 23.5
+    "weight": 23.5,
+    "basename": "239"
   },
   "ブビィ": {
     "no": 240,
@@ -2675,9 +2675,9 @@
     "bstats": { "H": 45, "A": 75, "B": 37, "C": 70, "D": 55, "S": 83 },
     "gender_ratio": "1:3",
     "abilities": ["ほのおのからだ", ""],
-    "filename": "240",
     "height": 0.7,
-    "weight": 21.4
+    "weight": 21.4,
+    "basename": "240"
   },
   "ミルタンク": {
     "no": 241,
@@ -2685,9 +2685,9 @@
     "bstats": { "H": 95, "A": 80, "B": 105, "C": 40, "D": 70, "S": 100 },
     "gender_ratio": "♀のみ",
     "abilities": ["あついしぼう"],
-    "filename": "241",
     "height": 1.2,
-    "weight": 75.5
+    "weight": 75.5,
+    "basename": "241"
   },
   "ハピナス": {
     "no": 242,
@@ -2695,9 +2695,9 @@
     "bstats": { "H": 255, "A": 10, "B": 10, "C": 75, "D": 135, "S": 55 },
     "gender_ratio": "♀のみ",
     "abilities": ["しぜんかいふく", "てんのめぐみ"],
-    "filename": "242",
     "height": 1.5,
-    "weight": 46.8
+    "weight": 46.8,
+    "basename": "242"
   },
   "ライコウ": {
     "no": 243,
@@ -2705,9 +2705,9 @@
     "bstats": { "H": 90, "A": 85, "B": 75, "C": 115, "D": 100, "S": 115 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "243",
     "height": 1.9,
-    "weight": 178.0
+    "weight": 178.0,
+    "basename": "243"
   },
   "エンテイ": {
     "no": 244,
@@ -2715,9 +2715,9 @@
     "bstats": { "H": 115, "A": 115, "B": 85, "C": 90, "D": 75, "S": 100 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "244",
     "height": 2.1,
-    "weight": 198.0
+    "weight": 198.0,
+    "basename": "244"
   },
   "スイクン": {
     "no": 245,
@@ -2725,9 +2725,9 @@
     "bstats": { "H": 100, "A": 75, "B": 115, "C": 90, "D": 115, "S": 85 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "245",
     "height": 2.0,
-    "weight": 187.0
+    "weight": 187.0,
+    "basename": "245"
   },
   "ヨーギラス": {
     "no": 246,
@@ -2735,9 +2735,9 @@
     "bstats": { "H": 50, "A": 64, "B": 50, "C": 45, "D": 50, "S": 41 },
     "gender_ratio": "1:1",
     "abilities": ["こんじょう", ""],
-    "filename": "246",
     "height": 0.6,
-    "weight": 72.0
+    "weight": 72.0,
+    "basename": "246"
   },
   "サナギラス": {
     "no": 247,
@@ -2745,9 +2745,9 @@
     "bstats": { "H": 70, "A": 84, "B": 70, "C": 65, "D": 70, "S": 51 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "247",
     "height": 1.2,
-    "weight": 152.0
+    "weight": 152.0,
+    "basename": "247"
   },
   "バンギラス": {
     "no": 248,
@@ -2755,9 +2755,9 @@
     "bstats": { "H": 100, "A": 134, "B": 110, "C": 95, "D": 100, "S": 61 },
     "gender_ratio": "1:1",
     "abilities": ["すなおこし", ""],
-    "filename": "248",
     "height": 2.0,
-    "weight": 202.0
+    "weight": 202.0,
+    "basename": "248"
   },
   "ルギア": {
     "no": 249,
@@ -2765,9 +2765,9 @@
     "bstats": { "H": 106, "A": 90, "B": 130, "C": 90, "D": 154, "S": 110 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "249",
     "height": 5.2,
-    "weight": 216.0
+    "weight": 216.0,
+    "basename": "249"
   },
   "ホウオウ": {
     "no": 250,
@@ -2775,9 +2775,9 @@
     "bstats": { "H": 106, "A": 130, "B": 90, "C": 110, "D": 154, "S": 90 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "250",
     "height": 3.8,
-    "weight": 199.0
+    "weight": 199.0,
+    "basename": "250"
   },
   "セレビィ": {
     "no": 251,
@@ -2785,9 +2785,9 @@
     "bstats": { "H": 100, "A": 100, "B": 100, "C": 100, "D": 100, "S": 100 },
     "gender_ratio": "ふめい",
     "abilities": ["しぜんかいふく", ""],
-    "filename": "251",
     "height": 0.6,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "251"
   },
   "キモリ": {
     "no": 252,
@@ -2795,9 +2795,9 @@
     "bstats": { "H": 40, "A": 45, "B": 35, "C": 65, "D": 55, "S": 70 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "252",
     "height": 0.5,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "252"
   },
   "ジュプトル": {
     "no": 253,
@@ -2805,9 +2805,9 @@
     "bstats": { "H": 50, "A": 65, "B": 45, "C": 85, "D": 65, "S": 95 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "253",
     "height": 0.9,
-    "weight": 21.6
+    "weight": 21.6,
+    "basename": "253"
   },
   "ジュカイン": {
     "no": 254,
@@ -2815,9 +2815,9 @@
     "bstats": { "H": 70, "A": 85, "B": 65, "C": 105, "D": 85, "S": 120 },
     "gender_ratio": "1:7",
     "abilities": ["しんりょく", ""],
-    "filename": "254",
     "height": 1.7,
-    "weight": 52.2
+    "weight": 52.2,
+    "basename": "254"
   },
   "アチャモ": {
     "no": 255,
@@ -2825,9 +2825,9 @@
     "bstats": { "H": 45, "A": 60, "B": 40, "C": 70, "D": 50, "S": 45 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "255",
     "height": 0.4,
-    "weight": 2.5
+    "weight": 2.5,
+    "basename": "255"
   },
   "ワカシャモ": {
     "no": 256,
@@ -2835,9 +2835,9 @@
     "bstats": { "H": 60, "A": 85, "B": 60, "C": 85, "D": 60, "S": 55 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "256",
     "height": 0.9,
-    "weight": 19.5
+    "weight": 19.5,
+    "basename": "256"
   },
   "バシャーモ": {
     "no": 257,
@@ -2845,9 +2845,9 @@
     "bstats": { "H": 80, "A": 120, "B": 70, "C": 110, "D": 70, "S": 80 },
     "gender_ratio": "1:7",
     "abilities": ["もうか", ""],
-    "filename": "257",
     "height": 1.9,
-    "weight": 52.0
+    "weight": 52.0,
+    "basename": "257"
   },
   "ミズゴロウ": {
     "no": 258,
@@ -2855,9 +2855,9 @@
     "bstats": { "H": 50, "A": 70, "B": 50, "C": 50, "D": 50, "S": 40 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "258",
     "height": 0.4,
-    "weight": 7.6
+    "weight": 7.6,
+    "basename": "258"
   },
   "ヌマクロー": {
     "no": 259,
@@ -2865,9 +2865,9 @@
     "bstats": { "H": 70, "A": 85, "B": 70, "C": 60, "D": 70, "S": 50 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "259",
     "height": 0.7,
-    "weight": 28.0
+    "weight": 28.0,
+    "basename": "259"
   },
   "ラグラージ": {
     "no": 260,
@@ -2875,9 +2875,9 @@
     "bstats": { "H": 100, "A": 110, "B": 90, "C": 85, "D": 90, "S": 60 },
     "gender_ratio": "1:7",
     "abilities": ["げきりゅう", ""],
-    "filename": "260",
     "height": 1.5,
-    "weight": 81.9
+    "weight": 81.9,
+    "basename": "260"
   },
   "ポチエナ": {
     "no": 261,
@@ -2885,9 +2885,9 @@
     "bstats": { "H": 35, "A": 55, "B": 35, "C": 30, "D": 30, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["にげあし"],
-    "filename": "261",
     "height": 0.5,
-    "weight": 13.6
+    "weight": 13.6,
+    "basename": "261"
   },
   "グラエナ": {
     "no": 262,
@@ -2895,9 +2895,9 @@
     "bstats": { "H": 70, "A": 90, "B": 70, "C": 60, "D": 60, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["いかく"],
-    "filename": "262",
     "height": 1.0,
-    "weight": 37.0
+    "weight": 37.0,
+    "basename": "262"
   },
   "ジグザグマ": {
     "no": 263,
@@ -2905,9 +2905,9 @@
     "bstats": { "H": 38, "A": 30, "B": 41, "C": 30, "D": 41, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["ものひろい"],
-    "filename": "263",
     "height": 0.4,
-    "weight": 17.5
+    "weight": 17.5,
+    "basename": "263"
   },
   "マッスグマ": {
     "no": 264,
@@ -2915,9 +2915,9 @@
     "bstats": { "H": 78, "A": 70, "B": 61, "C": 50, "D": 61, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["ものひろい"],
-    "filename": "264",
     "height": 0.5,
-    "weight": 32.5
+    "weight": 32.5,
+    "basename": "264"
   },
   "ケムッソ": {
     "no": 265,
@@ -2925,9 +2925,9 @@
     "bstats": { "H": 45, "A": 45, "B": 35, "C": 20, "D": 30, "S": 20 },
     "gender_ratio": "1:1",
     "abilities": ["りんぷん", ""],
-    "filename": "265",
     "height": 0.3,
-    "weight": 3.6
+    "weight": 3.6,
+    "basename": "265"
   },
   "カラサリス": {
     "no": 266,
@@ -2935,9 +2935,9 @@
     "bstats": { "H": 50, "A": 35, "B": 55, "C": 25, "D": 25, "S": 15 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "266",
     "height": 0.6,
-    "weight": 10.0
+    "weight": 10.0,
+    "basename": "266"
   },
   "アゲハント": {
     "no": 267,
@@ -2945,9 +2945,9 @@
     "bstats": { "H": 60, "A": 70, "B": 50, "C": 90, "D": 50, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["むしのしらせ", ""],
-    "filename": "267",
     "height": 1.0,
-    "weight": 28.4
+    "weight": 28.4,
+    "basename": "267"
   },
   "マユルド": {
     "no": 268,
@@ -2955,9 +2955,9 @@
     "bstats": { "H": 50, "A": 35, "B": 55, "C": 25, "D": 25, "S": 15 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "268",
     "height": 0.7,
-    "weight": 11.5
+    "weight": 11.5,
+    "basename": "268"
   },
   "ドクケイル": {
     "no": 269,
@@ -2965,9 +2965,9 @@
     "bstats": { "H": 60, "A": 50, "B": 70, "C": 50, "D": 90, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["りんぷん", ""],
-    "filename": "269",
     "height": 1.2,
-    "weight": 31.6
+    "weight": 31.6,
+    "basename": "269"
   },
   "ハスボー": {
     "no": 270,
@@ -2975,9 +2975,9 @@
     "bstats": { "H": 40, "A": 30, "B": 30, "C": 40, "D": 50, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", "あめうけざら"],
-    "filename": "270",
     "height": 0.5,
-    "weight": 2.6
+    "weight": 2.6,
+    "basename": "270"
   },
   "ハスブレロ": {
     "no": 271,
@@ -2985,9 +2985,9 @@
     "bstats": { "H": 60, "A": 50, "B": 50, "C": 60, "D": 70, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", "あめうけざら"],
-    "filename": "271",
     "height": 1.2,
-    "weight": 32.5
+    "weight": 32.5,
+    "basename": "271"
   },
   "ルンパッパ": {
     "no": 272,
@@ -2995,9 +2995,9 @@
     "bstats": { "H": 80, "A": 70, "B": 70, "C": 90, "D": 100, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", "あめうけざら"],
-    "filename": "272",
     "height": 1.5,
-    "weight": 55.0
+    "weight": 55.0,
+    "basename": "272"
   },
   "タネボー": {
     "no": 273,
@@ -3005,9 +3005,9 @@
     "bstats": { "H": 40, "A": 40, "B": 50, "C": 30, "D": 30, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", "はやおき"],
-    "filename": "273",
     "height": 0.5,
-    "weight": 4.0
+    "weight": 4.0,
+    "basename": "273"
   },
   "コノハナ": {
     "no": 274,
@@ -3015,9 +3015,9 @@
     "bstats": { "H": 70, "A": 70, "B": 40, "C": 60, "D": 40, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", "はやおき"],
-    "filename": "274",
     "height": 1.0,
-    "weight": 28.0
+    "weight": 28.0,
+    "basename": "274"
   },
   "ダーテング": {
     "no": 275,
@@ -3025,9 +3025,9 @@
     "bstats": { "H": 90, "A": 100, "B": 60, "C": 90, "D": 60, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ", "はやおき"],
-    "filename": "275",
     "height": 1.3,
-    "weight": 59.6
+    "weight": 59.6,
+    "basename": "275"
   },
   "スバメ": {
     "no": 276,
@@ -3035,9 +3035,9 @@
     "bstats": { "H": 40, "A": 55, "B": 30, "C": 30, "D": 30, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["こんじょう", ""],
-    "filename": "276",
     "height": 0.3,
-    "weight": 2.3
+    "weight": 2.3,
+    "basename": "276"
   },
   "オオスバメ": {
     "no": 277,
@@ -3045,9 +3045,9 @@
     "bstats": { "H": 60, "A": 85, "B": 60, "C": 50, "D": 50, "S": 125 },
     "gender_ratio": "1:1",
     "abilities": ["こんじょう", ""],
-    "filename": "277",
     "height": 0.7,
-    "weight": 19.8
+    "weight": 19.8,
+    "basename": "277"
   },
   "キャモメ": {
     "no": 278,
@@ -3055,9 +3055,9 @@
     "bstats": { "H": 40, "A": 30, "B": 30, "C": 55, "D": 30, "S": 85 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ", ""],
-    "filename": "278",
     "height": 0.6,
-    "weight": 9.5
+    "weight": 9.5,
+    "basename": "278"
   },
   "ペリッパー": {
     "no": 279,
@@ -3065,9 +3065,9 @@
     "bstats": { "H": 60, "A": 50, "B": 100, "C": 85, "D": 70, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ", ""],
-    "filename": "279",
     "height": 1.2,
-    "weight": 28.0
+    "weight": 28.0,
+    "basename": "279"
   },
   "ラルトス": {
     "no": 280,
@@ -3075,9 +3075,9 @@
     "bstats": { "H": 28, "A": 25, "B": 25, "C": 45, "D": 35, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["シンクロ", "トレース"],
-    "filename": "280",
     "height": 0.4,
-    "weight": 6.6
+    "weight": 6.6,
+    "basename": "280"
   },
   "キルリア": {
     "no": 281,
@@ -3085,9 +3085,9 @@
     "bstats": { "H": 38, "A": 35, "B": 35, "C": 65, "D": 55, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["シンクロ", "トレース"],
-    "filename": "281",
     "height": 0.8,
-    "weight": 20.2
+    "weight": 20.2,
+    "basename": "281"
   },
   "サーナイト": {
     "no": 282,
@@ -3095,9 +3095,9 @@
     "bstats": { "H": 68, "A": 65, "B": 65, "C": 125, "D": 115, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["シンクロ", "トレース"],
-    "filename": "282",
     "height": 1.6,
-    "weight": 48.4
+    "weight": 48.4,
+    "basename": "282"
   },
   "アメタマ": {
     "no": 283,
@@ -3105,9 +3105,9 @@
     "bstats": { "H": 40, "A": 30, "B": 32, "C": 50, "D": 52, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", ""],
-    "filename": "283",
     "height": 0.5,
-    "weight": 1.7
+    "weight": 1.7,
+    "basename": "283"
   },
   "アメモース": {
     "no": 284,
@@ -3115,9 +3115,9 @@
     "bstats": { "H": 70, "A": 60, "B": 62, "C": 80, "D": 82, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["いかく", ""],
-    "filename": "284",
     "height": 0.8,
-    "weight": 3.6
+    "weight": 3.6,
+    "basename": "284"
   },
   "キノココ": {
     "no": 285,
@@ -3125,9 +3125,9 @@
     "bstats": { "H": 60, "A": 40, "B": 60, "C": 40, "D": 60, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["ほうし"],
-    "filename": "285",
     "height": 0.4,
-    "weight": 4.5
+    "weight": 4.5,
+    "basename": "285"
   },
   "キノガッサ": {
     "no": 286,
@@ -3135,9 +3135,9 @@
     "bstats": { "H": 60, "A": 130, "B": 80, "C": 60, "D": 60, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ほうし"],
-    "filename": "286",
     "height": 1.2,
-    "weight": 39.2
+    "weight": 39.2,
+    "basename": "286"
   },
   "ナマケロ": {
     "no": 287,
@@ -3145,9 +3145,9 @@
     "bstats": { "H": 60, "A": 60, "B": 60, "C": 35, "D": 35, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["なまけ", ""],
-    "filename": "287",
     "height": 0.8,
-    "weight": 24.0
+    "weight": 24.0,
+    "basename": "287"
   },
   "ヤルキモノ": {
     "no": 288,
@@ -3155,9 +3155,9 @@
     "bstats": { "H": 80, "A": 80, "B": 80, "C": 55, "D": 55, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["やるき", ""],
-    "filename": "288",
     "height": 1.4,
-    "weight": 46.5
+    "weight": 46.5,
+    "basename": "288"
   },
   "ケッキング": {
     "no": 289,
@@ -3165,9 +3165,9 @@
     "bstats": { "H": 150, "A": 160, "B": 100, "C": 95, "D": 65, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["なまけ", ""],
-    "filename": "289",
     "height": 2.0,
-    "weight": 130.5
+    "weight": 130.5,
+    "basename": "289"
   },
   "ツチニン": {
     "no": 290,
@@ -3175,9 +3175,9 @@
     "bstats": { "H": 31, "A": 45, "B": 90, "C": 30, "D": 30, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ふくがん", ""],
-    "filename": "290",
     "height": 0.5,
-    "weight": 5.5
+    "weight": 5.5,
+    "basename": "290"
   },
   "テッカニン": {
     "no": 291,
@@ -3185,9 +3185,9 @@
     "bstats": { "H": 61, "A": 90, "B": 45, "C": 50, "D": 50, "S": 160 },
     "gender_ratio": "1:1",
     "abilities": ["かそく", ""],
-    "filename": "291",
     "height": 0.8,
-    "weight": 12.0
+    "weight": 12.0,
+    "basename": "291"
   },
   "ヌケニン": {
     "no": 292,
@@ -3195,9 +3195,9 @@
     "bstats": { "H": 1, "A": 90, "B": 45, "C": 30, "D": 30, "S": 40 },
     "gender_ratio": "ふめい",
     "abilities": ["ふしぎなまもり", ""],
-    "filename": "292",
     "height": 0.8,
-    "weight": 1.2
+    "weight": 1.2,
+    "basename": "292"
   },
   "ゴニョニョ": {
     "no": 293,
@@ -3205,9 +3205,9 @@
     "bstats": { "H": 64, "A": 51, "B": 23, "C": 51, "D": 23, "S": 28 },
     "gender_ratio": "1:1",
     "abilities": ["ぼうおん", ""],
-    "filename": "293",
     "height": 0.6,
-    "weight": 16.3
+    "weight": 16.3,
+    "basename": "293"
   },
   "ドゴーム": {
     "no": 294,
@@ -3215,9 +3215,9 @@
     "bstats": { "H": 84, "A": 71, "B": 43, "C": 71, "D": 43, "S": 48 },
     "gender_ratio": "1:1",
     "abilities": ["ぼうおん", ""],
-    "filename": "294",
     "height": 1.0,
-    "weight": 40.5
+    "weight": 40.5,
+    "basename": "294"
   },
   "バクオング": {
     "no": 295,
@@ -3225,9 +3225,9 @@
     "bstats": { "H": 104, "A": 91, "B": 63, "C": 91, "D": 63, "S": 68 },
     "gender_ratio": "1:1",
     "abilities": ["ぼうおん", ""],
-    "filename": "295",
     "height": 1.5,
-    "weight": 84.0
+    "weight": 84.0,
+    "basename": "295"
   },
   "マクノシタ": {
     "no": 296,
@@ -3235,9 +3235,9 @@
     "bstats": { "H": 72, "A": 60, "B": 30, "C": 20, "D": 30, "S": 25 },
     "gender_ratio": "1:3",
     "abilities": ["あついしぼう", "こんじょう"],
-    "filename": "296",
     "height": 1.0,
-    "weight": 86.4
+    "weight": 86.4,
+    "basename": "296"
   },
   "ハリテヤマ": {
     "no": 297,
@@ -3245,9 +3245,9 @@
     "bstats": { "H": 144, "A": 120, "B": 60, "C": 40, "D": 60, "S": 50 },
     "gender_ratio": "1:3",
     "abilities": ["あついしぼう", "こんじょう"],
-    "filename": "297",
     "height": 2.3,
-    "weight": 253.8
+    "weight": 253.8,
+    "basename": "297"
   },
   "ルリリ": {
     "no": 298,
@@ -3255,9 +3255,9 @@
     "bstats": { "H": 50, "A": 20, "B": 40, "C": 20, "D": 40, "S": 20 },
     "gender_ratio": "3:1",
     "abilities": ["あついしぼう", "ちからもち"],
-    "filename": "298",
     "height": 0.2,
-    "weight": 2.0
+    "weight": 2.0,
+    "basename": "298"
   },
   "ノズパス": {
     "no": 299,
@@ -3265,9 +3265,9 @@
     "bstats": { "H": 30, "A": 45, "B": 135, "C": 45, "D": 90, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", "じりょく"],
-    "filename": "299",
     "height": 1.0,
-    "weight": 97.0
+    "weight": 97.0,
+    "basename": "299"
   },
   "エネコ": {
     "no": 300,
@@ -3275,9 +3275,9 @@
     "bstats": { "H": 50, "A": 45, "B": 45, "C": 35, "D": 35, "S": 50 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ"],
-    "filename": "300",
     "height": 0.6,
-    "weight": 11.0
+    "weight": 11.0,
+    "basename": "300"
   },
   "エネコロロ": {
     "no": 301,
@@ -3285,9 +3285,9 @@
     "bstats": { "H": 70, "A": 65, "B": 65, "C": 55, "D": 55, "S": 70 },
     "gender_ratio": "3:1",
     "abilities": ["メロメロボディ"],
-    "filename": "301",
     "height": 1.1,
-    "weight": 32.6
+    "weight": 32.6,
+    "basename": "301"
   },
   "ヤミラミ": {
     "no": 302,
@@ -3295,9 +3295,9 @@
     "bstats": { "H": 50, "A": 75, "B": 75, "C": 65, "D": 65, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["するどいめ"],
-    "filename": "302",
     "height": 0.5,
-    "weight": 11.0
+    "weight": 11.0,
+    "basename": "302"
   },
   "クチート": {
     "no": 303,
@@ -3305,9 +3305,9 @@
     "bstats": { "H": 50, "A": 85, "B": 85, "C": 55, "D": 55, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "いかく"],
-    "filename": "303",
     "height": 0.6,
-    "weight": 11.5
+    "weight": 11.5,
+    "basename": "303"
   },
   "ココドラ": {
     "no": 304,
@@ -3315,9 +3315,9 @@
     "bstats": { "H": 50, "A": 70, "B": 100, "C": 40, "D": 40, "S": 30 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", "いしあたま"],
-    "filename": "304",
     "height": 0.4,
-    "weight": 60.0
+    "weight": 60.0,
+    "basename": "304"
   },
   "コドラ": {
     "no": 305,
@@ -3325,9 +3325,9 @@
     "bstats": { "H": 60, "A": 90, "B": 140, "C": 50, "D": 50, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", "いしあたま"],
-    "filename": "305",
     "height": 0.9,
-    "weight": 120.0
+    "weight": 120.0,
+    "basename": "305"
   },
   "ボスゴドラ": {
     "no": 306,
@@ -3335,9 +3335,9 @@
     "bstats": { "H": 70, "A": 110, "B": 180, "C": 60, "D": 60, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["がんじょう", "いしあたま"],
-    "filename": "306",
     "height": 2.1,
-    "weight": 360.0
+    "weight": 360.0,
+    "basename": "306"
   },
   "アサナン": {
     "no": 307,
@@ -3345,9 +3345,9 @@
     "bstats": { "H": 30, "A": 40, "B": 55, "C": 40, "D": 55, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["ヨガパワー", ""],
-    "filename": "307",
     "height": 0.6,
-    "weight": 11.2
+    "weight": 11.2,
+    "basename": "307"
   },
   "チャーレム": {
     "no": 308,
@@ -3355,9 +3355,9 @@
     "bstats": { "H": 60, "A": 60, "B": 75, "C": 60, "D": 75, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["ヨガパワー", ""],
-    "filename": "308",
     "height": 1.3,
-    "weight": 31.5
+    "weight": 31.5,
+    "basename": "308"
   },
   "ラクライ": {
     "no": 309,
@@ -3365,9 +3365,9 @@
     "bstats": { "H": 40, "A": 45, "B": 40, "C": 65, "D": 40, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", "ひらいしん"],
-    "filename": "309",
     "height": 0.6,
-    "weight": 15.2
+    "weight": 15.2,
+    "basename": "309"
   },
   "ライボルト": {
     "no": 310,
@@ -3375,9 +3375,9 @@
     "bstats": { "H": 70, "A": 75, "B": 60, "C": 105, "D": 60, "S": 105 },
     "gender_ratio": "1:1",
     "abilities": ["せいでんき", "ひらいしん"],
-    "filename": "310",
     "height": 1.5,
-    "weight": 40.2
+    "weight": 40.2,
+    "basename": "310"
   },
   "プラスル": {
     "no": 311,
@@ -3385,9 +3385,9 @@
     "bstats": { "H": 60, "A": 50, "B": 40, "C": 85, "D": 75, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["プラス", ""],
-    "filename": "311",
     "height": 0.4,
-    "weight": 4.2
+    "weight": 4.2,
+    "basename": "311"
   },
   "マイナン": {
     "no": 312,
@@ -3395,9 +3395,9 @@
     "bstats": { "H": 60, "A": 40, "B": 50, "C": 75, "D": 85, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["マイナス", ""],
-    "filename": "312",
     "height": 0.4,
-    "weight": 4.2
+    "weight": 4.2,
+    "basename": "312"
   },
   "バルビート": {
     "no": 313,
@@ -3405,9 +3405,9 @@
     "bstats": { "H": 65, "A": 73, "B": 55, "C": 47, "D": 75, "S": 85 },
     "gender_ratio": "♂のみ",
     "abilities": ["はっこう", "むしのしらせ"],
-    "filename": "313",
     "height": 0.7,
-    "weight": 17.7
+    "weight": 17.7,
+    "basename": "313"
   },
   "イルミーゼ": {
     "no": 314,
@@ -3415,9 +3415,9 @@
     "bstats": { "H": 65, "A": 47, "B": 55, "C": 73, "D": 75, "S": 85 },
     "gender_ratio": "♀のみ",
     "abilities": ["どんかん"],
-    "filename": "314",
     "height": 0.6,
-    "weight": 17.7
+    "weight": 17.7,
+    "basename": "314"
   },
   "ロゼリア": {
     "no": 315,
@@ -3425,9 +3425,9 @@
     "bstats": { "H": 50, "A": 60, "B": 45, "C": 100, "D": 80, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["しぜんかいふく", "どくのトゲ"],
-    "filename": "315",
     "height": 0.3,
-    "weight": 2.0
+    "weight": 2.0,
+    "basename": "315"
   },
   "ゴクリン": {
     "no": 316,
@@ -3435,9 +3435,9 @@
     "bstats": { "H": 70, "A": 43, "B": 53, "C": 43, "D": 53, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["ヘドロえき", "ねんちゃく"],
-    "filename": "316",
     "height": 0.4,
-    "weight": 10.3
+    "weight": 10.3,
+    "basename": "316"
   },
   "マルノーム": {
     "no": 317,
@@ -3445,9 +3445,9 @@
     "bstats": { "H": 100, "A": 73, "B": 83, "C": 73, "D": 83, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["ヘドロえき", "ねんちゃく"],
-    "filename": "317",
     "height": 1.7,
-    "weight": 80.0
+    "weight": 80.0,
+    "basename": "317"
   },
   "キバニア": {
     "no": 318,
@@ -3455,9 +3455,9 @@
     "bstats": { "H": 45, "A": 90, "B": 20, "C": 65, "D": 20, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["さめはだ", ""],
-    "filename": "318",
     "height": 0.8,
-    "weight": 20.8
+    "weight": 20.8,
+    "basename": "318"
   },
   "サメハダー": {
     "no": 319,
@@ -3465,9 +3465,9 @@
     "bstats": { "H": 70, "A": 120, "B": 40, "C": 95, "D": 40, "S": 95 },
     "gender_ratio": "1:1",
     "abilities": ["さめはだ", ""],
-    "filename": "319",
     "height": 1.8,
-    "weight": 88.8
+    "weight": 88.8,
+    "basename": "319"
   },
   "ホエルコ": {
     "no": 320,
@@ -3475,9 +3475,9 @@
     "bstats": { "H": 130, "A": 70, "B": 35, "C": 70, "D": 35, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["みずのベール", "どんかん"],
-    "filename": "320",
     "height": 2.0,
-    "weight": 130.0
+    "weight": 130.0,
+    "basename": "320"
   },
   "ホエルオー": {
     "no": 321,
@@ -3485,9 +3485,9 @@
     "bstats": { "H": 170, "A": 90, "B": 45, "C": 90, "D": 45, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["みずのベール", "どんかん"],
-    "filename": "321",
     "height": 14.5,
-    "weight": 398.0
+    "weight": 398.0,
+    "basename": "321"
   },
   "ドンメル": {
     "no": 322,
@@ -3495,9 +3495,9 @@
     "bstats": { "H": 60, "A": 60, "B": 40, "C": 65, "D": 45, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん"],
-    "filename": "322",
     "height": 0.7,
-    "weight": 24.0
+    "weight": 24.0,
+    "basename": "322"
   },
   "バクーダ": {
     "no": 323,
@@ -3505,9 +3505,9 @@
     "bstats": { "H": 70, "A": 100, "B": 70, "C": 105, "D": 75, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["マグマのよろい"],
-    "filename": "323",
     "height": 1.9,
-    "weight": 220.0
+    "weight": 220.0,
+    "basename": "323"
   },
   "コータス": {
     "no": 324,
@@ -3515,9 +3515,9 @@
     "bstats": { "H": 70, "A": 85, "B": 140, "C": 85, "D": 70, "S": 20 },
     "gender_ratio": "1:1",
     "abilities": ["しろいけむり", ""],
-    "filename": "324",
     "height": 0.5,
-    "weight": 80.4
+    "weight": 80.4,
+    "basename": "324"
   },
   "バネブー": {
     "no": 325,
@@ -3525,9 +3525,9 @@
     "bstats": { "H": 60, "A": 25, "B": 35, "C": 70, "D": 80, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう", "マイペース"],
-    "filename": "325",
     "height": 0.7,
-    "weight": 30.6
+    "weight": 30.6,
+    "basename": "325"
   },
   "ブーピッグ": {
     "no": 326,
@@ -3535,9 +3535,9 @@
     "bstats": { "H": 80, "A": 45, "B": 65, "C": 90, "D": 110, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう", "マイペース"],
-    "filename": "326",
     "height": 0.9,
-    "weight": 71.5
+    "weight": 71.5,
+    "basename": "326"
   },
   "パッチール": {
     "no": 327,
@@ -3545,9 +3545,9 @@
     "bstats": { "H": 60, "A": 60, "B": 60, "C": 60, "D": 60, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["マイペース"],
-    "filename": "327",
     "height": 1.1,
-    "weight": 5.0
+    "weight": 5.0,
+    "basename": "327"
   },
   "ナックラー": {
     "no": 328,
@@ -3555,9 +3555,9 @@
     "bstats": { "H": 45, "A": 100, "B": 45, "C": 45, "D": 45, "S": 10 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "ありじごく"],
-    "filename": "328",
     "height": 0.7,
-    "weight": 15.0
+    "weight": 15.0,
+    "basename": "328"
   },
   "ビブラーバ": {
     "no": 329,
@@ -3565,9 +3565,9 @@
     "bstats": { "H": 50, "A": 70, "B": 50, "C": 50, "D": 50, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "329",
     "height": 1.1,
-    "weight": 15.3
+    "weight": 15.3,
+    "basename": "329"
   },
   "フライゴン": {
     "no": 330,
@@ -3575,9 +3575,9 @@
     "bstats": { "H": 80, "A": 100, "B": 80, "C": 80, "D": 80, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "330",
     "height": 2.0,
-    "weight": 82.0
+    "weight": 82.0,
+    "basename": "330"
   },
   "サボネア": {
     "no": 331,
@@ -3585,9 +3585,9 @@
     "bstats": { "H": 50, "A": 85, "B": 40, "C": 85, "D": 40, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["すながくれ", ""],
-    "filename": "331",
     "height": 0.4,
-    "weight": 51.3
+    "weight": 51.3,
+    "basename": "331"
   },
   "ノクタス": {
     "no": 332,
@@ -3595,9 +3595,9 @@
     "bstats": { "H": 70, "A": 115, "B": 60, "C": 115, "D": 60, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["すながくれ", ""],
-    "filename": "332",
     "height": 1.3,
-    "weight": 77.4
+    "weight": 77.4,
+    "basename": "332"
   },
   "チルット": {
     "no": 333,
@@ -3605,9 +3605,9 @@
     "bstats": { "H": 45, "A": 40, "B": 60, "C": 40, "D": 75, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["しぜんかいふく", ""],
-    "filename": "333",
     "height": 0.4,
-    "weight": 1.2
+    "weight": 1.2,
+    "basename": "333"
   },
   "チルタリス": {
     "no": 334,
@@ -3615,9 +3615,9 @@
     "bstats": { "H": 75, "A": 70, "B": 90, "C": 70, "D": 105, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["しぜんかいふく", ""],
-    "filename": "334",
     "height": 1.1,
-    "weight": 20.6
+    "weight": 20.6,
+    "basename": "334"
   },
   "ザングース": {
     "no": 335,
@@ -3625,9 +3625,9 @@
     "bstats": { "H": 73, "A": 115, "B": 60, "C": 60, "D": 60, "S": 90 },
     "gender_ratio": "1:1",
     "abilities": ["めんえき", ""],
-    "filename": "335",
     "height": 1.3,
-    "weight": 40.3
+    "weight": 40.3,
+    "basename": "335"
   },
   "ハブネーク": {
     "no": 336,
@@ -3635,9 +3635,9 @@
     "bstats": { "H": 73, "A": 100, "B": 60, "C": 100, "D": 60, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["だっぴ", ""],
-    "filename": "336",
     "height": 2.7,
-    "weight": 52.5
+    "weight": 52.5,
+    "basename": "336"
   },
   "ルナトーン": {
     "no": 337,
@@ -3645,9 +3645,9 @@
     "bstats": { "H": 70, "A": 55, "B": 65, "C": 95, "D": 85, "S": 70 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "337",
     "height": 1.0,
-    "weight": 168.0
+    "weight": 168.0,
+    "basename": "337"
   },
   "ソルロック": {
     "no": 338,
@@ -3655,9 +3655,9 @@
     "bstats": { "H": 70, "A": 95, "B": 85, "C": 55, "D": 65, "S": 70 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "338",
     "height": 1.2,
-    "weight": 154.0
+    "weight": 154.0,
+    "basename": "338"
   },
   "ドジョッチ": {
     "no": 339,
@@ -3665,9 +3665,9 @@
     "bstats": { "H": 50, "A": 48, "B": 43, "C": 46, "D": 41, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん"],
-    "filename": "339",
     "height": 0.4,
-    "weight": 1.9
+    "weight": 1.9,
+    "basename": "339"
   },
   "ナマズン": {
     "no": 340,
@@ -3675,9 +3675,9 @@
     "bstats": { "H": 110, "A": 78, "B": 73, "C": 76, "D": 71, "S": 60 },
     "gender_ratio": "1:1",
     "abilities": ["どんかん"],
-    "filename": "340",
     "height": 0.9,
-    "weight": 23.6
+    "weight": 23.6,
+    "basename": "340"
   },
   "ヘイガニ": {
     "no": 341,
@@ -3685,9 +3685,9 @@
     "bstats": { "H": 43, "A": 80, "B": 65, "C": 50, "D": 35, "S": 35 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "シェルアーマー"],
-    "filename": "341",
     "height": 0.6,
-    "weight": 11.5
+    "weight": 11.5,
+    "basename": "341"
   },
   "シザリガー": {
     "no": 342,
@@ -3695,9 +3695,9 @@
     "bstats": { "H": 63, "A": 120, "B": 85, "C": 90, "D": 55, "S": 55 },
     "gender_ratio": "1:1",
     "abilities": ["かいりきバサミ", "シェルアーマー"],
-    "filename": "342",
     "height": 1.1,
-    "weight": 32.8
+    "weight": 32.8,
+    "basename": "342"
   },
   "ヤジロン": {
     "no": 343,
@@ -3705,9 +3705,9 @@
     "bstats": { "H": 40, "A": 40, "B": 55, "C": 40, "D": 70, "S": 55 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "343",
     "height": 0.5,
-    "weight": 21.5
+    "weight": 21.5,
+    "basename": "343"
   },
   "ネンドール": {
     "no": 344,
@@ -3715,9 +3715,9 @@
     "bstats": { "H": 60, "A": 70, "B": 105, "C": 70, "D": 120, "S": 75 },
     "gender_ratio": "ふめい",
     "abilities": ["ふゆう", ""],
-    "filename": "344",
     "height": 1.5,
-    "weight": 108.0
+    "weight": 108.0,
+    "basename": "344"
   },
   "リリーラ": {
     "no": 345,
@@ -3725,9 +3725,9 @@
     "bstats": { "H": 66, "A": 41, "B": 77, "C": 61, "D": 87, "S": 23 },
     "gender_ratio": "1:7",
     "abilities": ["きゅうばん", ""],
-    "filename": "345",
     "height": 1.0,
-    "weight": 23.8
+    "weight": 23.8,
+    "basename": "345"
   },
   "ユレイドル": {
     "no": 346,
@@ -3735,9 +3735,9 @@
     "bstats": { "H": 86, "A": 81, "B": 97, "C": 81, "D": 107, "S": 43 },
     "gender_ratio": "1:7",
     "abilities": ["きゅうばん", ""],
-    "filename": "346",
     "height": 1.5,
-    "weight": 60.4
+    "weight": 60.4,
+    "basename": "346"
   },
   "アノプス": {
     "no": 347,
@@ -3745,9 +3745,9 @@
     "bstats": { "H": 45, "A": 95, "B": 50, "C": 40, "D": 50, "S": 75 },
     "gender_ratio": "1:7",
     "abilities": ["カブトアーマー", ""],
-    "filename": "347",
     "height": 0.7,
-    "weight": 12.5
+    "weight": 12.5,
+    "basename": "347"
   },
   "アーマルド": {
     "no": 348,
@@ -3755,9 +3755,9 @@
     "bstats": { "H": 75, "A": 125, "B": 100, "C": 70, "D": 80, "S": 45 },
     "gender_ratio": "1:7",
     "abilities": ["カブトアーマー", ""],
-    "filename": "348",
     "height": 1.5,
-    "weight": 68.2
+    "weight": 68.2,
+    "basename": "348"
   },
   "ヒンバス": {
     "no": 349,
@@ -3765,9 +3765,9 @@
     "bstats": { "H": 20, "A": 15, "B": 20, "C": 10, "D": 55, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", ""],
-    "filename": "349",
     "height": 0.6,
-    "weight": 7.4
+    "weight": 7.4,
+    "basename": "349"
   },
   "ミロカロス": {
     "no": 350,
@@ -3775,9 +3775,9 @@
     "bstats": { "H": 95, "A": 60, "B": 79, "C": 100, "D": 125, "S": 81 },
     "gender_ratio": "1:1",
     "abilities": ["ふしぎなうろこ", ""],
-    "filename": "350",
     "height": 6.2,
-    "weight": 162.0
+    "weight": 162.0,
+    "basename": "350"
   },
   "ポワルン": {
     "no": 351,
@@ -3785,39 +3785,39 @@
     "bstats": { "H": 70, "A": 70, "B": 70, "C": 70, "D": 70, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["てんきや", ""],
-    "filename": "351",
     "height": 0.3,
-    "weight": 0.8
+    "weight": 0.8,
+    "basename": "351"
   },
-  "ポワルンＨ": {
+  "ポワルン(H)": {
     "no": 351,
     "types": ["ノーマル", ""],
     "bstats": { "H": 70, "A": 70, "B": 70, "C": 70, "D": 70, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["てんきや", ""],
-    "filename": "351H",
     "height": 0.3,
-    "weight": 0.8
+    "weight": 0.8,
+    "basename": "351(H)"
   },
-  "ポワルンＲ": {
+  "ポワルン(R)": {
     "no": 351,
     "types": ["ノーマル", ""],
     "bstats": { "H": 70, "A": 70, "B": 70, "C": 70, "D": 70, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["てんきや", ""],
-    "filename": "351R",
     "height": 0.3,
-    "weight": 0.8
+    "weight": 0.8,
+    "basename": "351(R)"
   },
-  "ポワルンＳ": {
+  "ポワルン(S)": {
     "no": 351,
     "types": ["ノーマル", ""],
     "bstats": { "H": 70, "A": 70, "B": 70, "C": 70, "D": 70, "S": 70 },
     "gender_ratio": "1:1",
     "abilities": ["てんきや", ""],
-    "filename": "351S",
     "height": 0.3,
-    "weight": 0.8
+    "weight": 0.8,
+    "basename": "351(S)"
   },
   "カクレオン": {
     "no": 352,
@@ -3825,9 +3825,9 @@
     "bstats": { "H": 60, "A": 90, "B": 70, "C": 60, "D": 120, "S": 40 },
     "gender_ratio": "1:1",
     "abilities": ["へんしょく", ""],
-    "filename": "352",
     "height": 1.0,
-    "weight": 22.0
+    "weight": 22.0,
+    "basename": "352"
   },
   "カゲボウズ": {
     "no": 353,
@@ -3835,9 +3835,9 @@
     "bstats": { "H": 44, "A": 75, "B": 35, "C": 63, "D": 33, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん"],
-    "filename": "353",
     "height": 0.6,
-    "weight": 2.3
+    "weight": 2.3,
+    "basename": "353"
   },
   "ジュペッタ": {
     "no": 354,
@@ -3845,9 +3845,9 @@
     "bstats": { "H": 64, "A": 115, "B": 65, "C": 83, "D": 63, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["ふみん"],
-    "filename": "354",
     "height": 1.1,
-    "weight": 12.5
+    "weight": 12.5,
+    "basename": "354"
   },
   "ヨマワル": {
     "no": 355,
@@ -3855,9 +3855,9 @@
     "bstats": { "H": 20, "A": 40, "B": 90, "C": 30, "D": 90, "S": 25 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "355",
     "height": 0.8,
-    "weight": 15.0
+    "weight": 15.0,
+    "basename": "355"
   },
   "サマヨール": {
     "no": 356,
@@ -3865,9 +3865,9 @@
     "bstats": { "H": 40, "A": 70, "B": 130, "C": 60, "D": 130, "S": 25 },
     "gender_ratio": "1:1",
     "abilities": ["プレッシャー", ""],
-    "filename": "356",
     "height": 1.6,
-    "weight": 30.6
+    "weight": 30.6,
+    "basename": "356"
   },
   "トロピウス": {
     "no": 357,
@@ -3875,9 +3875,9 @@
     "bstats": { "H": 99, "A": 68, "B": 83, "C": 72, "D": 87, "S": 51 },
     "gender_ratio": "1:1",
     "abilities": ["ようりょくそ"],
-    "filename": "357",
     "height": 2.0,
-    "weight": 100.0
+    "weight": 100.0,
+    "basename": "357"
   },
   "チリーン": {
     "no": 358,
@@ -3885,9 +3885,9 @@
     "bstats": { "H": 65, "A": 50, "B": 70, "C": 95, "D": 80, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["ふゆう", ""],
-    "filename": "358",
     "height": 0.6,
-    "weight": 1.0
+    "weight": 1.0,
+    "basename": "358"
   },
   "アブソル": {
     "no": 359,
@@ -3895,9 +3895,9 @@
     "bstats": { "H": 65, "A": 130, "B": 60, "C": 75, "D": 60, "S": 75 },
     "gender_ratio": "1:1",
     "abilities": ["プレッシャー"],
-    "filename": "359",
     "height": 1.2,
-    "weight": 47.0
+    "weight": 47.0,
+    "basename": "359"
   },
   "ソーナノ": {
     "no": 360,
@@ -3905,9 +3905,9 @@
     "bstats": { "H": 95, "A": 23, "B": 48, "C": 23, "D": 48, "S": 23 },
     "gender_ratio": "1:1",
     "abilities": ["かげふみ", ""],
-    "filename": "360",
     "height": 0.6,
-    "weight": 14.0
+    "weight": 14.0,
+    "basename": "360"
   },
   "ユキワラシ": {
     "no": 361,
@@ -3915,9 +3915,9 @@
     "bstats": { "H": 50, "A": 50, "B": 50, "C": 50, "D": 50, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく"],
-    "filename": "361",
     "height": 0.7,
-    "weight": 16.8
+    "weight": 16.8,
+    "basename": "361"
   },
   "オニゴーリ": {
     "no": 362,
@@ -3925,9 +3925,9 @@
     "bstats": { "H": 80, "A": 80, "B": 80, "C": 80, "D": 80, "S": 80 },
     "gender_ratio": "1:1",
     "abilities": ["せいしんりょく"],
-    "filename": "362",
     "height": 1.5,
-    "weight": 256.5
+    "weight": 256.5,
+    "basename": "362"
   },
   "タマザラシ": {
     "no": 363,
@@ -3935,9 +3935,9 @@
     "bstats": { "H": 70, "A": 40, "B": 50, "C": 55, "D": 50, "S": 25 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう"],
-    "filename": "363",
     "height": 0.8,
-    "weight": 39.5
+    "weight": 39.5,
+    "basename": "363"
   },
   "トドグラー": {
     "no": 364,
@@ -3945,9 +3945,9 @@
     "bstats": { "H": 90, "A": 60, "B": 70, "C": 75, "D": 70, "S": 45 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう"],
-    "filename": "364",
     "height": 1.1,
-    "weight": 87.6
+    "weight": 87.6,
+    "basename": "364"
   },
   "トドゼルガ": {
     "no": 365,
@@ -3955,9 +3955,9 @@
     "bstats": { "H": 110, "A": 80, "B": 90, "C": 95, "D": 90, "S": 65 },
     "gender_ratio": "1:1",
     "abilities": ["あついしぼう"],
-    "filename": "365",
     "height": 1.4,
-    "weight": 150.6
+    "weight": 150.6,
+    "basename": "365"
   },
   "パールル": {
     "no": 366,
@@ -3965,9 +3965,9 @@
     "bstats": { "H": 35, "A": 64, "B": 85, "C": 74, "D": 55, "S": 32 },
     "gender_ratio": "1:1",
     "abilities": ["シェルアーマー", ""],
-    "filename": "366",
     "height": 0.4,
-    "weight": 52.5
+    "weight": 52.5,
+    "basename": "366"
   },
   "ハンテール": {
     "no": 367,
@@ -3975,9 +3975,9 @@
     "bstats": { "H": 55, "A": 104, "B": 105, "C": 94, "D": 75, "S": 52 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", ""],
-    "filename": "367",
     "height": 1.7,
-    "weight": 27.0
+    "weight": 27.0,
+    "basename": "367"
   },
   "サクラビス": {
     "no": 368,
@@ -3985,9 +3985,9 @@
     "bstats": { "H": 55, "A": 84, "B": 105, "C": 114, "D": 75, "S": 52 },
     "gender_ratio": "1:1",
     "abilities": ["すいすい", ""],
-    "filename": "368",
     "height": 1.8,
-    "weight": 22.6
+    "weight": 22.6,
+    "basename": "368"
   },
   "ジーランス": {
     "no": 369,
@@ -3995,9 +3995,9 @@
     "bstats": { "H": 100, "A": 90, "B": 130, "C": 45, "D": 65, "S": 55 },
     "gender_ratio": "1:7",
     "abilities": ["すいすい", "いしあたま"],
-    "filename": "369",
     "height": 1.0,
-    "weight": 23.4
+    "weight": 23.4,
+    "basename": "369"
   },
   "ラブカス": {
     "no": 370,
@@ -4005,9 +4005,9 @@
     "bstats": { "H": 43, "A": 30, "B": 55, "C": 40, "D": 65, "S": 97 },
     "gender_ratio": "3:1",
     "abilities": ["すいすい", ""],
-    "filename": "370",
     "height": 0.6,
-    "weight": 8.7
+    "weight": 8.7,
+    "basename": "370"
   },
   "タツベイ": {
     "no": 371,
@@ -4015,9 +4015,9 @@
     "bstats": { "H": 45, "A": 75, "B": 60, "C": 40, "D": 30, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", ""],
-    "filename": "371",
     "height": 0.6,
-    "weight": 42.1
+    "weight": 42.1,
+    "basename": "371"
   },
   "コモルー": {
     "no": 372,
@@ -4025,9 +4025,9 @@
     "bstats": { "H": 65, "A": 95, "B": 100, "C": 60, "D": 50, "S": 50 },
     "gender_ratio": "1:1",
     "abilities": ["いしあたま", ""],
-    "filename": "372",
     "height": 1.1,
-    "weight": 110.5
+    "weight": 110.5,
+    "basename": "372"
   },
   "ボーマンダ": {
     "no": 373,
@@ -4035,9 +4035,9 @@
     "bstats": { "H": 95, "A": 135, "B": 80, "C": 110, "D": 80, "S": 100 },
     "gender_ratio": "1:1",
     "abilities": ["いかく", ""],
-    "filename": "373",
     "height": 1.5,
-    "weight": 102.6
+    "weight": 102.6,
+    "basename": "373"
   },
   "ダンバル": {
     "no": 374,
@@ -4045,9 +4045,9 @@
     "bstats": { "H": 40, "A": 55, "B": 80, "C": 35, "D": 60, "S": 30 },
     "gender_ratio": "ふめい",
     "abilities": ["クリアボディ", ""],
-    "filename": "374",
     "height": 0.6,
-    "weight": 95.2
+    "weight": 95.2,
+    "basename": "374"
   },
   "メタング": {
     "no": 375,
@@ -4055,9 +4055,9 @@
     "bstats": { "H": 60, "A": 75, "B": 100, "C": 55, "D": 80, "S": 50 },
     "gender_ratio": "ふめい",
     "abilities": ["クリアボディ", ""],
-    "filename": "375",
     "height": 1.2,
-    "weight": 202.5
+    "weight": 202.5,
+    "basename": "375"
   },
   "メタグロス": {
     "no": 376,
@@ -4065,9 +4065,9 @@
     "bstats": { "H": 80, "A": 135, "B": 130, "C": 95, "D": 90, "S": 70 },
     "gender_ratio": "ふめい",
     "abilities": ["クリアボディ", ""],
-    "filename": "376",
     "height": 1.6,
-    "weight": 550.0
+    "weight": 550.0,
+    "basename": "376"
   },
   "レジロック": {
     "no": 377,
@@ -4075,9 +4075,9 @@
     "bstats": { "H": 80, "A": 100, "B": 200, "C": 50, "D": 100, "S": 50 },
     "gender_ratio": "ふめい",
     "abilities": ["クリアボディ", ""],
-    "filename": "377",
     "height": 1.7,
-    "weight": 230.0
+    "weight": 230.0,
+    "basename": "377"
   },
   "レジアイス": {
     "no": 378,
@@ -4085,9 +4085,9 @@
     "bstats": { "H": 80, "A": 50, "B": 100, "C": 100, "D": 200, "S": 50 },
     "gender_ratio": "ふめい",
     "abilities": ["クリアボディ", ""],
-    "filename": "378",
     "height": 1.8,
-    "weight": 175.0
+    "weight": 175.0,
+    "basename": "378"
   },
   "レジスチル": {
     "no": 379,
@@ -4095,9 +4095,9 @@
     "bstats": { "H": 80, "A": 75, "B": 150, "C": 75, "D": 150, "S": 50 },
     "gender_ratio": "ふめい",
     "abilities": ["クリアボディ", ""],
-    "filename": "379",
     "height": 1.9,
-    "weight": 205.0
+    "weight": 205.0,
+    "basename": "379"
   },
   "ラティアス": {
     "no": 380,
@@ -4105,9 +4105,9 @@
     "bstats": { "H": 80, "A": 80, "B": 90, "C": 110, "D": 130, "S": 110 },
     "gender_ratio": "♀のみ",
     "abilities": ["ふゆう", ""],
-    "filename": "380",
     "height": 1.4,
-    "weight": 40.0
+    "weight": 40.0,
+    "basename": "380"
   },
   "ラティオス": {
     "no": 381,
@@ -4115,9 +4115,9 @@
     "bstats": { "H": 80, "A": 90, "B": 80, "C": 130, "D": 110, "S": 110 },
     "gender_ratio": "♂のみ",
     "abilities": ["ふゆう", ""],
-    "filename": "381",
     "height": 2.0,
-    "weight": 60.0
+    "weight": 60.0,
+    "basename": "381"
   },
   "カイオーガ": {
     "no": 382,
@@ -4125,9 +4125,9 @@
     "bstats": { "H": 100, "A": 100, "B": 90, "C": 150, "D": 140, "S": 90 },
     "gender_ratio": "ふめい",
     "abilities": ["あめふらし", ""],
-    "filename": "382",
     "height": 4.5,
-    "weight": 352.0
+    "weight": 352.0,
+    "basename": "382"
   },
   "グラードン": {
     "no": 383,
@@ -4135,9 +4135,9 @@
     "bstats": { "H": 100, "A": 150, "B": 140, "C": 100, "D": 90, "S": 90 },
     "gender_ratio": "ふめい",
     "abilities": ["ひでり", ""],
-    "filename": "383",
     "height": 3.5,
-    "weight": 950.0
+    "weight": 950.0,
+    "basename": "383"
   },
   "レックウザ": {
     "no": 384,
@@ -4145,9 +4145,9 @@
     "bstats": { "H": 105, "A": 150, "B": 90, "C": 150, "D": 90, "S": 95 },
     "gender_ratio": "ふめい",
     "abilities": ["エアロック", ""],
-    "filename": "384",
     "height": 7.0,
-    "weight": 206.5
+    "weight": 206.5,
+    "basename": "384"
   },
   "ジラーチ": {
     "no": 385,
@@ -4155,9 +4155,9 @@
     "bstats": { "H": 100, "A": 100, "B": 100, "C": 100, "D": 100, "S": 100 },
     "gender_ratio": "ふめい",
     "abilities": ["てんのめぐみ", ""],
-    "filename": "385",
     "height": 0.3,
-    "weight": 1.1
+    "weight": 1.1,
+    "basename": "385"
   },
   "デオキシス": {
     "no": 386,
@@ -4165,38 +4165,38 @@
     "bstats": { "H": 50, "A": 150, "B": 50, "C": 150, "D": 50, "S": 150 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "386",
     "height": 1.7,
-    "weight": 60.8
+    "weight": 60.8,
+    "basename": "386"
   },
-  "デオキシスＡ": {
+  "デオキシス(A)": {
     "no": 386,
     "types": ["エスパー", ""],
     "bstats": { "H": 50, "A": 180, "B": 20, "C": 180, "D": 20, "S": 150 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "386A",
     "height": 1.7,
-    "weight": 60.8
+    "weight": 60.8,
+    "basename": "386(A)"
   },
-  "デオキシスＤ": {
+  "デオキシス(D)": {
     "no": 386,
     "types": ["エスパー", ""],
     "bstats": { "H": 50, "A": 70, "B": 160, "C": 70, "D": 160, "S": 90 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "386D",
     "height": 1.7,
-    "weight": 60.8
+    "weight": 60.8,
+    "basename": "386(D)"
   },
-  "デオキシスＳ": {
+  "デオキシス(S)": {
     "no": 386,
     "types": ["エスパー", ""],
     "bstats": { "H": 50, "A": 95, "B": 90, "C": 95, "D": 90, "S": 180 },
     "gender_ratio": "ふめい",
     "abilities": ["プレッシャー", ""],
-    "filename": "386S",
     "height": 1.7,
-    "weight": 60.8
+    "weight": 60.8,
+    "basename": "386(S)"
   }
 }

@@ -2,1556 +2,1556 @@
   "マスターボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Master_Ball"
+    "filename": "Master_Ball.png"
   },
   "ハイパーボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Ultra_Ball"
+    "filename": "Ultra_Ball.png"
   },
   "スーパーボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Great_Ball"
+    "filename": "Great_Ball.png"
   },
   "モンスターボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Pok%C3%A9_Ball"
+    "filename": "Poke_Ball.png"
   },
   "サファリボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Safari_Ball"
+    "filename": "Safari_Ball.png"
   },
   "ネットボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Net_Ball"
+    "filename": "Net_Ball.png"
   },
   "ダイブボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Dive_Ball"
+    "filename": "Dive_Ball.png"
   },
   "ネストボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Nest_Ball"
+    "filename": "Nest_Ball.png"
   },
   "リピートボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Repeat_Ball"
+    "filename": "Repeat_Ball.png"
   },
   "タイマーボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Timer_Ball"
+    "filename": "Timer_Ball.png"
   },
   "ゴージャスボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Luxury_Ball"
+    "filename": "Luxury_Ball.png"
   },
   "プレミアボール": {
     "pocket": "Poké Balls",
     "is_practival": false,
-    "filename": "Premier_Ball"
+    "filename": "Premier_Ball.png"
   },
   "キズぐすり": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Potion"
+    "filename": "Potion.png"
   },
   "どくけし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Antidote"
+    "filename": "Antidote.png"
   },
   "やけどなおし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Burn_Heal"
+    "filename": "Burn_Heal.png"
   },
   "こおりなおし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Ice_Heal"
+    "filename": "Ice_Heal.png"
   },
   "ねむけざまし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Awakening"
+    "filename": "Awakening.png"
   },
   "まひなおし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Paralyze_Heal"
+    "filename": "Paralyze_Heal.png"
   },
   "かいふくのくすり": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Full_Restore"
+    "filename": "Full_Restore.png"
   },
   "まんたんのくすり": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Max_Potion"
+    "filename": "Max_Potion.png"
   },
   "すごいキズぐすり": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Hyper_Potion"
+    "filename": "Hyper_Potion.png"
   },
   "いいキズぐすり": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Super_Potion"
+    "filename": "Super_Potion.png"
   },
   "なんでもなおし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Full_Heal"
+    "filename": "Full_Heal.png"
   },
   "げんきのかけら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Revive"
+    "filename": "Revive.png"
   },
   "げんきのかたまり": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Max_Revive"
+    "filename": "Max_Revive.png"
   },
   "おいしいみず": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Fresh_Water"
+    "filename": "Fresh_Water.png"
   },
   "サイコソーダ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Soda_Pop"
+    "filename": "Soda_Pop.png"
   },
   "ミックスオレ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Lemonade"
+    "filename": "Lemonade.png"
   },
   "モーモーミルク": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Moomoo_Milk_III"
+    "filename": "Moomoo_Milk.png"
   },
   "ちからのこな": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Energy_Powder"
+    "filename": "Energy_Powder.png"
   },
   "ちからのねっこ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Energy_Root"
+    "filename": "Energy_Root.png"
   },
   "ばんのうごな": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Heal_Powder"
+    "filename": "Heal_Powder.png"
   },
   "ふっかつそう": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Revival_Herb"
+    "filename": "Revival_Herb.png"
   },
   "ピーピーエイド": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Ether"
+    "filename": "Ether.png"
   },
   "ピーピーリカバー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Max_Ether"
+    "filename": "Max_Ether.png"
   },
   "ピーピーエイダー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Elixir"
+    "filename": "Elixir.png"
   },
   "ピーピーマックス": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Max_Elixir"
+    "filename": "Max_Elixir.png"
   },
   "フエンせんべい": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Lava_Cookie"
+    "filename": "Lava_Cookie.png"
   },
   "あおいビードロ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Blue_Flute"
+    "filename": "Blue_Flute.png"
   },
   "きいろビードロ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Yellow_Flute"
+    "filename": "Yellow_Flute.png"
   },
   "あかいビードロ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Red_Flute"
+    "filename": "Red_Flute.png"
   },
   "くろいビードロ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Black_Flute"
+    "filename": "Black_Flute.png"
   },
   "しろいビードロ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "White_Flute"
+    "filename": "White_Flute.png"
   },
   "きのみジュース": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Berry_Juice"
+    "filename": "Berry_Juice.png"
   },
   "せいなるはい": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Sacred_Ash"
+    "filename": "Sacred_Ash.png"
   },
   "あさせのしお": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Shoal_Salt"
+    "filename": "Shoal_Salt.png"
   },
   "あさせのかいがら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Shoal_Shell"
+    "filename": "Shoal_Shell.png"
   },
   "あかいかけら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Red_Shard"
+    "filename": "Red_Shard.png"
   },
   "あおいかけら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Blue_Shard"
+    "filename": "Blue_Shard.png"
   },
   "きいろいかけら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Yellow_Shard"
+    "filename": "Yellow_Shard.png"
   },
   "みどりのかけら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Green_Shard"
+    "filename": "Green_Shard.png"
   },
   "マックスアップ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "HP_Up"
+    "filename": "HP_Up.png"
   },
   "タウリン": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Protein"
+    "filename": "Protein.png"
   },
   "ブロムヘキシン": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Iron"
+    "filename": "Iron.png"
   },
   "インドメタシン": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Carbos"
+    "filename": "Carbos.png"
   },
   "リゾチウム": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Calcium"
+    "filename": "Calcium.png"
   },
   "ふしぎなアメ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Rare_Candy"
+    "filename": "Rare_Candy.png"
   },
   "ポイントアップ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "PP_Up"
+    "filename": "PP_Up.png"
   },
   "キトサン": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Zinc"
+    "filename": "Zinc.png"
   },
   "ポイントマックス": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "PP_Max"
+    "filename": "PP_Max.png"
   },
   "エフェクトガード": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Guard_Spec."
+    "filename": "Guard_Spec.png"
   },
   "クリティカッター": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Dire_Hit"
+    "filename": "Dire_Hit.png"
   },
   "プラスパワー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "X_Attack"
+    "filename": "X_Attack.png"
   },
   "ディフェンダー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "X_Defense"
+    "filename": "X_Defend.png"
   },
   "スピーダー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "X_Speed"
+    "filename": "X_Speed.png"
   },
   "ヨクアタール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "X_Accuracy"
+    "filename": "X_Accuracy.png"
   },
   "スペシャルアップ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "X_Sp._Atk"
+    "filename": "X_Special.png"
   },
   "ピッピにんぎょう": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Pok%C3%A9_Doll"
+    "filename": "Poke_Doll.png"
   },
   "エネコのシッポ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Fluffy_Tail"
+    "filename": "Fluffy_Tail.png"
   },
   "シルバースプレー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Super_Repel"
+    "filename": "Super_Repel.png"
   },
   "ゴールドスプレー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Max_Repel"
+    "filename": "Max_Repel.png"
   },
   "あなぬけのヒモ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Escape_Rope"
+    "filename": "Escape_Rope.png"
   },
   "むしよけスプレー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Repel"
+    "filename": "Repel.png"
   },
   "たいようのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Sun_Stone"
+    "filename": "Sun_Stone.png"
   },
   "つきのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Moon_Stone"
+    "filename": "Moon_Stone.png"
   },
   "ほのおのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Fire_Stone"
+    "filename": "Fire_Stone.png"
   },
   "かみなりのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Thunder_Stone"
+    "filename": "Thunder_Stone.png"
   },
   "みずのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Water_Stone"
+    "filename": "Water_Stone.png"
   },
   "リーフのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Leaf_Stone"
+    "filename": "Leaf_Stone.png"
   },
   "ちいさなキノコ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Tiny_Mushroom"
+    "filename": "Tiny_Mushroom.png"
   },
   "おおきなキノコ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Big_Mushroom"
+    "filename": "Big_Mushroom.png"
   },
   "しんじゅ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Pearl"
+    "filename": "Pearl.png"
   },
   "おおきなしんじゅ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Big_Pearl"
+    "filename": "Big_Pearl.png"
   },
   "ほしのすな": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Stardust"
+    "filename": "Stardust.png"
   },
   "ほしのかけら": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Star_Piece"
+    "filename": "Star_Piece.png"
   },
   "きんのたま": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Nugget"
+    "filename": "Nugget.png"
   },
   "ハートのウロコ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Heart_Scale"
+    "filename": "Heart_Scale.png"
   },
   "オレンジメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Orange_Mail"
+    "filename": "Orange_Mail.png"
   },
   "ハーバーメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Harbor_Mail"
+    "filename": "Harbor_Mail.png"
   },
   "キラキラメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Glitter_Mail"
+    "filename": "Glitter_Mail.png"
   },
   "メカニカルメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Mech_Mail"
+    "filename": "Mech_Mail.png"
   },
   "ウッディメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Wood_Mail"
+    "filename": "Wood_Mail.png"
   },
   "クロスメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Wave_Mail"
+    "filename": "Wave_Mail.png"
   },
   "トレジャーメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Bead_Mail"
+    "filename": "Bead_Mail.png"
   },
   "シャドーメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Shadow_Mail"
+    "filename": "Shadow_Mail.png"
   },
   "トロピカルメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Tropic_Mail"
+    "filename": "Tropic_Mail.png"
   },
   "ドリームメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Dream_Mail"
+    "filename": "Dream_Mail.png"
   },
   "ミラクルメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Fab_Mail"
+    "filename": "Fab_Mail.png"
   },
   "レトロメール": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Retro_Mail"
+    "filename": "Retro_Mail.png"
   },
   "クラボのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Cheri_Berry"
+    "filename": "Cheri_Berry.png"
   },
   "カゴのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Chesto_Berry"
+    "filename": "Chesto_Berry.png"
   },
   "モモンのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Pecha_Berry"
+    "filename": "Pecha_Berry.png"
   },
   "チーゴのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Rawst_Berry"
+    "filename": "Rawst_Berry.png"
   },
   "ナナシのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Aspear_Berry"
+    "filename": "Aspear_Berry.png"
   },
   "ヒメリのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Leppa_Berry"
+    "filename": "Leppa_Berry.png"
   },
   "オレンのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Oran_Berry"
+    "filename": "Oran_Berry.png"
   },
   "キーのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Persim_Berry"
+    "filename": "Persim_Berry.png"
   },
   "ラムのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Lum_Berry"
+    "filename": "Lum_Berry.png"
   },
   "オボンのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Sitrus_Berry"
+    "filename": "Sitrus_Berry.png"
   },
   "フィラのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Figy_Berry"
+    "filename": "Figy_Berry.png"
   },
   "ウイのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Wiki_Berry"
+    "filename": "Wiki_Berry.png"
   },
   "マゴのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Mago_Berry"
+    "filename": "Mago_Berry.png"
   },
   "バンジのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Aguav_Berry"
+    "filename": "Aguav_Berry.png"
   },
   "イアのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Iapapa_Berry"
+    "filename": "Iapapa_Berry.png"
   },
   "ズリのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Razz_Berry_III"
+    "filename": "Razz_Berry.png"
   },
   "ブリーのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Bluk_Berry"
+    "filename": "Bluk_Berry.png"
   },
   "ナナのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Nanab_Berry_III"
+    "filename": "Nanab_Berry.png"
   },
   "セシナのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Wepear_Berry"
+    "filename": "Wepear_Berry.png"
   },
   "パイルのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Pinap_Berry"
+    "filename": "Pinap_Berry.png"
   },
   "ザロクのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Pomeg_Berry"
+    "filename": "Pomeg_Berry.png"
   },
   "ネコブのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Kelpsy_Berry"
+    "filename": "Kelpsy_Berry.png"
   },
   "タポルのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Qualot_Berry"
+    "filename": "Qualot_Berry.png"
   },
   "ロメのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Hondew_Berry"
+    "filename": "Hondew_Berry.png"
   },
   "ウブのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Grepa_Berry"
+    "filename": "Grepa_Berry.png"
   },
   "マトマのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Tamato_Berry"
+    "filename": "Tamato_Berry.png"
   },
   "モコシのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Cornn_Berry"
+    "filename": "Cornn_Berry.png"
   },
   "ゴスのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Magost_Berry"
+    "filename": "Magost_Berry.png"
   },
   "ラブタのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Rabuta_Berry"
+    "filename": "Rabuta_Berry.png"
   },
   "ノメルのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Nomel_Berry"
+    "filename": "Nomel_Berry.png"
   },
   "ノワキのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Spelon_Berry"
+    "filename": "Spelon_Berry.png"
   },
   "シーヤのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Pamtre_Berry"
+    "filename": "Pamtre_Berry.png"
   },
   "カイスのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Watmel_Berry"
+    "filename": "Watmel_Berry.png"
   },
   "ドリのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Durin_Berry"
+    "filename": "Durin_Berry.png"
   },
   "ベリブのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Belue_Berry"
+    "filename": "Belue_Berry.png"
   },
   "チイラのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Liechi_Berry"
+    "filename": "Liechi_Berry.png"
   },
   "リュガのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Ganlon_Berry"
+    "filename": "Ganlon_Berry.png"
   },
   "カムラのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Salac_Berry"
+    "filename": "Salac_Berry.png"
   },
   "ヤタピのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Petaya_Berry"
+    "filename": "Petaya_Berry.png"
   },
   "ズアのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Apicot_Berry"
+    "filename": "Apicot_Berry.png"
   },
   "サンのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Lansat_Berry"
+    "filename": "Lansat_Berry.png"
   },
   "スターのみ": {
     "pocket": "Berries",
     "is_practival": true,
-    "filename": "Starf_Berry"
+    "filename": "Starf_Berry.png"
   },
   "ナゾのみ": {
     "pocket": "Berries",
     "is_practival": false,
-    "filename": "Enigma_Berry"
+    "filename": "Enigma_Berry.png"
   },
   "ひかりのこな": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Bright_Powder"
+    "filename": "Bright_Powder.png"
   },
   "しろいハーブ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "White_Herb"
+    "filename": "White_Herb.png"
   },
   "きょうせいギプス": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Macho_Brace"
+    "filename": "Macho_Brace.png"
   },
   "がくしゅうそうち": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Exp._Share"
+    "filename": "Exp._Share.png"
   },
   "せんせいのツメ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Quick_Claw"
+    "filename": "Quick_Claw.png"
   },
   "やすらぎのすず": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Soothe_Bell"
+    "filename": "Soothe_Bell.png"
   },
   "メンタルハーブ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Mental_Herb"
+    "filename": "Mental_Herb.png"
   },
   "こだわりハチマキ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Choice_Band"
+    "filename": "Choice_Band.png"
   },
   "おうじゃのしるし": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Kings_Rock"
+    "filename": "Kings_Rock.png"
   },
   "ぎんのこな": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Silver_Powder"
+    "filename": "Silver_Powder.png"
   },
   "おまもりこばん": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Amulet_Coin_III"
+    "filename": "Amulet_Coin.png"
   },
   "きよめのおふだ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Cleanse_Tag"
+    "filename": "Cleanse_Tag.png"
   },
   "こころのしずく": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Soul_Dew"
+    "filename": "Soul_Dew.png"
   },
   "しんかいのキバ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Deep_Sea_Tooth"
+    "filename": "Deep_Sea_Tooth.png"
   },
   "しんかいのウロコ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Deep_Sea_Scale"
+    "filename": "Deep_Sea_Scale.png"
   },
   "けむりだま": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Smoke_Ball"
+    "filename": "Smoke_Ball.png"
   },
   "かわらずのいし": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Everstone"
+    "filename": "Everstone.png"
   },
   "きあいのハチマキ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Focus_Band"
+    "filename": "Focus_Band.png"
   },
   "しあわせタマゴ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Lucky_Egg"
+    "filename": "Lucky_Egg.png"
   },
   "ピントレンズ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Scope_Lens"
+    "filename": "Scope_Lens.png"
   },
   "メタルコート": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Metal_Coat"
+    "filename": "Metal_Coat.png"
   },
   "たべのこし": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Leftovers"
+    "filename": "Leftovers.png"
   },
   "りゅうのウロコ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Dragon_Scale"
+    "filename": "Dragon_Scale.png"
   },
   "でんきだま": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Light_Ball"
+    "filename": "Light_Ball.png"
   },
   "やわらかいすな": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Soft_Sand"
+    "filename": "Soft_Sand.png"
   },
   "かたいいし": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Hard_Stone"
+    "filename": "Hard_Stone.png"
   },
   "きせきのタネ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Miracle_Seed"
+    "filename": "Miracle_Seed.png"
   },
   "くろいメガネ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Black_Glasses"
+    "filename": "Black_Glasses.png"
   },
   "くろおび": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Black_Belt"
+    "filename": "Black_Belt.png"
   },
   "じしゃく": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Magnet"
+    "filename": "Magnet.png"
   },
   "しんぴのしずく": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Mystic_Water"
+    "filename": "Mystic_Water.png"
   },
   "するどいくちばし": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Sharp_Beak"
+    "filename": "Sharp_Beak.png"
   },
   "どくバリ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Poison_Barb"
+    "filename": "Poison_Barb.png"
   },
   "とけないこおり": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Never-Melt_Ice"
+    "filename": "Never-Melt_Ice.png"
   },
   "のろいのおふだ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Spell_Tag"
+    "filename": "Spell_Tag.png"
   },
   "まがったスプーン": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Twisted_Spoon"
+    "filename": "Twisted_Spoon.png"
   },
   "もくたん": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Charcoal"
+    "filename": "Charcoal.png"
   },
   "りゅうのキバ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Dragon_Fang"
+    "filename": "Dragon_Fang.png"
   },
   "シルクのスカーフ": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Silk_Scarf"
+    "filename": "Silk_Scarf.png"
   },
   "アップグレード": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Up-Grade"
+    "filename": "Up-Grade.png"
   },
   "かいがらのすず": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Shell_Bell"
+    "filename": "Shell_Bell.png"
   },
   "うしおのおこう": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Sea_Incense"
+    "filename": "Sea_Incense.png"
   },
   "のんきのおこう": {
     "pocket": "Items",
     "is_practival": true,
-    "filename": "Lax_Incense"
+    "filename": "Lax_Incense.png"
   },
   "ラッキーパンチ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Lucky_Punch"
+    "filename": "Lucky_Punch.png"
   },
   "メタルパウダー": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Metal_Powder"
+    "filename": "Metal_Powder.png"
   },
   "ふといホネ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Thick_Club"
+    "filename": "Thick_Club.png"
   },
   "ながねぎ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Stick"
+    "filename": "Stick.png"
   },
   "あかいバンダナ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Red_Scarf"
+    "filename": "Red_Scarf.png"
   },
   "あおいバンダナ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Blue_Scarf"
+    "filename": "Blue_Scarf.png"
   },
   "ピンクのバンダナ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Pink_Scarf"
+    "filename": "Pink_Scarf.png"
   },
   "みどりのバンダナ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Green_Scarf"
+    "filename": "Green_Scarf.png"
   },
   "きいろのバンダナ": {
     "pocket": "Items",
     "is_practival": false,
-    "filename": "Yellow_Scarf"
+    "filename": "Yellow_Scarf.png"
   },
   "マッハじてんしゃ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Mach_Bike_III"
+    "filename": "Mach_Bike.png"
   },
   "コインケース": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Coin_Case"
+    "filename": "Coin_Case.png"
   },
   "ダウジングマシン": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Itemfinder"
+    "filename": "Itemfinder.png"
   },
   "ボロのつりざお": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Old_Rod"
+    "filename": "Old_Rod.png"
   },
   "いいつりざお": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Good_Rod"
+    "filename": "Good_Rod.png"
   },
   "すごいつりざお": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Super_Rod"
+    "filename": "Super_Rod.png"
   },
   "ふねのチケット": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "S.S._Ticket"
+    "filename": "S.S._Ticket.png"
   },
   "コンテストパス": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Contest_Pass"
+    "filename": "Contest_Pass.png"
   },
   "ホエルコじょうろ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Wailmer_Pail"
+    "filename": "Wailmer_Pail.png"
   },
   "デボンのにもつ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Devon_Parts"
+    "filename": "Devon_Parts.png"
   },
   "はいぶくろ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Soot_Sack"
+    "filename": "Soot_Sack.png"
   },
   "ちかのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Basement_Key_III"
+    "filename": "Basement_Key.png"
   },
   "ダートじてんしゃ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Acro_Bike_III"
+    "filename": "Acro_Bike.png"
   },
   "ポロックケース": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Pok%C3%A9block_Case"
+    "filename": "Pokeblock_Case.png"
   },
   "ダイゴへのてがみ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Letter"
+    "filename": "Letter.png"
   },
   "むげんのチケット": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Eon_Ticket"
+    "filename": "Eon_Ticket.png"
   },
   "べにいろのたま": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Red_Orb_III"
+    "filename": "Red_Orb.png"
   },
   "あいいろのたま": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Blue_Orb_III"
+    "filename": "Blue_Orb.png"
   },
   "たんちき": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Scanner"
+    "filename": "Scanner.png"
   },
   "ゴーゴーゴーグル": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Go-Goggles"
+    "filename": "Go-Goggles.png"
   },
   "いんせき": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Meteorite"
+    "filename": "Meteorite.png"
   },
   "１ごうしつのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Key_to_Room_1"
+    "filename": "Key_to_Room_1.png"
   },
   "２ごうしつのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Key_to_Room_2"
+    "filename": "Key_to_Room_2.png"
   },
   "４ごうしつのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Key_to_Room_4"
+    "filename": "Key_to_Room_4.png"
   },
   "６ごうしつのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Key_to_Room_6"
+    "filename": "Key_to_Room_6.png"
   },
   "そうこのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Storage_Key_III"
+    "filename": "Storage_Key.png"
   },
   "ねっこのカセキ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Root_Fossil"
+    "filename": "Root_Fossil.png"
   },
   "ツメのカセキ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Claw_Fossil"
+    "filename": "Claw_Fossil.png"
   },
   "デボンスコープ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Devon_Scope_III"
+    "filename": "Devon_Scope.png"
   },
-  "わざマシン０１\u3000きあいパンチ": {
+  "わざマシン０１　きあいパンチ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fighting"
+    "filename": "TM_Fighting.png"
   },
-  "わざマシン０２\u3000ドラゴンクロー": {
+  "わざマシン０２　ドラゴンクロー": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Dragon"
+    "filename": "TM_Dragon.png"
   },
-  "わざマシン０３\u3000みずのはどう": {
+  "わざマシン０３　みずのはどう": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Water"
+    "filename": "TM_Water.png"
   },
-  "わざマシン０４\u3000めいそう": {
+  "わざマシン０４　めいそう": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Psychic"
+    "filename": "TM_Psychic.png"
   },
-  "わざマシン０５\u3000ほえる": {
+  "わざマシン０５　ほえる": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン０６\u3000どくどく": {
+  "わざマシン０６　どくどく": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Poison"
+    "filename": "TM_Poison.png"
   },
-  "わざマシン０７\u3000あられ": {
+  "わざマシン０７　あられ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Ice"
+    "filename": "TM_Ice.png"
   },
-  "わざマシン０８\u3000ビルドアップ": {
+  "わざマシン０８　ビルドアップ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fighting"
+    "filename": "TM_Fighting.png"
   },
-  "わざマシン０９\u3000タネマシンガン": {
+  "わざマシン０９　タネマシンガン": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Grass"
+    "filename": "TM_Grass.png"
   },
-  "わざマシン１０\u3000めざめるパワー": {
+  "わざマシン１０　めざめるパワー": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン１１\u3000にほんばれ": {
+  "わざマシン１１　にほんばれ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fire"
+    "filename": "TM_Fire.png"
   },
-  "わざマシン１２\u3000ちょうはつ": {
+  "わざマシン１２　ちょうはつ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Dark"
+    "filename": "TM_Dark.png"
   },
-  "わざマシン１３\u3000れいとうビーム": {
+  "わざマシン１３　れいとうビーム": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Ice"
+    "filename": "TM_Ice.png"
   },
-  "わざマシン１４\u3000ふぶき": {
+  "わざマシン１４　ふぶき": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Ice"
+    "filename": "TM_Ice.png"
   },
-  "わざマシン１５\u3000はかいこうせん": {
+  "わざマシン１５　はかいこうせん": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン１６\u3000ひかりのかべ": {
+  "わざマシン１６　ひかりのかべ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Psychic"
+    "filename": "TM_Psychic.png"
   },
-  "わざマシン１７\u3000まもる": {
+  "わざマシン１７　まもる": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン１８\u3000あまごい": {
+  "わざマシン１８　あまごい": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Water"
+    "filename": "TM_Water.png"
   },
-  "わざマシン１９\u3000ギガドレイン": {
+  "わざマシン１９　ギガドレイン": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Grass"
+    "filename": "TM_Grass.png"
   },
-  "わざマシン２０\u3000しんぴのまもり": {
+  "わざマシン２０　しんぴのまもり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン２１\u3000やつあたり": {
+  "わざマシン２１　やつあたり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン２２\u3000ソーラービーム": {
+  "わざマシン２２　ソーラービーム": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Grass"
+    "filename": "TM_Grass.png"
   },
-  "わざマシン２３\u3000アイアンテール": {
+  "わざマシン２３　アイアンテール": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Steel"
+    "filename": "TM_Steel.png"
   },
-  "わざマシン２４\u3000１０まんボルト": {
+  "わざマシン２４　１０まんボルト": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Electric"
+    "filename": "TM_Electric.png"
   },
-  "わざマシン２５\u3000かみなり": {
+  "わざマシン２５　かみなり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Electric"
+    "filename": "TM_Electric.png"
   },
-  "わざマシン２６\u3000じしん": {
+  "わざマシン２６　じしん": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Ground"
+    "filename": "TM_Ground.png"
   },
-  "わざマシン２７\u3000おんがえし": {
+  "わざマシン２７　おんがえし": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン２８\u3000あなをほる": {
+  "わざマシン２８　あなをほる": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Ground"
+    "filename": "TM_Ground.png"
   },
-  "わざマシン２９\u3000サイコキネシス": {
+  "わざマシン２９　サイコキネシス": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Psychic"
+    "filename": "TM_Psychic.png"
   },
-  "わざマシン３０\u3000シャドーボール": {
+  "わざマシン３０　シャドーボール": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Ghost"
+    "filename": "TM_Ghost.png"
   },
-  "わざマシン３１\u3000かわらわり": {
+  "わざマシン３１　かわらわり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fighting"
+    "filename": "TM_Fighting.png"
   },
-  "わざマシン３２\u3000かげぶんしん": {
+  "わざマシン３２　かげぶんしん": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン３３\u3000リフレクター": {
+  "わざマシン３３　リフレクター": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Psychic"
+    "filename": "TM_Psychic.png"
   },
-  "わざマシン３４\u3000でんげきは": {
+  "わざマシン３４　でんげきは": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Electric"
+    "filename": "TM_Electric.png"
   },
-  "わざマシン３５\u3000かえんほうしゃ": {
+  "わざマシン３５　かえんほうしゃ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fire"
+    "filename": "TM_Fire.png"
   },
-  "わざマシン３６\u3000ヘドロばくだん": {
+  "わざマシン３６　ヘドロばくだん": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Poison"
+    "filename": "TM_Poison.png"
   },
-  "わざマシン３７\u3000すなあらし": {
+  "わざマシン３７　すなあらし": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Rock"
+    "filename": "TM_Rock.png"
   },
-  "わざマシン３８\u3000だいもんじ": {
+  "わざマシン３８　だいもんじ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fire"
+    "filename": "TM_Fire.png"
   },
-  "わざマシン３９\u3000がんせきふうじ": {
+  "わざマシン３９　がんせきふうじ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Rock"
+    "filename": "TM_Rock.png"
   },
-  "わざマシン４０\u3000つばめがえし": {
+  "わざマシン４０　つばめがえし": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Flying"
+    "filename": "TM_Flying.png"
   },
-  "わざマシン４１\u3000いちゃもん": {
+  "わざマシン４１　いちゃもん": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Dark"
+    "filename": "TM_Dark.png"
   },
-  "わざマシン４２\u3000からげんき": {
+  "わざマシン４２　からげんき": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン４３\u3000ひみつのちから": {
+  "わざマシン４３　ひみつのちから": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン４４\u3000ねむる": {
+  "わざマシン４４　ねむる": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Psychic"
+    "filename": "TM_Psychic.png"
   },
-  "わざマシン４５\u3000メロメロ": {
+  "わざマシン４５　メロメロ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Normal"
+    "filename": "TM_Normal.png"
   },
-  "わざマシン４６\u3000どろぼう": {
+  "わざマシン４６　どろぼう": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Dark"
+    "filename": "TM_Dark.png"
   },
-  "わざマシン４７\u3000はがねのつばさ": {
+  "わざマシン４７　はがねのつばさ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Steel"
+    "filename": "TM_Steel.png"
   },
-  "わざマシン４８\u3000スキルスワップ": {
+  "わざマシン４８　スキルスワップ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Psychic"
+    "filename": "TM_Psychic.png"
   },
-  "わざマシン４９\u3000よこどり": {
+  "わざマシン４９　よこどり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Dark"
+    "filename": "TM_Dark.png"
   },
-  "わざマシン５０\u3000オーバーヒート": {
+  "わざマシン５０　オーバーヒート": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "TM_Fire"
+    "filename": "TM_Fire.png"
   },
-  "ひでんマシン０１\u3000いあいぎり": {
+  "ひでんマシン０１　いあいぎり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Normal"
+    "filename": "HM_Normal.png"
   },
-  "ひでんマシン０２\u3000そらをとぶ": {
+  "ひでんマシン０２　そらをとぶ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Flying"
+    "filename": "HM_Flying.png"
   },
-  "ひでんマシン０３\u3000なみのり": {
+  "ひでんマシン０３　なみのり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Water"
+    "filename": "HM_Water.png"
   },
-  "ひでんマシン０４\u3000かいりき": {
+  "ひでんマシン０４　かいりき": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Normal"
+    "filename": "HM_Normal.png"
   },
-  "ひでんマシン０５\u3000フラッシュ": {
+  "ひでんマシン０５　フラッシュ": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Normal"
+    "filename": "HM_Normal.png"
   },
-  "ひでんマシン０６\u3000いわくだき": {
+  "ひでんマシン０６　いわくだき": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Fighting"
+    "filename": "HM_Fighting.png"
   },
-  "ひでんマシン０７\u3000たきのぼり": {
+  "ひでんマシン０７　たきのぼり": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Water"
+    "filename": "HM_Water.png"
   },
-  "ひでんマシン０８\u3000ダイビング": {
+  "ひでんマシン０８　ダイビング": {
     "pocket": "TMs and HMs",
     "is_practival": false,
-    "filename": "HM_Water"
+    "filename": "HM_Water.png"
   },
   "おとどけもの": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Parcel"
+    "filename": "Parcel.png"
   },
   "ポケモンのふえ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Pok%C3%A9_Flute_III"
+    "filename": "Poke_Flute.png"
   },
   "ひみつのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Secret_Key_III"
+    "filename": "Secret_Key.png"
   },
   "ひきかえけん": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Bike_Voucher"
+    "filename": "Bike_Voucher.png"
   },
   "きんのいれば": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Gold_Teeth_III"
+    "filename": "Gold_Teeth.png"
   },
   "ひみつのコハク": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Old_Amber"
+    "filename": "Old_Amber.png"
   },
   "カードキー": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Card_Key_III"
+    "filename": "Card_Key.png"
   },
   "エレベータのカギ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Lift_Key_III"
+    "filename": "Lift_Key.png"
   },
   "かいのカセキ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Helix_Fossil"
+    "filename": "Helix_Fossil.png"
   },
   "こうらのカセキ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Dome_Fossil"
+    "filename": "Dome_Fossil.png"
   },
   "シルフスコープ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Silph_Scope_III"
+    "filename": "Silph_Scope.png"
   },
   "じてんしゃ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Bicycle"
+    "filename": "Bicycle.png"
   },
   "タウンマップ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Town_Map_III"
+    "filename": "Town_Map.png"
   },
   "バトルサーチャー": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Vs._Seeker"
+    "filename": "Vs_Seeker.png"
   },
   "ボイスチェッカー": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Fame_Checker"
+    "filename": "Fame_Checker.png"
   },
   "わざマシンケース": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "TM_Case"
+    "filename": "TM_Case.png"
   },
   "きのみぶくろ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Berry_Pouch"
+    "filename": "Berry_Pouch.png"
   },
   "おしえテレビ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Teachy_TV"
+    "filename": "Teachy_TV.png"
   },
   "トライパス": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Tri-Pass"
+    "filename": "Tri-Pass.png"
   },
   "レインボーパス": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Rainbow_Pass"
+    "filename": "Rainbow_Pass.png"
   },
   "おちゃ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Tea_III"
+    "filename": "Tea.png"
   },
   "しんぴのチケット": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "MysticTicket"
+    "filename": "MysticTicket.png"
   },
   "オーロラチケット": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "AuroraTicket"
+    "filename": "AuroraTicket.png"
   },
   "こないれ": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Powder_Jar"
+    "filename": "Powder_Jar.png"
   },
   "ルビー": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Ruby"
+    "filename": "Ruby.png"
   },
   "サファイア": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Sapphire"
+    "filename": "Sapphire.png"
   },
   "マグマのしるし": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Magma_Emblem"
+    "filename": "Magma_Emblem.png"
   },
   "ふるびたかいず": {
     "pocket": "Key items",
     "is_practival": false,
-    "filename": "Old_Sea_Map"
+    "filename": "Old_Sea_Map.png"
   },
   "なし": {
     "pocket": "Others",
     "is_practival": true,
-    "filename": "Nothing"
+    "filename": "Nothing.png"
   },
   "ふめい": {
     "pocket": "Others",
     "is_practival": true,
-    "filename": "Unknown"
+    "filename": "Unknown.png"
   }
 }

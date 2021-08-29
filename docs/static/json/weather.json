@@ -1,0 +1,7 @@
+{
+  "": { "filename": "Normal.png" },
+  "にほんばれ": { "filename": "Sunny.png" },
+  "あめ": { "filename": "Rainny.png" },
+  "すなあらし": { "filename": "Sandstorm.png" },
+  "あられ": { "filename": "Hailstone.png" }
+}

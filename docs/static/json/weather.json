@@ -1,7 +1,42 @@
 {
-  "": { "filename": "Normal.png" },
-  "にほんばれ": { "filename": "Sunny.png" },
-  "あめ": { "filename": "Rainny.png" },
-  "すなあらし": { "filename": "Sandstorm.png" },
-  "あられ": { "filename": "Hailstone.png" }
+  "ふつう": {
+    "castform": "ノーマル",
+    "weatherball": {
+      "move_type": "ノーマル",
+      "base_power": 50
+    },
+    "filename": "Normal.png"
+  },
+  "にほんばれ": {
+    "castform": "ほのお",
+    "weatherball": {
+      "move_type": "ほのお",
+      "base_power": 100
+    },
+    "filename": "Sunny.png"
+  },
+  "あめ": {
+    "castform": "みず",
+    "weatherball": {
+      "move_type": "みず",
+      "base_power": 100
+    },
+    "filename": "Rainny.png"
+  },
+  "すなあらし": {
+    "castform": "ノーマル",
+    "weatherball": {
+      "move_type": "いわ",
+      "base_power": 100
+    },
+    "filename": "Sandstorm.png"
+  },
+  "あられ": {
+    "castform": "こおり",
+    "weatherball": {
+      "move_type": "こおり",
+      "base_power": 100
+    },
+    "filename": "Hailstone.png"
+  }
 }

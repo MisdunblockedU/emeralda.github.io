@@ -1,6 +1,6 @@
 {
   "main": {
-    "": { "filename": "Normal.png" },
+    "ふつう": { "filename": "Normal.png" },
     "どく": { "filename": "Poison.png" },
     "やけど": { "filename": "Burn.png" },
     "ねむり": { "filename": "Sleep.png" },

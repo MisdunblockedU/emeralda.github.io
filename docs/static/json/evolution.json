@@ -1,0 +1,1466 @@
+{
+  "フシギダネ->フシギソウ": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "フシギソウ->フシギバナ": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヒトカゲ->リザード": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "リザード->リザードン": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゼニガメ->カメール": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "カメール->カメックス": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "キャタピー->トランセル": {
+    "cond": "",
+    "lv": 7,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "トランセル->バタフリー": {
+    "cond": "",
+    "lv": 10,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ビードル->コクーン": {
+    "cond": "",
+    "lv": 7,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コクーン->スピアー": {
+    "cond": "",
+    "lv": 10,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ポッポ->ピジョン": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ピジョン->ピジョット": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コラッタ->ラッタ": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "オニスズメ->オニドリル": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "アーボ->アーボック": {
+    "cond": "",
+    "lv": 22,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "サンド->サンドパン": {
+    "cond": "",
+    "lv": 22,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニドラン♀->ニドリーナ": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニドリーナ->ニドクイン": {
+    "cond": "",
+    "lv": null,
+    "item": "つきのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニドラン♂->ニドリーノ": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニドリーノ->ニドキング": {
+    "cond": "",
+    "lv": null,
+    "item": "つきのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ロコン->キュウコン": {
+    "cond": "",
+    "lv": null,
+    "item": "ほのおのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ズバット->ゴルバット": {
+    "cond": "",
+    "lv": 22,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴルバット->クロバット": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "ナゾノクサ->クサイハナ": {
+    "cond": "",
+    "lv": 21,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "クサイハナ->ラフレシア": {
+    "cond": "",
+    "lv": null,
+    "item": "リーフのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "クサイハナ->キレイハナ": {
+    "cond": "",
+    "lv": null,
+    "item": "たいようのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "パラス->パラセクト": {
+    "cond": "",
+    "lv": 24,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コンパン->モルフォン": {
+    "cond": "",
+    "lv": 31,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ディグダ->ダグトリオ": {
+    "cond": "",
+    "lv": 26,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニャース->ペルシアン": {
+    "cond": "",
+    "lv": 28,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コダック->ゴルダック": {
+    "cond": "",
+    "lv": 33,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "マンキー->オコリザル": {
+    "cond": "",
+    "lv": 28,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ガーディ->ウインディ": {
+    "cond": "",
+    "lv": null,
+    "item": "ほのおのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニョロモ->ニョロゾ": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニョロゾ->ニョロボン": {
+    "cond": "",
+    "lv": null,
+    "item": "みずのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ニョロゾ->ニョロトノ": {
+    "cond": "",
+    "lv": null,
+    "item": "おうじゃのしるし",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "ケーシィ->ユンゲラー": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ユンゲラー->フーディン": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "ワンリキー->ゴーリキー": {
+    "cond": "",
+    "lv": 28,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴーリキー->カイリキー": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "マダツボミ->ウツドン": {
+    "cond": "",
+    "lv": 21,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ウツドン->ウツボット": {
+    "cond": "",
+    "lv": null,
+    "item": "リーフのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "メノクラゲ->ドククラゲ": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "イシツブテ->ゴローン": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴローン->ゴローニャ": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "ポニータ->ギャロップ": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヤドン->ヤドラン": {
+    "cond": "",
+    "lv": 37,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヤドン->ヤドキング": {
+    "cond": "",
+    "lv": null,
+    "item": "おうじゃのしるし",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "コイル->レアコイル": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ドードー->ドードリオ": {
+    "cond": "",
+    "lv": 31,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "パウワウ->ジュゴン": {
+    "cond": "",
+    "lv": 34,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ベトベター->ベトベトン": {
+    "cond": "",
+    "lv": 38,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "シェルダー->パルシェン": {
+    "cond": "",
+    "lv": null,
+    "item": "みずのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴース->ゴースト": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴースト->ゲンガー": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "イワーク->ハガネール": {
+    "cond": "",
+    "lv": null,
+    "item": "メタルコート",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "スリープ->スリーパー": {
+    "cond": "",
+    "lv": 26,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "クラブ->キングラー": {
+    "cond": "",
+    "lv": 28,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ビリリダマ->マルマイン": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "タマタマ->ナッシー": {
+    "cond": "",
+    "lv": null,
+    "item": "リーフのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "カラカラ->ガラガラ": {
+    "cond": "",
+    "lv": 28,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ドガース->マタドガス": {
+    "cond": "",
+    "lv": 35,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "サイホーン->サイドン": {
+    "cond": "",
+    "lv": 42,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "タッツー->シードラ": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "シードラ->キングドラ": {
+    "cond": "",
+    "lv": null,
+    "item": "りゅうのウロコ",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "トサキント->アズマオウ": {
+    "cond": "",
+    "lv": 33,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヒトデマン->スターミー": {
+    "cond": "",
+    "lv": null,
+    "item": "みずのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ストライク->ハッサム": {
+    "cond": "",
+    "lv": null,
+    "item": "メタルコート",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "コイキング->ギャラドス": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "イーブイ->シャワーズ": {
+    "cond": "",
+    "lv": null,
+    "item": "みずのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "イーブイ->サンダース": {
+    "cond": "",
+    "lv": null,
+    "item": "かみなりのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "イーブイ->ブースター": {
+    "cond": "",
+    "lv": null,
+    "item": "ほのおのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "イーブイ->エーフィ": {
+    "cond": "午後",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "イーブイ->ブラッキー": {
+    "cond": "午前",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "ポリゴン->ポリゴン2": {
+    "cond": "",
+    "lv": null,
+    "item": "アップグレード",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "オムナイト->オムスター": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "カブト->カブトプス": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ミニリュウ->ハクリュー": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ハクリュー->カイリュー": {
+    "cond": "",
+    "lv": 55,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "チコリータ->ベイリーフ": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ベイリーフ->メガニウム": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヒノアラシ->マグマラシ": {
+    "cond": "",
+    "lv": 14,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "マグマラシ->バクフーン": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ワニノコ->アリゲイツ": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "アリゲイツ->オーダイル": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "オタチ->オオタチ": {
+    "cond": "",
+    "lv": 15,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ホーホー->ヨルノズク": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "レディバ->レディアン": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "イトマル->アリアドス": {
+    "cond": "",
+    "lv": 22,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "チョンチー->ランターン": {
+    "cond": "",
+    "lv": 27,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ピチュー->ピカチュウ": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "ピカチュウ->ライチュウ": {
+    "cond": "",
+    "lv": null,
+    "item": "かみなりのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ピィ->ピッピ": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "ピッピ->ピクシー": {
+    "cond": "",
+    "lv": null,
+    "item": "つきのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ププリン->プリン": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "プリン->プクリン": {
+    "cond": "",
+    "lv": null,
+    "item": "つきのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "トゲピー->トゲチック": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "ネイティ->ネイティオ": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "メリープ->モココ": {
+    "cond": "",
+    "lv": 15,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "モココ->デンリュウ": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ハネッコ->ポポッコ": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ポポッコ->ワタッコ": {
+    "cond": "",
+    "lv": 27,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヒマナッツ->キマワリ": {
+    "cond": "",
+    "lv": null,
+    "item": "たいようのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ウパー->ヌオー": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "クヌギダマ->フォレトス": {
+    "cond": "",
+    "lv": 31,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ブルー->グランブル": {
+    "cond": "",
+    "lv": 23,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヒメグマ->リングマ": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "マグマッグ->マグカルゴ": {
+    "cond": "",
+    "lv": 38,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ウリムー->イノムー": {
+    "cond": "",
+    "lv": 33,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "テッポウオ->オクタン": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "デルビル->ヘルガー": {
+    "cond": "",
+    "lv": 24,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴマゾウ->ドンファン": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "バルキー->サワムラー": {
+    "cond": "A>B",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "バルキー->エビワラー": {
+    "cond": "A<B",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "バルキー->カポエラー": {
+    "cond": "A=B",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ムチュール->ルージュラ": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "エレキッド->エレブー": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ブビィ->ブーバー": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヨーギラス->サナギラス": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "サナギラス->バンギラス": {
+    "cond": "",
+    "lv": 55,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "キモリ->ジュプトル": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ジュプトル->ジュカイン": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "アチャモ->ワカシャモ": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ワカシャモ->バシャーモ": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ミズゴロウ->ヌマクロー": {
+    "cond": "",
+    "lv": 16,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヌマクロー->ラグラージ": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ポチエナ->グラエナ": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ジグザグマ->マッスグマ": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ケムッソ->カラサリス": {
+    "cond": "性格値÷10の余り>=5",
+    "lv": null,
+    "item": "",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ケムッソ->マユルド": {
+    "cond": "性格値÷10の余り<5",
+    "lv": 7,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "カラサリス->アゲハント": {
+    "cond": "",
+    "lv": null,
+    "item": "",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "マユルド->ドクケイル": {
+    "cond": "",
+    "lv": 10,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ハスボー->ハスブレロ": {
+    "cond": "",
+    "lv": 14,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ハスブレロ->ルンパッパ": {
+    "cond": "",
+    "lv": null,
+    "item": "みずのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "タネボー->コノハナ": {
+    "cond": "",
+    "lv": 14,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コノハナ->ダーテング": {
+    "cond": "",
+    "lv": null,
+    "item": "リーフのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "スバメ->オオスバメ": {
+    "cond": "",
+    "lv": 22,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "キャモメ->ペリッパー": {
+    "cond": "",
+    "lv": 25,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ラルトス->キルリア": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "キルリア->サーナイト": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "アメタマ->アメモース": {
+    "cond": "",
+    "lv": 22,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "キノココ->キノガッサ": {
+    "cond": "",
+    "lv": 23,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ナマケロ->ヤルキモノ": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヤルキモノ->ケッキング": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ツチニン->テッカニン": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ツチニン->ヌケニン": {
+    "cond": "手持ちに空きがある。",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴニョニョ->ドゴーム": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ドゴーム->バクオング": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "マクノシタ->ハリテヤマ": {
+    "cond": "",
+    "lv": 24,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ルリリ->マリル": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": 220,
+    "beauty": null
+  },
+  "マリル->マリルリ": {
+    "cond": "",
+    "lv": 18,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "エネコ->エネコロロ": {
+    "cond": "",
+    "lv": null,
+    "item": "つきのいし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ココドラ->コドラ": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コドラ->ボスゴドラ": {
+    "cond": "",
+    "lv": 42,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "アサナン->チャーレム": {
+    "cond": "",
+    "lv": 37,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ラクライ->ライボルト": {
+    "cond": "",
+    "lv": 26,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ゴクリン->マルノーム": {
+    "cond": "",
+    "lv": 26,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "キバニア->サメハダー": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ホエルコ->ホエルオー": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ドンメル->バクーダ": {
+    "cond": "",
+    "lv": 33,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "バネブー->ブーピッグ": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ナックラー->ビブラーバ": {
+    "cond": "",
+    "lv": 35,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ビブラーバ->フライゴン": {
+    "cond": "",
+    "lv": 45,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "サボネア->ノクタス": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "チルット->チルタリス": {
+    "cond": "",
+    "lv": 35,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ドジョッチ->ナマズン": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヘイガニ->シザリガー": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヤジロン->ネンドール": {
+    "cond": "",
+    "lv": 36,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "リリーラ->ユレイドル": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "アノプス->アーマルド": {
+    "cond": "",
+    "lv": 40,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヒンバス->ミロカロス": {
+    "cond": "",
+    "lv": null,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": 170
+  },
+  "カゲボウズ->ジュペッタ": {
+    "cond": "",
+    "lv": 37,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ヨマワル->サマヨール": {
+    "cond": "",
+    "lv": 37,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ソーナノ->ソーナンス": {
+    "cond": "",
+    "lv": 15,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ユキワラシ->オニゴーリ": {
+    "cond": "",
+    "lv": 42,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "タマザラシ->トドグラー": {
+    "cond": "",
+    "lv": 32,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "トドグラー->トドゼルガ": {
+    "cond": "",
+    "lv": 44,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "パールル->ハンテール": {
+    "cond": "",
+    "lv": null,
+    "item": "しんかいのキバ",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "パールル->サクラビス": {
+    "cond": "",
+    "lv": null,
+    "item": "しんかいのウロコ",
+    "exchange": true,
+    "happiness": null,
+    "beauty": null
+  },
+  "タツベイ->コモルー": {
+    "cond": "",
+    "lv": 30,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "コモルー->ボーマンダ": {
+    "cond": "",
+    "lv": 50,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "ダンバル->メタング": {
+    "cond": "",
+    "lv": 20,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  },
+  "メタング->メタグロス": {
+    "cond": "",
+    "lv": 45,
+    "item": "なし",
+    "exchange": false,
+    "happiness": null,
+    "beauty": null
+  }
+}

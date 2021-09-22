@@ -8,7 +8,10 @@
     "height": 0.7,
     "weight": 6.9,
     "basename": "001",
-    "en": "Bulbasaur"
+    "en": "Bulbasaur",
+    "evolution": 1,
+    "from": [],
+    "to": ["フシギソウ"]
   },
   "フシギソウ": {
     "no": 2,
@@ -19,7 +22,10 @@
     "height": 1.0,
     "weight": 13.0,
     "basename": "002",
-    "en": "Ivysaur"
+    "en": "Ivysaur",
+    "evolution": 2,
+    "from": ["フシギダネ"],
+    "to": ["フシギバナ"]
   },
   "フシギバナ": {
     "no": 3,
@@ -30,7 +36,10 @@
     "height": 2.0,
     "weight": 100.0,
     "basename": "003",
-    "en": "Venusaur"
+    "en": "Venusaur",
+    "evolution": 3,
+    "from": ["フシギソウ"],
+    "to": []
   },
   "ヒトカゲ": {
     "no": 4,
@@ -41,7 +50,10 @@
     "height": 0.6,
     "weight": 8.5,
     "basename": "004",
-    "en": "Charmander"
+    "en": "Charmander",
+    "evolution": 1,
+    "from": [],
+    "to": ["リザード"]
   },
   "リザード": {
     "no": 5,
@@ -52,7 +64,10 @@
     "height": 1.1,
     "weight": 19.0,
     "basename": "005",
-    "en": "Charmeleon"
+    "en": "Charmeleon",
+    "evolution": 2,
+    "from": ["ヒトカゲ"],
+    "to": ["リザードン"]
   },
   "リザードン": {
     "no": 6,
@@ -63,7 +78,10 @@
     "height": 1.7,
     "weight": 90.5,
     "basename": "006",
-    "en": "Charizard"
+    "en": "Charizard",
+    "evolution": 3,
+    "from": ["リザード"],
+    "to": []
   },
   "ゼニガメ": {
     "no": 7,
@@ -74,7 +92,10 @@
     "height": 0.5,
     "weight": 9.0,
     "basename": "007",
-    "en": "Squirtle"
+    "en": "Squirtle",
+    "evolution": 1,
+    "from": [],
+    "to": ["カメール"]
   },
   "カメール": {
     "no": 8,
@@ -85,7 +106,10 @@
     "height": 1.0,
     "weight": 22.5,
     "basename": "008",
-    "en": "Wartortle"
+    "en": "Wartortle",
+    "evolution": 2,
+    "from": ["ゼニガメ"],
+    "to": ["カメックス"]
   },
   "カメックス": {
     "no": 9,
@@ -96,7 +120,10 @@
     "height": 1.6,
     "weight": 85.5,
     "basename": "009",
-    "en": "Blastoise"
+    "en": "Blastoise",
+    "evolution": 3,
+    "from": ["カメール"],
+    "to": []
   },
   "キャタピー": {
     "no": 10,
@@ -107,7 +134,10 @@
     "height": 0.3,
     "weight": 2.9,
     "basename": "010",
-    "en": "Caterpie"
+    "en": "Caterpie",
+    "evolution": 1,
+    "from": [],
+    "to": ["トランセル"]
   },
   "トランセル": {
     "no": 11,
@@ -118,7 +148,10 @@
     "height": 0.7,
     "weight": 9.9,
     "basename": "011",
-    "en": "Metapod"
+    "en": "Metapod",
+    "evolution": 2,
+    "from": ["キャタピー"],
+    "to": ["バタフリー"]
   },
   "バタフリー": {
     "no": 12,
@@ -129,7 +162,10 @@
     "height": 1.1,
     "weight": 32.0,
     "basename": "012",
-    "en": "Butterfree"
+    "en": "Butterfree",
+    "evolution": 3,
+    "from": ["トランセル"],
+    "to": []
   },
   "ビードル": {
     "no": 13,
@@ -140,7 +176,10 @@
     "height": 0.3,
     "weight": 3.2,
     "basename": "013",
-    "en": "Weedle"
+    "en": "Weedle",
+    "evolution": 1,
+    "from": [],
+    "to": ["コクーン"]
   },
   "コクーン": {
     "no": 14,
@@ -151,7 +190,10 @@
     "height": 0.6,
     "weight": 10.0,
     "basename": "014",
-    "en": "Kakuna"
+    "en": "Kakuna",
+    "evolution": 2,
+    "from": ["ビードル"],
+    "to": ["スピアー"]
   },
   "スピアー": {
     "no": 15,
@@ -162,7 +204,10 @@
     "height": 1.0,
     "weight": 29.5,
     "basename": "015",
-    "en": "Beedrill"
+    "en": "Beedrill",
+    "evolution": 3,
+    "from": ["コクーン"],
+    "to": []
   },
   "ポッポ": {
     "no": 16,
@@ -173,7 +218,10 @@
     "height": 0.3,
     "weight": 1.8,
     "basename": "016",
-    "en": "Pidgey"
+    "en": "Pidgey",
+    "evolution": 1,
+    "from": [],
+    "to": ["ピジョン"]
   },
   "ピジョン": {
     "no": 17,
@@ -184,7 +232,10 @@
     "height": 1.1,
     "weight": 30.0,
     "basename": "017",
-    "en": "Pidgeotto"
+    "en": "Pidgeotto",
+    "evolution": 2,
+    "from": ["ポッポ"],
+    "to": ["ピジョット"]
   },
   "ピジョット": {
     "no": 18,
@@ -195,7 +246,10 @@
     "height": 1.5,
     "weight": 39.5,
     "basename": "018",
-    "en": "Pidgeot"
+    "en": "Pidgeot",
+    "evolution": 3,
+    "from": ["ピジョン"],
+    "to": []
   },
   "コラッタ": {
     "no": 19,
@@ -206,7 +260,10 @@
     "height": 0.3,
     "weight": 3.5,
     "basename": "019",
-    "en": "Rattata"
+    "en": "Rattata",
+    "evolution": 1,
+    "from": [],
+    "to": ["ラッタ"]
   },
   "ラッタ": {
     "no": 20,
@@ -217,7 +274,10 @@
     "height": 0.7,
     "weight": 18.5,
     "basename": "020",
-    "en": "Raticate"
+    "en": "Raticate",
+    "evolution": 2,
+    "from": ["コラッタ"],
+    "to": []
   },
   "オニスズメ": {
     "no": 21,
@@ -228,7 +288,10 @@
     "height": 0.3,
     "weight": 2.0,
     "basename": "021",
-    "en": "Spearow"
+    "en": "Spearow",
+    "evolution": 1,
+    "from": [],
+    "to": ["オニドリル"]
   },
   "オニドリル": {
     "no": 22,
@@ -239,7 +302,10 @@
     "height": 1.2,
     "weight": 38.0,
     "basename": "022",
-    "en": "Fearow"
+    "en": "Fearow",
+    "evolution": 2,
+    "from": ["オニスズメ"],
+    "to": []
   },
   "アーボ": {
     "no": 23,
@@ -250,7 +316,10 @@
     "height": 2.0,
     "weight": 6.9,
     "basename": "023",
-    "en": "Ekans"
+    "en": "Ekans",
+    "evolution": 1,
+    "from": [],
+    "to": ["アーボック"]
   },
   "アーボック": {
     "no": 24,
@@ -261,7 +330,10 @@
     "height": 3.5,
     "weight": 65.0,
     "basename": "024",
-    "en": "Arbok"
+    "en": "Arbok",
+    "evolution": 2,
+    "from": ["アーボ"],
+    "to": []
   },
   "ピカチュウ": {
     "no": 25,
@@ -272,7 +344,10 @@
     "height": 0.4,
     "weight": 6.0,
     "basename": "025",
-    "en": "Pikachu"
+    "en": "Pikachu",
+    "evolution": 2,
+    "from": ["ピチュー"],
+    "to": ["ライチュウ"]
   },
   "ライチュウ": {
     "no": 26,
@@ -283,7 +358,10 @@
     "height": 0.8,
     "weight": 30.0,
     "basename": "026",
-    "en": "Raichu"
+    "en": "Raichu",
+    "evolution": 3,
+    "from": ["ピカチュウ"],
+    "to": []
   },
   "サンド": {
     "no": 27,
@@ -294,7 +372,10 @@
     "height": 0.6,
     "weight": 12.0,
     "basename": "027",
-    "en": "Sandshrew"
+    "en": "Sandshrew",
+    "evolution": 1,
+    "from": [],
+    "to": ["サンドパン"]
   },
   "サンドパン": {
     "no": 28,
@@ -305,7 +386,10 @@
     "height": 1.0,
     "weight": 29.5,
     "basename": "028",
-    "en": "Sandslash"
+    "en": "Sandslash",
+    "evolution": 2,
+    "from": ["サンド"],
+    "to": []
   },
   "ニドラン♀": {
     "no": 29,
@@ -316,7 +400,10 @@
     "height": 0.4,
     "weight": 7.0,
     "basename": "029",
-    "en": "Nidoran♀"
+    "en": "Nidoran♀",
+    "evolution": 1,
+    "from": [],
+    "to": ["ニドリーナ"]
   },
   "ニドリーナ": {
     "no": 30,
@@ -327,7 +414,10 @@
     "height": 0.8,
     "weight": 20.0,
     "basename": "030",
-    "en": "Nidorina"
+    "en": "Nidorina",
+    "evolution": 2,
+    "from": ["ニドラン♀"],
+    "to": ["ニドクイン"]
   },
   "ニドクイン": {
     "no": 31,
@@ -338,7 +428,10 @@
     "height": 1.3,
     "weight": 60.0,
     "basename": "031",
-    "en": "Nidoqueen"
+    "en": "Nidoqueen",
+    "evolution": 3,
+    "from": ["ニドリーナ"],
+    "to": []
   },
   "ニドラン♂": {
     "no": 32,
@@ -349,7 +442,10 @@
     "height": 0.5,
     "weight": 9.0,
     "basename": "032",
-    "en": "Nidoran♂"
+    "en": "Nidoran♂",
+    "evolution": 1,
+    "from": [],
+    "to": ["ニドリーノ"]
   },
   "ニドリーノ": {
     "no": 33,
@@ -360,7 +456,10 @@
     "height": 0.9,
     "weight": 19.5,
     "basename": "033",
-    "en": "Nidorino"
+    "en": "Nidorino",
+    "evolution": 2,
+    "from": ["ニドラン♂"],
+    "to": ["ニドキング"]
   },
   "ニドキング": {
     "no": 34,
@@ -371,7 +470,10 @@
     "height": 1.4,
     "weight": 62.0,
     "basename": "034",
-    "en": "Nidoking"
+    "en": "Nidoking",
+    "evolution": 3,
+    "from": ["ニドリーノ"],
+    "to": []
   },
   "ピッピ": {
     "no": 35,
@@ -382,7 +484,10 @@
     "height": 0.6,
     "weight": 7.5,
     "basename": "035",
-    "en": "Clefairy"
+    "en": "Clefairy",
+    "evolution": 2,
+    "from": ["ピィ"],
+    "to": ["ピクシー"]
   },
   "ピクシー": {
     "no": 36,
@@ -393,7 +498,10 @@
     "height": 1.3,
     "weight": 40.0,
     "basename": "036",
-    "en": "Clefable"
+    "en": "Clefable",
+    "evolution": 3,
+    "from": ["ピッピ"],
+    "to": []
   },
   "ロコン": {
     "no": 37,
@@ -404,7 +512,10 @@
     "height": 0.6,
     "weight": 9.9,
     "basename": "037",
-    "en": "Vulpix"
+    "en": "Vulpix",
+    "evolution": 1,
+    "from": [],
+    "to": ["キュウコン"]
   },
   "キュウコン": {
     "no": 38,
@@ -415,7 +526,10 @@
     "height": 1.1,
     "weight": 19.9,
     "basename": "038",
-    "en": "Ninetales"
+    "en": "Ninetales",
+    "evolution": 2,
+    "from": ["ロコン"],
+    "to": []
   },
   "プリン": {
     "no": 39,
@@ -426,7 +540,10 @@
     "height": 0.5,
     "weight": 5.5,
     "basename": "039",
-    "en": "Jigglypuff"
+    "en": "Jigglypuff",
+    "evolution": 2,
+    "from": ["ププリン"],
+    "to": ["プクリン"]
   },
   "プクリン": {
     "no": 40,
@@ -437,7 +554,10 @@
     "height": 1.0,
     "weight": 12.0,
     "basename": "040",
-    "en": "Wigglytuff"
+    "en": "Wigglytuff",
+    "evolution": 3,
+    "from": ["プリン"],
+    "to": []
   },
   "ズバット": {
     "no": 41,
@@ -448,7 +568,10 @@
     "height": 0.8,
     "weight": 7.5,
     "basename": "041",
-    "en": "Zubat"
+    "en": "Zubat",
+    "evolution": 1,
+    "from": [],
+    "to": ["ゴルバット"]
   },
   "ゴルバット": {
     "no": 42,
@@ -459,7 +582,10 @@
     "height": 1.6,
     "weight": 55.0,
     "basename": "042",
-    "en": "Golbat"
+    "en": "Golbat",
+    "evolution": 2,
+    "from": ["ズバット"],
+    "to": ["クロバット"]
   },
   "ナゾノクサ": {
     "no": 43,
@@ -470,7 +596,10 @@
     "height": 0.5,
     "weight": 5.4,
     "basename": "043",
-    "en": "Oddish"
+    "en": "Oddish",
+    "evolution": 1,
+    "from": [],
+    "to": ["クサイハナ"]
   },
   "クサイハナ": {
     "no": 44,
@@ -481,7 +610,10 @@
     "height": 0.8,
     "weight": 8.6,
     "basename": "044",
-    "en": "Gloom"
+    "en": "Gloom",
+    "evolution": 2,
+    "from": ["ナゾノクサ"],
+    "to": ["ラフレシア", "キレイハナ"]
   },
   "ラフレシア": {
     "no": 45,
@@ -492,7 +624,10 @@
     "height": 1.2,
     "weight": 18.6,
     "basename": "045",
-    "en": "Vileplume"
+    "en": "Vileplume",
+    "evolution": 3,
+    "from": ["クサイハナ"],
+    "to": []
   },
   "パラス": {
     "no": 46,
@@ -503,7 +638,10 @@
     "height": 0.3,
     "weight": 5.4,
     "basename": "046",
-    "en": "Paras"
+    "en": "Paras",
+    "evolution": 1,
+    "from": [],
+    "to": ["パラセクト"]
   },
   "パラセクト": {
     "no": 47,
@@ -514,7 +652,10 @@
     "height": 1.0,
     "weight": 29.5,
     "basename": "047",
-    "en": "Parasect"
+    "en": "Parasect",
+    "evolution": 2,
+    "from": ["パラス"],
+    "to": []
   },
   "コンパン": {
     "no": 48,
@@ -525,7 +666,10 @@
     "height": 1.0,
     "weight": 30.0,
     "basename": "048",
-    "en": "Venonat"
+    "en": "Venonat",
+    "evolution": 1,
+    "from": [],
+    "to": ["モルフォン"]
   },
   "モルフォン": {
     "no": 49,
@@ -536,7 +680,10 @@
     "height": 1.5,
     "weight": 12.5,
     "basename": "049",
-    "en": "Venomoth"
+    "en": "Venomoth",
+    "evolution": 2,
+    "from": ["コンパン"],
+    "to": []
   },
   "ディグダ": {
     "no": 50,
@@ -547,7 +694,10 @@
     "height": 0.2,
     "weight": 0.8,
     "basename": "050",
-    "en": "Diglett"
+    "en": "Diglett",
+    "evolution": 1,
+    "from": [],
+    "to": ["ダグトリオ"]
   },
   "ダグトリオ": {
     "no": 51,
@@ -558,7 +708,10 @@
     "height": 0.7,
     "weight": 33.3,
     "basename": "051",
-    "en": "Dugtrio"
+    "en": "Dugtrio",
+    "evolution": 2,
+    "from": ["ディグダ"],
+    "to": []
   },
   "ニャース": {
     "no": 52,
@@ -569,7 +722,10 @@
     "height": 0.4,
     "weight": 4.2,
     "basename": "052",
-    "en": "Meowth"
+    "en": "Meowth",
+    "evolution": 1,
+    "from": [],
+    "to": ["ペルシアン"]
   },
   "ペルシアン": {
     "no": 53,
@@ -580,7 +736,10 @@
     "height": 1.0,
     "weight": 32.0,
     "basename": "053",
-    "en": "Persian"
+    "en": "Persian",
+    "evolution": 2,
+    "from": ["ニャース"],
+    "to": []
   },
   "コダック": {
     "no": 54,
@@ -591,7 +750,10 @@
     "height": 0.8,
     "weight": 19.6,
     "basename": "054",
-    "en": "Psyduck"
+    "en": "Psyduck",
+    "evolution": 1,
+    "from": [],
+    "to": ["ゴルダック"]
   },
   "ゴルダック": {
     "no": 55,
@@ -602,7 +764,10 @@
     "height": 1.7,
     "weight": 76.6,
     "basename": "055",
-    "en": "Golduck"
+    "en": "Golduck",
+    "evolution": 2,
+    "from": ["コダック"],
+    "to": []
   },
   "マンキー": {
     "no": 56,
@@ -613,7 +778,10 @@
     "height": 0.5,
     "weight": 28.0,
     "basename": "056",
-    "en": "Mankey"
+    "en": "Mankey",
+    "evolution": 1,
+    "from": [],
+    "to": ["オコリザル"]
   },
   "オコリザル": {
     "no": 57,
@@ -624,7 +792,10 @@
     "height": 1.0,
     "weight": 32.0,
     "basename": "057",
-    "en": "Primeape"
+    "en": "Primeape",
+    "evolution": 2,
+    "from": ["マンキー"],
+    "to": []
   },
   "ガーディ": {
     "no": 58,
@@ -635,7 +806,10 @@
     "height": 0.7,
     "weight": 19.0,
     "basename": "058",
-    "en": "Growlithe"
+    "en": "Growlithe",
+    "evolution": 1,
+    "from": [],
+    "to": ["ウインディ"]
   },
   "ウインディ": {
     "no": 59,
@@ -646,7 +820,10 @@
     "height": 1.9,
     "weight": 155.0,
     "basename": "059",
-    "en": "Arcanine"
+    "en": "Arcanine",
+    "evolution": 2,
+    "from": ["ガーディ"],
+    "to": []
   },
   "ニョロモ": {
     "no": 60,
@@ -657,7 +834,10 @@
     "height": 0.6,
     "weight": 12.4,
     "basename": "060",
-    "en": "Poliwag"
+    "en": "Poliwag",
+    "evolution": 1,
+    "from": [],
+    "to": ["ニョロゾ"]
   },
   "ニョロゾ": {
     "no": 61,
@@ -668,7 +848,10 @@
     "height": 1.0,
     "weight": 20.0,
     "basename": "061",
-    "en": "Poliwhirl"
+    "en": "Poliwhirl",
+    "evolution": 2,
+    "from": ["ニョロモ"],
+    "to": ["ニョロボン", "ニョロトノ"]
   },
   "ニョロボン": {
     "no": 62,
@@ -679,7 +862,10 @@
     "height": 1.3,
     "weight": 54.0,
     "basename": "062",
-    "en": "Poliwrath"
+    "en": "Poliwrath",
+    "evolution": 3,
+    "from": ["ニョロゾ"],
+    "to": []
   },
   "ケーシィ": {
     "no": 63,
@@ -690,7 +876,10 @@
     "height": 0.9,
     "weight": 19.5,
     "basename": "063",
-    "en": "Abra"
+    "en": "Abra",
+    "evolution": 1,
+    "from": [],
+    "to": ["ユンゲラー"]
   },
   "ユンゲラー": {
     "no": 64,
@@ -701,7 +890,10 @@
     "height": 1.3,
     "weight": 56.5,
     "basename": "064",
-    "en": "Kadabra"
+    "en": "Kadabra",
+    "evolution": 2,
+    "from": ["ケーシィ"],
+    "to": ["フーディン"]
   },
   "フーディン": {
     "no": 65,
@@ -712,7 +904,10 @@
     "height": 1.5,
     "weight": 48.0,
     "basename": "065",
-    "en": "Alakazam"
+    "en": "Alakazam",
+    "evolution": 3,
+    "from": ["ユンゲラー"],
+    "to": []
   },
   "ワンリキー": {
     "no": 66,
@@ -723,7 +918,10 @@
     "height": 0.8,
     "weight": 19.5,
     "basename": "066",
-    "en": "Machop"
+    "en": "Machop",
+    "evolution": 1,
+    "from": [],
+    "to": ["ゴーリキー"]
   },
   "ゴーリキー": {
     "no": 67,
@@ -734,7 +932,10 @@
     "height": 1.5,
     "weight": 70.5,
     "basename": "067",
-    "en": "Machoke"
+    "en": "Machoke",
+    "evolution": 2,
+    "from": ["ワンリキー"],
+    "to": ["カイリキー"]
   },
   "カイリキー": {
     "no": 68,
@@ -745,7 +946,10 @@
     "height": 1.6,
     "weight": 130.0,
     "basename": "068",
-    "en": "Machamp"
+    "en": "Machamp",
+    "evolution": 3,
+    "from": ["ゴーリキー"],
+    "to": []
   },
   "マダツボミ": {
     "no": 69,
@@ -756,7 +960,10 @@
     "height": 0.7,
     "weight": 4.0,
     "basename": "069",
-    "en": "Bellsprout"
+    "en": "Bellsprout",
+    "evolution": 1,
+    "from": [],
+    "to": ["ウツドン"]
   },
   "ウツドン": {
     "no": 70,
@@ -767,7 +974,10 @@
     "height": 1.0,
     "weight": 6.4,
     "basename": "070",
-    "en": "Weepinbell"
+    "en": "Weepinbell",
+    "evolution": 2,
+    "from": ["マダツボミ"],
+    "to": ["ウツボット"]
   },
   "ウツボット": {
     "no": 71,
@@ -778,7 +988,10 @@
     "height": 1.7,
     "weight": 15.5,
     "basename": "071",
-    "en": "Victreebel"
+    "en": "Victreebel",
+    "evolution": 3,
+    "from": ["ウツドン"],
+    "to": []
   },
   "メノクラゲ": {
     "no": 72,
@@ -789,7 +1002,10 @@
     "height": 0.9,
     "weight": 45.5,
     "basename": "072",
-    "en": "Tentacool"
+    "en": "Tentacool",
+    "evolution": 1,
+    "from": [],
+    "to": ["ドククラゲ"]
   },
   "ドククラゲ": {
     "no": 73,
@@ -800,7 +1016,10 @@
     "height": 1.6,
     "weight": 55.0,
     "basename": "073",
-    "en": "Tentacruel"
+    "en": "Tentacruel",
+    "evolution": 2,
+    "from": ["メノクラゲ"],
+    "to": []
   },
   "イシツブテ": {
     "no": 74,
@@ -811,7 +1030,10 @@
     "height": 0.4,
     "weight": 20.0,
     "basename": "074",
-    "en": "Geodude"
+    "en": "Geodude",
+    "evolution": 1,
+    "from": [],
+    "to": ["ゴローン"]
   },
   "ゴローン": {
     "no": 75,
@@ -822,7 +1044,10 @@
     "height": 1.0,
     "weight": 105.0,
     "basename": "075",
-    "en": "Graveler"
+    "en": "Graveler",
+    "evolution": 2,
+    "from": ["イシツブテ"],
+    "to": ["ゴローニャ"]
   },
   "ゴローニャ": {
     "no": 76,
@@ -833,7 +1058,10 @@
     "height": 1.4,
     "weight": 300.0,
     "basename": "076",
-    "en": "Golem"
+    "en": "Golem",
+    "evolution": 3,
+    "from": ["ゴローン"],
+    "to": []
   },
   "ポニータ": {
     "no": 77,
@@ -844,7 +1072,10 @@
     "height": 1.0,
     "weight": 30.0,
     "basename": "077",
-    "en": "Ponyta"
+    "en": "Ponyta",
+    "evolution": 1,
+    "from": [],
+    "to": ["ギャロップ"]
   },
   "ギャロップ": {
     "no": 78,
@@ -855,7 +1086,10 @@
     "height": 1.7,
     "weight": 95.0,
     "basename": "078",
-    "en": "Rapidash"
+    "en": "Rapidash",
+    "evolution": 2,
+    "from": ["ポニータ"],
+    "to": []
   },
   "ヤドン": {
     "no": 79,
@@ -866,7 +1100,10 @@
     "height": 1.2,
     "weight": 36.0,
     "basename": "079",
-    "en": "Slowpoke"
+    "en": "Slowpoke",
+    "evolution": 1,
+    "from": [],
+    "to": ["ヤドラン", "ヤドキング"]
   },
   "ヤドラン": {
     "no": 80,
@@ -877,7 +1114,10 @@
     "height": 1.6,
     "weight": 78.5,
     "basename": "080",
-    "en": "Slowbro"
+    "en": "Slowbro",
+    "evolution": 2,
+    "from": ["ヤドン"],
+    "to": []
   },
   "コイル": {
     "no": 81,
@@ -888,7 +1128,10 @@
     "height": 0.3,
     "weight": 6.0,
     "basename": "081",
-    "en": "Magnemite"
+    "en": "Magnemite",
+    "evolution": 1,
+    "from": [],
+    "to": ["レアコイル"]
   },
   "レアコイル": {
     "no": 82,
@@ -899,7 +1142,10 @@
     "height": 1.0,
     "weight": 60.0,
     "basename": "082",
-    "en": "Magneton"
+    "en": "Magneton",
+    "evolution": 2,
+    "from": ["コイル"],
+    "to": []
   },
   "カモネギ": {
     "no": 83,
@@ -910,7 +1156,10 @@
     "height": 0.8,
     "weight": 15.0,
     "basename": "083",
-    "en": "Farfetch'd"
+    "en": "Farfetch'd",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ドードー": {
     "no": 84,
@@ -921,7 +1170,10 @@
     "height": 1.4,
     "weight": 39.2,
     "basename": "084",
-    "en": "Doduo"
+    "en": "Doduo",
+    "evolution": 1,
+    "from": [],
+    "to": ["ドードリオ"]
   },
   "ドードリオ": {
     "no": 85,
@@ -932,7 +1184,10 @@
     "height": 1.8,
     "weight": 85.2,
     "basename": "085",
-    "en": "Dodrio"
+    "en": "Dodrio",
+    "evolution": 2,
+    "from": ["ドードー"],
+    "to": []
   },
   "パウワウ": {
     "no": 86,
@@ -943,7 +1198,10 @@
     "height": 1.1,
     "weight": 90.0,
     "basename": "086",
-    "en": "Seel"
+    "en": "Seel",
+    "evolution": 1,
+    "from": [],
+    "to": ["ジュゴン"]
   },
   "ジュゴン": {
     "no": 87,
@@ -954,7 +1212,10 @@
     "height": 1.7,
     "weight": 120.0,
     "basename": "087",
-    "en": "Dewgong"
+    "en": "Dewgong",
+    "evolution": 2,
+    "from": ["パウワウ"],
+    "to": []
   },
   "ベトベター": {
     "no": 88,
@@ -965,7 +1226,10 @@
     "height": 0.9,
     "weight": 30.0,
     "basename": "088",
-    "en": "Grimer"
+    "en": "Grimer",
+    "evolution": 1,
+    "from": [],
+    "to": ["ベトベトン"]
   },
   "ベトベトン": {
     "no": 89,
@@ -976,7 +1240,10 @@
     "height": 1.2,
     "weight": 30.0,
     "basename": "089",
-    "en": "Muk"
+    "en": "Muk",
+    "evolution": 2,
+    "from": ["ベトベター"],
+    "to": []
   },
   "シェルダー": {
     "no": 90,
@@ -987,7 +1254,10 @@
     "height": 0.3,
     "weight": 4.0,
     "basename": "090",
-    "en": "Shellder"
+    "en": "Shellder",
+    "evolution": 1,
+    "from": [],
+    "to": ["パルシェン"]
   },
   "パルシェン": {
     "no": 91,
@@ -998,7 +1268,10 @@
     "height": 1.5,
     "weight": 132.5,
     "basename": "091",
-    "en": "Cloyster"
+    "en": "Cloyster",
+    "evolution": 2,
+    "from": ["シェルダー"],
+    "to": []
   },
   "ゴース": {
     "no": 92,
@@ -1009,7 +1282,10 @@
     "height": 1.3,
     "weight": 0.1,
     "basename": "092",
-    "en": "Gastly"
+    "en": "Gastly",
+    "evolution": 1,
+    "from": [],
+    "to": ["ゴースト"]
   },
   "ゴースト": {
     "no": 93,
@@ -1020,7 +1296,10 @@
     "height": 1.6,
     "weight": 0.1,
     "basename": "093",
-    "en": "Haunter"
+    "en": "Haunter",
+    "evolution": 2,
+    "from": ["ゴース"],
+    "to": ["ゲンガー"]
   },
   "ゲンガー": {
     "no": 94,
@@ -1031,7 +1310,10 @@
     "height": 1.5,
     "weight": 40.5,
     "basename": "094",
-    "en": "Gengar"
+    "en": "Gengar",
+    "evolution": 3,
+    "from": ["ゴースト"],
+    "to": []
   },
   "イワーク": {
     "no": 95,
@@ -1042,7 +1324,10 @@
     "height": 8.8,
     "weight": 210.0,
     "basename": "095",
-    "en": "Onix"
+    "en": "Onix",
+    "evolution": 1,
+    "from": [],
+    "to": ["ハガネール"]
   },
   "スリープ": {
     "no": 96,
@@ -1053,7 +1338,10 @@
     "height": 1.0,
     "weight": 32.4,
     "basename": "096",
-    "en": "Drowzee"
+    "en": "Drowzee",
+    "evolution": 1,
+    "from": [],
+    "to": ["スリーパー"]
   },
   "スリーパー": {
     "no": 97,
@@ -1064,7 +1352,10 @@
     "height": 1.6,
     "weight": 75.6,
     "basename": "097",
-    "en": "Hypno"
+    "en": "Hypno",
+    "evolution": 2,
+    "from": ["スリープ"],
+    "to": []
   },
   "クラブ": {
     "no": 98,
@@ -1075,7 +1366,10 @@
     "height": 0.4,
     "weight": 6.5,
     "basename": "098",
-    "en": "Krabby"
+    "en": "Krabby",
+    "evolution": 1,
+    "from": [],
+    "to": ["キングラー"]
   },
   "キングラー": {
     "no": 99,
@@ -1086,7 +1380,10 @@
     "height": 1.3,
     "weight": 60.0,
     "basename": "099",
-    "en": "Kingler"
+    "en": "Kingler",
+    "evolution": 2,
+    "from": ["クラブ"],
+    "to": []
   },
   "ビリリダマ": {
     "no": 100,
@@ -1097,7 +1394,10 @@
     "height": 0.5,
     "weight": 10.4,
     "basename": "100",
-    "en": "Voltorb"
+    "en": "Voltorb",
+    "evolution": 1,
+    "from": [],
+    "to": ["マルマイン"]
   },
   "マルマイン": {
     "no": 101,
@@ -1108,7 +1408,10 @@
     "height": 1.2,
     "weight": 66.6,
     "basename": "101",
-    "en": "Electrode"
+    "en": "Electrode",
+    "evolution": 2,
+    "from": ["ビリリダマ"],
+    "to": []
   },
   "タマタマ": {
     "no": 102,
@@ -1119,7 +1422,10 @@
     "height": 0.4,
     "weight": 2.5,
     "basename": "102",
-    "en": "Exeggcute"
+    "en": "Exeggcute",
+    "evolution": 1,
+    "from": [],
+    "to": ["ナッシー"]
   },
   "ナッシー": {
     "no": 103,
@@ -1130,7 +1436,10 @@
     "height": 2.0,
     "weight": 120.0,
     "basename": "103",
-    "en": "Exeggutor"
+    "en": "Exeggutor",
+    "evolution": 2,
+    "from": ["タマタマ"],
+    "to": []
   },
   "カラカラ": {
     "no": 104,
@@ -1141,7 +1450,10 @@
     "height": 0.4,
     "weight": 6.5,
     "basename": "104",
-    "en": "Cubone"
+    "en": "Cubone",
+    "evolution": 1,
+    "from": [],
+    "to": ["ガラガラ"]
   },
   "ガラガラ": {
     "no": 105,
@@ -1152,7 +1464,10 @@
     "height": 1.0,
     "weight": 45.0,
     "basename": "105",
-    "en": "Marowak"
+    "en": "Marowak",
+    "evolution": 2,
+    "from": ["カラカラ"],
+    "to": []
   },
   "サワムラー": {
     "no": 106,
@@ -1163,7 +1478,10 @@
     "height": 1.5,
     "weight": 49.8,
     "basename": "106",
-    "en": "Hitmonlee"
+    "en": "Hitmonlee",
+    "evolution": 2,
+    "from": ["バルキー"],
+    "to": []
   },
   "エビワラー": {
     "no": 107,
@@ -1174,7 +1492,10 @@
     "height": 1.4,
     "weight": 50.2,
     "basename": "107",
-    "en": "Hitmonchan"
+    "en": "Hitmonchan",
+    "evolution": 2,
+    "from": ["バルキー"],
+    "to": []
   },
   "ベロリンガ": {
     "no": 108,
@@ -1185,7 +1506,10 @@
     "height": 1.2,
     "weight": 65.5,
     "basename": "108",
-    "en": "Lickitung"
+    "en": "Lickitung",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ドガース": {
     "no": 109,
@@ -1196,7 +1520,10 @@
     "height": 0.6,
     "weight": 1.0,
     "basename": "109",
-    "en": "Koffing"
+    "en": "Koffing",
+    "evolution": 1,
+    "from": [],
+    "to": ["マタドガス"]
   },
   "マタドガス": {
     "no": 110,
@@ -1207,7 +1534,10 @@
     "height": 1.2,
     "weight": 9.5,
     "basename": "110",
-    "en": "Weezing"
+    "en": "Weezing",
+    "evolution": 2,
+    "from": ["ドガース"],
+    "to": []
   },
   "サイホーン": {
     "no": 111,
@@ -1218,7 +1548,10 @@
     "height": 1.0,
     "weight": 115.0,
     "basename": "111",
-    "en": "Rhyhorn"
+    "en": "Rhyhorn",
+    "evolution": 1,
+    "from": [],
+    "to": ["サイドン"]
   },
   "サイドン": {
     "no": 112,
@@ -1229,7 +1562,10 @@
     "height": 1.9,
     "weight": 120.0,
     "basename": "112",
-    "en": "Rhydon"
+    "en": "Rhydon",
+    "evolution": 2,
+    "from": ["サイホーン"],
+    "to": []
   },
   "ラッキー": {
     "no": 113,
@@ -1240,7 +1576,10 @@
     "height": 1.1,
     "weight": 34.6,
     "basename": "113",
-    "en": "Chansey"
+    "en": "Chansey",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "モンジャラ": {
     "no": 114,
@@ -1251,7 +1590,10 @@
     "height": 1.0,
     "weight": 35.0,
     "basename": "114",
-    "en": "Tangela"
+    "en": "Tangela",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ガルーラ": {
     "no": 115,
@@ -1262,7 +1604,10 @@
     "height": 2.2,
     "weight": 80.0,
     "basename": "115",
-    "en": "Kangaskhan"
+    "en": "Kangaskhan",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "タッツー": {
     "no": 116,
@@ -1273,7 +1618,10 @@
     "height": 0.4,
     "weight": 8.0,
     "basename": "116",
-    "en": "Horsea"
+    "en": "Horsea",
+    "evolution": 1,
+    "from": [],
+    "to": ["シードラ"]
   },
   "シードラ": {
     "no": 117,
@@ -1284,7 +1632,10 @@
     "height": 1.2,
     "weight": 25.0,
     "basename": "117",
-    "en": "Seadra"
+    "en": "Seadra",
+    "evolution": 2,
+    "from": ["タッツー"],
+    "to": ["キングドラ"]
   },
   "トサキント": {
     "no": 118,
@@ -1295,7 +1646,10 @@
     "height": 0.6,
     "weight": 15.0,
     "basename": "118",
-    "en": "Goldeen"
+    "en": "Goldeen",
+    "evolution": 1,
+    "from": [],
+    "to": ["アズマオウ"]
   },
   "アズマオウ": {
     "no": 119,
@@ -1306,7 +1660,10 @@
     "height": 1.3,
     "weight": 39.0,
     "basename": "119",
-    "en": "Seaking"
+    "en": "Seaking",
+    "evolution": 2,
+    "from": ["トサキント"],
+    "to": []
   },
   "ヒトデマン": {
     "no": 120,
@@ -1317,7 +1674,10 @@
     "height": 0.8,
     "weight": 34.5,
     "basename": "120",
-    "en": "Staryu"
+    "en": "Staryu",
+    "evolution": 1,
+    "from": [],
+    "to": ["スターミー"]
   },
   "スターミー": {
     "no": 121,
@@ -1328,7 +1688,10 @@
     "height": 1.1,
     "weight": 80.0,
     "basename": "121",
-    "en": "Starmie"
+    "en": "Starmie",
+    "evolution": 2,
+    "from": ["ヒトデマン"],
+    "to": []
   },
   "バリヤード": {
     "no": 122,
@@ -1339,7 +1702,10 @@
     "height": 1.3,
     "weight": 54.5,
     "basename": "122",
-    "en": "Mr_mime"
+    "en": "Mr_mime",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ストライク": {
     "no": 123,
@@ -1350,7 +1716,10 @@
     "height": 1.5,
     "weight": 56.0,
     "basename": "123",
-    "en": "Scyther"
+    "en": "Scyther",
+    "evolution": 1,
+    "from": [],
+    "to": ["ハッサム"]
   },
   "ルージュラ": {
     "no": 124,
@@ -1361,7 +1730,10 @@
     "height": 1.4,
     "weight": 40.6,
     "basename": "124",
-    "en": "Jynx"
+    "en": "Jynx",
+    "evolution": 2,
+    "from": ["ムチュール"],
+    "to": []
   },
   "エレブー": {
     "no": 125,
@@ -1372,7 +1744,10 @@
     "height": 1.1,
     "weight": 30.0,
     "basename": "125",
-    "en": "Electabuzz"
+    "en": "Electabuzz",
+    "evolution": 2,
+    "from": ["エレキッド"],
+    "to": []
   },
   "ブーバー": {
     "no": 126,
@@ -1383,7 +1758,10 @@
     "height": 1.3,
     "weight": 44.5,
     "basename": "126",
-    "en": "Magmar"
+    "en": "Magmar",
+    "evolution": 2,
+    "from": ["ブビィ"],
+    "to": []
   },
   "カイロス": {
     "no": 127,
@@ -1394,7 +1772,10 @@
     "height": 1.5,
     "weight": 55.0,
     "basename": "127",
-    "en": "Pinsir"
+    "en": "Pinsir",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ケンタロス": {
     "no": 128,
@@ -1405,7 +1786,10 @@
     "height": 1.4,
     "weight": 88.4,
     "basename": "128",
-    "en": "Tauros"
+    "en": "Tauros",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "コイキング": {
     "no": 129,
@@ -1416,7 +1800,10 @@
     "height": 0.9,
     "weight": 10.0,
     "basename": "129",
-    "en": "Magikarp"
+    "en": "Magikarp",
+    "evolution": 1,
+    "from": [],
+    "to": ["ギャラドス"]
   },
   "ギャラドス": {
     "no": 130,
@@ -1427,7 +1814,10 @@
     "height": 6.5,
     "weight": 235.0,
     "basename": "130",
-    "en": "Gyarados"
+    "en": "Gyarados",
+    "evolution": 2,
+    "from": ["コイキング"],
+    "to": []
   },
   "ラプラス": {
     "no": 131,
@@ -1438,7 +1828,10 @@
     "height": 2.5,
     "weight": 220.0,
     "basename": "131",
-    "en": "Lapras"
+    "en": "Lapras",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "メタモン": {
     "no": 132,
@@ -1449,7 +1842,10 @@
     "height": 0.3,
     "weight": 4.0,
     "basename": "132",
-    "en": "Ditto"
+    "en": "Ditto",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "イーブイ": {
     "no": 133,
@@ -1460,7 +1856,10 @@
     "height": 0.3,
     "weight": 6.5,
     "basename": "133",
-    "en": "Eevee"
+    "en": "Eevee",
+    "evolution": 1,
+    "from": [],
+    "to": ["シャワーズ", "サンダース", "ブースター", "エーフィ", "ブラッキー"]
   },
   "シャワーズ": {
     "no": 134,
@@ -1471,7 +1870,10 @@
     "height": 1.0,
     "weight": 29.0,
     "basename": "134",
-    "en": "Vaporeon"
+    "en": "Vaporeon",
+    "evolution": 2,
+    "from": ["イーブイ"],
+    "to": []
   },
   "サンダース": {
     "no": 135,
@@ -1482,7 +1884,10 @@
     "height": 0.8,
     "weight": 24.5,
     "basename": "135",
-    "en": "Jolteon"
+    "en": "Jolteon",
+    "evolution": 2,
+    "from": ["イーブイ"],
+    "to": []
   },
   "ブースター": {
     "no": 136,
@@ -1493,7 +1898,10 @@
     "height": 0.9,
     "weight": 25.0,
     "basename": "136",
-    "en": "Flareon"
+    "en": "Flareon",
+    "evolution": 2,
+    "from": ["イーブイ"],
+    "to": []
   },
   "ポリゴン": {
     "no": 137,
@@ -1504,7 +1912,10 @@
     "height": 0.8,
     "weight": 36.5,
     "basename": "137",
-    "en": "Porygon"
+    "en": "Porygon",
+    "evolution": 1,
+    "from": [],
+    "to": ["ポリゴン2"]
   },
   "オムナイト": {
     "no": 138,
@@ -1515,7 +1926,10 @@
     "height": 0.4,
     "weight": 7.5,
     "basename": "138",
-    "en": "Omanyte"
+    "en": "Omanyte",
+    "evolution": 1,
+    "from": [],
+    "to": ["オムスター"]
   },
   "オムスター": {
     "no": 139,
@@ -1526,7 +1940,10 @@
     "height": 1.0,
     "weight": 35.0,
     "basename": "139",
-    "en": "Omastar"
+    "en": "Omastar",
+    "evolution": 2,
+    "from": ["オムナイト"],
+    "to": []
   },
   "カブト": {
     "no": 140,
@@ -1537,7 +1954,10 @@
     "height": 0.5,
     "weight": 11.5,
     "basename": "140",
-    "en": "Kabuto"
+    "en": "Kabuto",
+    "evolution": 1,
+    "from": [],
+    "to": ["カブトプス"]
   },
   "カブトプス": {
     "no": 141,
@@ -1548,7 +1968,10 @@
     "height": 1.3,
     "weight": 40.5,
     "basename": "141",
-    "en": "Kabutops"
+    "en": "Kabutops",
+    "evolution": 2,
+    "from": ["カブト"],
+    "to": []
   },
   "プテラ": {
     "no": 142,
@@ -1559,7 +1982,10 @@
     "height": 1.8,
     "weight": 59.0,
     "basename": "142",
-    "en": "Aerodactyl"
+    "en": "Aerodactyl",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "カビゴン": {
     "no": 143,
@@ -1570,7 +1996,10 @@
     "height": 2.1,
     "weight": 460.0,
     "basename": "143",
-    "en": "Snorlax"
+    "en": "Snorlax",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "フリーザー": {
     "no": 144,
@@ -1581,7 +2010,10 @@
     "height": 1.7,
     "weight": 55.4,
     "basename": "144",
-    "en": "Articuno"
+    "en": "Articuno",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "サンダー": {
     "no": 145,
@@ -1592,7 +2024,10 @@
     "height": 1.6,
     "weight": 52.6,
     "basename": "145",
-    "en": "Zapdos"
+    "en": "Zapdos",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ファイヤー": {
     "no": 146,
@@ -1603,7 +2038,10 @@
     "height": 2.0,
     "weight": 60.0,
     "basename": "146",
-    "en": "Moltres"
+    "en": "Moltres",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ミニリュウ": {
     "no": 147,
@@ -1614,7 +2052,10 @@
     "height": 1.8,
     "weight": 3.3,
     "basename": "147",
-    "en": "Dratini"
+    "en": "Dratini",
+    "evolution": 1,
+    "from": [],
+    "to": ["ハクリュー"]
   },
   "ハクリュー": {
     "no": 148,
@@ -1625,7 +2066,10 @@
     "height": 4.0,
     "weight": 16.5,
     "basename": "148",
-    "en": "Dragonair"
+    "en": "Dragonair",
+    "evolution": 2,
+    "from": ["ミニリュウ"],
+    "to": ["カイリュー"]
   },
   "カイリュー": {
     "no": 149,
@@ -1636,7 +2080,10 @@
     "height": 2.2,
     "weight": 210.0,
     "basename": "149",
-    "en": "Dragonite"
+    "en": "Dragonite",
+    "evolution": 3,
+    "from": ["ハクリュー"],
+    "to": []
   },
   "ミュウツー": {
     "no": 150,
@@ -1647,7 +2094,10 @@
     "height": 2.0,
     "weight": 122.0,
     "basename": "150",
-    "en": "Mewtwo"
+    "en": "Mewtwo",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ミュウ": {
     "no": 151,
@@ -1658,7 +2108,10 @@
     "height": 0.4,
     "weight": 4.0,
     "basename": "151",
-    "en": "Mew"
+    "en": "Mew",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "チコリータ": {
     "no": 152,
@@ -1669,7 +2122,10 @@
     "height": 0.9,
     "weight": 6.4,
     "basename": "152",
-    "en": "Chikorita"
+    "en": "Chikorita",
+    "evolution": 1,
+    "from": [],
+    "to": ["ベイリーフ"]
   },
   "ベイリーフ": {
     "no": 153,
@@ -1680,7 +2136,10 @@
     "height": 1.2,
     "weight": 15.8,
     "basename": "153",
-    "en": "Bayleef"
+    "en": "Bayleef",
+    "evolution": 2,
+    "from": ["チコリータ"],
+    "to": ["メガニウム"]
   },
   "メガニウム": {
     "no": 154,
@@ -1691,7 +2150,10 @@
     "height": 1.8,
     "weight": 100.5,
     "basename": "154",
-    "en": "Meganium"
+    "en": "Meganium",
+    "evolution": 3,
+    "from": ["ベイリーフ"],
+    "to": []
   },
   "ヒノアラシ": {
     "no": 155,
@@ -1702,7 +2164,10 @@
     "height": 0.5,
     "weight": 7.9,
     "basename": "155",
-    "en": "Cyndaquil"
+    "en": "Cyndaquil",
+    "evolution": 1,
+    "from": [],
+    "to": ["マグマラシ"]
   },
   "マグマラシ": {
     "no": 156,
@@ -1713,7 +2178,10 @@
     "height": 0.9,
     "weight": 19.0,
     "basename": "156",
-    "en": "Quilava"
+    "en": "Quilava",
+    "evolution": 2,
+    "from": ["ヒノアラシ"],
+    "to": ["バクフーン"]
   },
   "バクフーン": {
     "no": 157,
@@ -1724,7 +2192,10 @@
     "height": 1.7,
     "weight": 79.5,
     "basename": "157",
-    "en": "Typhlosion"
+    "en": "Typhlosion",
+    "evolution": 3,
+    "from": ["マグマラシ"],
+    "to": []
   },
   "ワニノコ": {
     "no": 158,
@@ -1735,7 +2206,10 @@
     "height": 0.6,
     "weight": 9.5,
     "basename": "158",
-    "en": "Totodile"
+    "en": "Totodile",
+    "evolution": 1,
+    "from": [],
+    "to": ["アリゲイツ"]
   },
   "アリゲイツ": {
     "no": 159,
@@ -1746,7 +2220,10 @@
     "height": 1.1,
     "weight": 25.0,
     "basename": "159",
-    "en": "Croconaw"
+    "en": "Croconaw",
+    "evolution": 2,
+    "from": ["ワニノコ"],
+    "to": ["オーダイル"]
   },
   "オーダイル": {
     "no": 160,
@@ -1757,7 +2234,10 @@
     "height": 2.3,
     "weight": 88.8,
     "basename": "160",
-    "en": "Feraligatr"
+    "en": "Feraligatr",
+    "evolution": 3,
+    "from": ["アリゲイツ"],
+    "to": []
   },
   "オタチ": {
     "no": 161,
@@ -1768,7 +2248,10 @@
     "height": 0.8,
     "weight": 6.0,
     "basename": "161",
-    "en": "Sentret"
+    "en": "Sentret",
+    "evolution": 1,
+    "from": [],
+    "to": ["オオタチ"]
   },
   "オオタチ": {
     "no": 162,
@@ -1779,7 +2262,10 @@
     "height": 1.8,
     "weight": 32.5,
     "basename": "162",
-    "en": "Furret"
+    "en": "Furret",
+    "evolution": 2,
+    "from": ["オタチ"],
+    "to": []
   },
   "ホーホー": {
     "no": 163,
@@ -1790,7 +2276,10 @@
     "height": 0.7,
     "weight": 21.2,
     "basename": "163",
-    "en": "Hoothoot"
+    "en": "Hoothoot",
+    "evolution": 1,
+    "from": [],
+    "to": ["ヨルノズク"]
   },
   "ヨルノズク": {
     "no": 164,
@@ -1801,7 +2290,10 @@
     "height": 1.6,
     "weight": 40.8,
     "basename": "164",
-    "en": "Noctowl"
+    "en": "Noctowl",
+    "evolution": 2,
+    "from": ["ホーホー"],
+    "to": []
   },
   "レディバ": {
     "no": 165,
@@ -1812,7 +2304,10 @@
     "height": 1.0,
     "weight": 10.8,
     "basename": "165",
-    "en": "Ledyba"
+    "en": "Ledyba",
+    "evolution": 1,
+    "from": [],
+    "to": ["レディアン"]
   },
   "レディアン": {
     "no": 166,
@@ -1823,7 +2318,10 @@
     "height": 1.4,
     "weight": 35.6,
     "basename": "166",
-    "en": "Ledian"
+    "en": "Ledian",
+    "evolution": 2,
+    "from": ["レディバ"],
+    "to": []
   },
   "イトマル": {
     "no": 167,
@@ -1834,7 +2332,10 @@
     "height": 0.5,
     "weight": 8.5,
     "basename": "167",
-    "en": "Spinarak"
+    "en": "Spinarak",
+    "evolution": 1,
+    "from": [],
+    "to": ["アリアドス"]
   },
   "アリアドス": {
     "no": 168,
@@ -1845,7 +2346,10 @@
     "height": 1.1,
     "weight": 33.5,
     "basename": "168",
-    "en": "Ariados"
+    "en": "Ariados",
+    "evolution": 2,
+    "from": ["イトマル"],
+    "to": []
   },
   "クロバット": {
     "no": 169,
@@ -1856,7 +2360,10 @@
     "height": 1.8,
     "weight": 75.0,
     "basename": "169",
-    "en": "Crobat"
+    "en": "Crobat",
+    "evolution": 3,
+    "from": ["ゴルバット"],
+    "to": []
   },
   "チョンチー": {
     "no": 170,
@@ -1867,7 +2374,10 @@
     "height": 0.5,
     "weight": 12.0,
     "basename": "170",
-    "en": "Chinchou"
+    "en": "Chinchou",
+    "evolution": 1,
+    "from": [],
+    "to": ["ランターン"]
   },
   "ランターン": {
     "no": 171,
@@ -1878,7 +2388,10 @@
     "height": 1.2,
     "weight": 22.5,
     "basename": "171",
-    "en": "Lanturn"
+    "en": "Lanturn",
+    "evolution": 2,
+    "from": ["チョンチー"],
+    "to": []
   },
   "ピチュー": {
     "no": 172,
@@ -1889,7 +2402,10 @@
     "height": 0.3,
     "weight": 2.0,
     "basename": "172",
-    "en": "Pichu"
+    "en": "Pichu",
+    "evolution": 1,
+    "from": [],
+    "to": ["ピカチュウ"]
   },
   "ピィ": {
     "no": 173,
@@ -1900,7 +2416,10 @@
     "height": 0.3,
     "weight": 3.0,
     "basename": "173",
-    "en": "Cleffa"
+    "en": "Cleffa",
+    "evolution": 1,
+    "from": [],
+    "to": ["ピッピ"]
   },
   "ププリン": {
     "no": 174,
@@ -1911,7 +2430,10 @@
     "height": 0.3,
     "weight": 1.0,
     "basename": "174",
-    "en": "Igglybuff"
+    "en": "Igglybuff",
+    "evolution": 1,
+    "from": [],
+    "to": ["プリン"]
   },
   "トゲピー": {
     "no": 175,
@@ -1922,7 +2444,10 @@
     "height": 0.3,
     "weight": 1.5,
     "basename": "175",
-    "en": "Togepi"
+    "en": "Togepi",
+    "evolution": 1,
+    "from": [],
+    "to": ["トゲチック"]
   },
   "トゲチック": {
     "no": 176,
@@ -1933,7 +2458,10 @@
     "height": 0.6,
     "weight": 3.2,
     "basename": "176",
-    "en": "Togetic"
+    "en": "Togetic",
+    "evolution": 2,
+    "from": ["トゲピー"],
+    "to": []
   },
   "ネイティ": {
     "no": 177,
@@ -1944,7 +2472,10 @@
     "height": 0.2,
     "weight": 2.0,
     "basename": "177",
-    "en": "Natu"
+    "en": "Natu",
+    "evolution": 1,
+    "from": [],
+    "to": ["ネイティオ"]
   },
   "ネイティオ": {
     "no": 178,
@@ -1955,7 +2486,10 @@
     "height": 1.5,
     "weight": 15.0,
     "basename": "178",
-    "en": "Xatu"
+    "en": "Xatu",
+    "evolution": 2,
+    "from": ["ネイティ"],
+    "to": []
   },
   "メリープ": {
     "no": 179,
@@ -1966,7 +2500,10 @@
     "height": 0.6,
     "weight": 7.8,
     "basename": "179",
-    "en": "Mareep"
+    "en": "Mareep",
+    "evolution": 1,
+    "from": [],
+    "to": ["モココ"]
   },
   "モココ": {
     "no": 180,
@@ -1977,7 +2514,10 @@
     "height": 0.8,
     "weight": 13.3,
     "basename": "180",
-    "en": "Flaaffy"
+    "en": "Flaaffy",
+    "evolution": 2,
+    "from": ["メリープ"],
+    "to": ["デンリュウ"]
   },
   "デンリュウ": {
     "no": 181,
@@ -1988,7 +2528,10 @@
     "height": 1.4,
     "weight": 61.5,
     "basename": "181",
-    "en": "Ampharos"
+    "en": "Ampharos",
+    "evolution": 3,
+    "from": ["モココ"],
+    "to": []
   },
   "キレイハナ": {
     "no": 182,
@@ -1999,7 +2542,10 @@
     "height": 0.4,
     "weight": 5.8,
     "basename": "182",
-    "en": "Bellossom"
+    "en": "Bellossom",
+    "evolution": 3,
+    "from": ["クサイハナ"],
+    "to": []
   },
   "マリル": {
     "no": 183,
@@ -2010,7 +2556,10 @@
     "height": 0.4,
     "weight": 8.5,
     "basename": "183",
-    "en": "Marill"
+    "en": "Marill",
+    "evolution": 2,
+    "from": ["ルリリ"],
+    "to": ["マリルリ"]
   },
   "マリルリ": {
     "no": 184,
@@ -2021,7 +2570,10 @@
     "height": 0.8,
     "weight": 28.5,
     "basename": "184",
-    "en": "Azumarill"
+    "en": "Azumarill",
+    "evolution": 3,
+    "from": ["マリル"],
+    "to": []
   },
   "ウソッキー": {
     "no": 185,
@@ -2032,7 +2584,10 @@
     "height": 1.2,
     "weight": 38.0,
     "basename": "185",
-    "en": "Sudowoodo"
+    "en": "Sudowoodo",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ニョロトノ": {
     "no": 186,
@@ -2043,7 +2598,10 @@
     "height": 1.1,
     "weight": 33.9,
     "basename": "186",
-    "en": "Politoed"
+    "en": "Politoed",
+    "evolution": 3,
+    "from": ["ニョロゾ"],
+    "to": []
   },
   "ハネッコ": {
     "no": 187,
@@ -2054,7 +2612,10 @@
     "height": 0.4,
     "weight": 0.5,
     "basename": "187",
-    "en": "Hoppip"
+    "en": "Hoppip",
+    "evolution": 1,
+    "from": [],
+    "to": ["ポポッコ"]
   },
   "ポポッコ": {
     "no": 188,
@@ -2065,7 +2626,10 @@
     "height": 0.6,
     "weight": 1.0,
     "basename": "188",
-    "en": "Skiploom"
+    "en": "Skiploom",
+    "evolution": 2,
+    "from": ["ハネッコ"],
+    "to": ["ワタッコ"]
   },
   "ワタッコ": {
     "no": 189,
@@ -2076,7 +2640,10 @@
     "height": 0.8,
     "weight": 3.0,
     "basename": "189",
-    "en": "Jumpluff"
+    "en": "Jumpluff",
+    "evolution": 3,
+    "from": ["ポポッコ"],
+    "to": []
   },
   "エイパム": {
     "no": 190,
@@ -2087,7 +2654,10 @@
     "height": 0.8,
     "weight": 11.5,
     "basename": "190",
-    "en": "Aipom"
+    "en": "Aipom",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ヒマナッツ": {
     "no": 191,
@@ -2098,7 +2668,10 @@
     "height": 0.3,
     "weight": 1.8,
     "basename": "191",
-    "en": "Sunkern"
+    "en": "Sunkern",
+    "evolution": 1,
+    "from": [],
+    "to": ["キマワリ"]
   },
   "キマワリ": {
     "no": 192,
@@ -2109,7 +2682,10 @@
     "height": 0.8,
     "weight": 8.5,
     "basename": "192",
-    "en": "Sunflora"
+    "en": "Sunflora",
+    "evolution": 2,
+    "from": ["ヒマナッツ"],
+    "to": []
   },
   "ヤンヤンマ": {
     "no": 193,
@@ -2120,7 +2696,10 @@
     "height": 1.2,
     "weight": 38.0,
     "basename": "193",
-    "en": "Yanma"
+    "en": "Yanma",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ウパー": {
     "no": 194,
@@ -2131,7 +2710,10 @@
     "height": 0.4,
     "weight": 8.5,
     "basename": "194",
-    "en": "Wooper"
+    "en": "Wooper",
+    "evolution": 1,
+    "from": [],
+    "to": ["ヌオー"]
   },
   "ヌオー": {
     "no": 195,
@@ -2142,7 +2724,10 @@
     "height": 1.4,
     "weight": 75.0,
     "basename": "195",
-    "en": "Quagsire"
+    "en": "Quagsire",
+    "evolution": 2,
+    "from": ["ウパー"],
+    "to": []
   },
   "エーフィ": {
     "no": 196,
@@ -2153,7 +2738,10 @@
     "height": 0.9,
     "weight": 26.5,
     "basename": "196",
-    "en": "Espeon"
+    "en": "Espeon",
+    "evolution": 2,
+    "from": ["イーブイ"],
+    "to": []
   },
   "ブラッキー": {
     "no": 197,
@@ -2164,7 +2752,10 @@
     "height": 1.0,
     "weight": 27.0,
     "basename": "197",
-    "en": "Umbreon"
+    "en": "Umbreon",
+    "evolution": 2,
+    "from": ["イーブイ"],
+    "to": []
   },
   "ヤミカラス": {
     "no": 198,
@@ -2175,7 +2766,10 @@
     "height": 0.5,
     "weight": 2.1,
     "basename": "198",
-    "en": "Murkrow"
+    "en": "Murkrow",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ヤドキング": {
     "no": 199,
@@ -2186,7 +2780,10 @@
     "height": 2.0,
     "weight": 79.5,
     "basename": "199",
-    "en": "Slowking"
+    "en": "Slowking",
+    "evolution": 2,
+    "from": ["ヤドン"],
+    "to": []
   },
   "ムウマ": {
     "no": 200,
@@ -2197,7 +2794,10 @@
     "height": 0.7,
     "weight": 1.0,
     "basename": "200",
-    "en": "Misdreavus"
+    "en": "Misdreavus",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン": {
     "no": 201,
@@ -2208,7 +2808,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201",
-    "en": "Unown"
+    "en": "Unown",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(A)": {
     "no": 201,
@@ -2219,7 +2822,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(A)",
-    "en": "Unown(A)"
+    "en": "Unown(A)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(B)": {
     "no": 201,
@@ -2230,7 +2836,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(B)",
-    "en": "Unown(B)"
+    "en": "Unown(B)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(C)": {
     "no": 201,
@@ -2241,7 +2850,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(C)",
-    "en": "Unown(C)"
+    "en": "Unown(C)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(D)": {
     "no": 201,
@@ -2252,7 +2864,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(D)",
-    "en": "Unown(D)"
+    "en": "Unown(D)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(E)": {
     "no": 201,
@@ -2263,7 +2878,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(E)",
-    "en": "Unown(E)"
+    "en": "Unown(E)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(F)": {
     "no": 201,
@@ -2274,7 +2892,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(F)",
-    "en": "Unown(F)"
+    "en": "Unown(F)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(G)": {
     "no": 201,
@@ -2285,7 +2906,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(G)",
-    "en": "Unown(G)"
+    "en": "Unown(G)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(H)": {
     "no": 201,
@@ -2296,7 +2920,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(H)",
-    "en": "Unown(H)"
+    "en": "Unown(H)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(I)": {
     "no": 201,
@@ -2307,7 +2934,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(I)",
-    "en": "Unown(I)"
+    "en": "Unown(I)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(J)": {
     "no": 201,
@@ -2318,7 +2948,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(J)",
-    "en": "Unown(J)"
+    "en": "Unown(J)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(K)": {
     "no": 201,
@@ -2329,7 +2962,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(K)",
-    "en": "Unown(K)"
+    "en": "Unown(K)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(L)": {
     "no": 201,
@@ -2340,7 +2976,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(L)",
-    "en": "Unown(L)"
+    "en": "Unown(L)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(M)": {
     "no": 201,
@@ -2351,7 +2990,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(M)",
-    "en": "Unown(M)"
+    "en": "Unown(M)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(N)": {
     "no": 201,
@@ -2362,7 +3004,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(N)",
-    "en": "Unown(N)"
+    "en": "Unown(N)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(O)": {
     "no": 201,
@@ -2373,7 +3018,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(O)",
-    "en": "Unown(O)"
+    "en": "Unown(O)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(P)": {
     "no": 201,
@@ -2384,7 +3032,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(P)",
-    "en": "Unown(P)"
+    "en": "Unown(P)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(Q)": {
     "no": 201,
@@ -2395,7 +3046,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(Q)",
-    "en": "Unown(Q)"
+    "en": "Unown(Q)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(R)": {
     "no": 201,
@@ -2406,7 +3060,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(R)",
-    "en": "Unown(R)"
+    "en": "Unown(R)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(S)": {
     "no": 201,
@@ -2417,7 +3074,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(S)",
-    "en": "Unown(S)"
+    "en": "Unown(S)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(T)": {
     "no": 201,
@@ -2428,7 +3088,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(T)",
-    "en": "Unown(T)"
+    "en": "Unown(T)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(U)": {
     "no": 201,
@@ -2439,7 +3102,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(U)",
-    "en": "Unown(U)"
+    "en": "Unown(U)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(V)": {
     "no": 201,
@@ -2450,7 +3116,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(V)",
-    "en": "Unown(V)"
+    "en": "Unown(V)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(W)": {
     "no": 201,
@@ -2461,7 +3130,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(W)",
-    "en": "Unown(W)"
+    "en": "Unown(W)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(X)": {
     "no": 201,
@@ -2472,7 +3144,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(X)",
-    "en": "Unown(X)"
+    "en": "Unown(X)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(Y)": {
     "no": 201,
@@ -2483,7 +3158,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(Y)",
-    "en": "Unown(Y)"
+    "en": "Unown(Y)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(Z)": {
     "no": 201,
@@ -2494,7 +3172,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(Z)",
-    "en": "Unown(Z)"
+    "en": "Unown(Z)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(!)": {
     "no": 201,
@@ -2505,7 +3186,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(!)",
-    "en": "Unown(!)"
+    "en": "Unown(!)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アンノーン(?)": {
     "no": 201,
@@ -2516,7 +3200,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "201(?)",
-    "en": "Unown(?)"
+    "en": "Unown(?)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ソーナンス": {
     "no": 202,
@@ -2527,7 +3214,10 @@
     "height": 1.3,
     "weight": 28.5,
     "basename": "202",
-    "en": "Wobbuffet"
+    "en": "Wobbuffet",
+    "evolution": 2,
+    "from": ["ソーナノ"],
+    "to": []
   },
   "キリンリキ": {
     "no": 203,
@@ -2538,7 +3228,10 @@
     "height": 1.5,
     "weight": 41.5,
     "basename": "203",
-    "en": "Girafarig"
+    "en": "Girafarig",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "クヌギダマ": {
     "no": 204,
@@ -2549,7 +3242,10 @@
     "height": 0.6,
     "weight": 7.2,
     "basename": "204",
-    "en": "Pineco"
+    "en": "Pineco",
+    "evolution": 1,
+    "from": [],
+    "to": ["フォレトス"]
   },
   "フォレトス": {
     "no": 205,
@@ -2560,7 +3256,10 @@
     "height": 1.2,
     "weight": 125.8,
     "basename": "205",
-    "en": "Forretress"
+    "en": "Forretress",
+    "evolution": 2,
+    "from": ["クヌギダマ"],
+    "to": []
   },
   "ノコッチ": {
     "no": 206,
@@ -2571,7 +3270,10 @@
     "height": 1.5,
     "weight": 14.0,
     "basename": "206",
-    "en": "Dunsparce"
+    "en": "Dunsparce",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "グライガー": {
     "no": 207,
@@ -2582,7 +3284,10 @@
     "height": 1.1,
     "weight": 64.8,
     "basename": "207",
-    "en": "Gligar"
+    "en": "Gligar",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ハガネール": {
     "no": 208,
@@ -2593,7 +3298,10 @@
     "height": 9.2,
     "weight": 400.0,
     "basename": "208",
-    "en": "Steelix"
+    "en": "Steelix",
+    "evolution": 2,
+    "from": ["イワーク"],
+    "to": []
   },
   "ブルー": {
     "no": 209,
@@ -2604,7 +3312,10 @@
     "height": 0.6,
     "weight": 7.8,
     "basename": "209",
-    "en": "Snubbull"
+    "en": "Snubbull",
+    "evolution": 1,
+    "from": [],
+    "to": ["グランブル"]
   },
   "グランブル": {
     "no": 210,
@@ -2615,7 +3326,10 @@
     "height": 1.4,
     "weight": 48.7,
     "basename": "210",
-    "en": "Granbull"
+    "en": "Granbull",
+    "evolution": 2,
+    "from": ["ブルー"],
+    "to": []
   },
   "ハリーセン": {
     "no": 211,
@@ -2626,7 +3340,10 @@
     "height": 0.5,
     "weight": 3.9,
     "basename": "211",
-    "en": "Qwilfish"
+    "en": "Qwilfish",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ハッサム": {
     "no": 212,
@@ -2637,7 +3354,10 @@
     "height": 1.8,
     "weight": 118.0,
     "basename": "212",
-    "en": "Scizor"
+    "en": "Scizor",
+    "evolution": 2,
+    "from": ["ストライク"],
+    "to": []
   },
   "ツボツボ": {
     "no": 213,
@@ -2648,7 +3368,10 @@
     "height": 0.6,
     "weight": 20.5,
     "basename": "213",
-    "en": "Shuckle"
+    "en": "Shuckle",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ヘラクロス": {
     "no": 214,
@@ -2659,7 +3382,10 @@
     "height": 1.5,
     "weight": 54.0,
     "basename": "214",
-    "en": "Heracross"
+    "en": "Heracross",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ニューラ": {
     "no": 215,
@@ -2670,7 +3396,10 @@
     "height": 0.9,
     "weight": 28.0,
     "basename": "215",
-    "en": "Sneasel"
+    "en": "Sneasel",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ヒメグマ": {
     "no": 216,
@@ -2681,7 +3410,10 @@
     "height": 0.6,
     "weight": 8.8,
     "basename": "216",
-    "en": "Teddiursa"
+    "en": "Teddiursa",
+    "evolution": 1,
+    "from": [],
+    "to": ["リングマ"]
   },
   "リングマ": {
     "no": 217,
@@ -2692,7 +3424,10 @@
     "height": 1.8,
     "weight": 125.8,
     "basename": "217",
-    "en": "Ursaring"
+    "en": "Ursaring",
+    "evolution": 2,
+    "from": ["ヒメグマ"],
+    "to": []
   },
   "マグマッグ": {
     "no": 218,
@@ -2703,7 +3438,10 @@
     "height": 0.7,
     "weight": 35.0,
     "basename": "218",
-    "en": "Slugma"
+    "en": "Slugma",
+    "evolution": 1,
+    "from": [],
+    "to": ["マグカルゴ"]
   },
   "マグカルゴ": {
     "no": 219,
@@ -2714,7 +3452,10 @@
     "height": 0.8,
     "weight": 55.0,
     "basename": "219",
-    "en": "Magcargo"
+    "en": "Magcargo",
+    "evolution": 2,
+    "from": ["マグマッグ"],
+    "to": []
   },
   "ウリムー": {
     "no": 220,
@@ -2725,7 +3466,10 @@
     "height": 0.4,
     "weight": 6.5,
     "basename": "220",
-    "en": "Swinub"
+    "en": "Swinub",
+    "evolution": 1,
+    "from": [],
+    "to": ["イノムー"]
   },
   "イノムー": {
     "no": 221,
@@ -2736,7 +3480,10 @@
     "height": 1.1,
     "weight": 55.8,
     "basename": "221",
-    "en": "Piloswine"
+    "en": "Piloswine",
+    "evolution": 2,
+    "from": ["ウリムー"],
+    "to": []
   },
   "サニーゴ": {
     "no": 222,
@@ -2747,7 +3494,10 @@
     "height": 0.6,
     "weight": 5.0,
     "basename": "222",
-    "en": "Corsola"
+    "en": "Corsola",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "テッポウオ": {
     "no": 223,
@@ -2758,7 +3508,10 @@
     "height": 0.6,
     "weight": 12.0,
     "basename": "223",
-    "en": "Remoraid"
+    "en": "Remoraid",
+    "evolution": 1,
+    "from": [],
+    "to": ["オクタン"]
   },
   "オクタン": {
     "no": 224,
@@ -2769,7 +3522,10 @@
     "height": 0.9,
     "weight": 28.5,
     "basename": "224",
-    "en": "Octillery"
+    "en": "Octillery",
+    "evolution": 2,
+    "from": ["テッポウオ"],
+    "to": []
   },
   "デリバード": {
     "no": 225,
@@ -2780,7 +3536,10 @@
     "height": 0.9,
     "weight": 16.0,
     "basename": "225",
-    "en": "Delibird"
+    "en": "Delibird",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "マンタイン": {
     "no": 226,
@@ -2791,7 +3550,10 @@
     "height": 2.1,
     "weight": 220.0,
     "basename": "226",
-    "en": "Mantine"
+    "en": "Mantine",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "エアームド": {
     "no": 227,
@@ -2802,7 +3564,10 @@
     "height": 1.7,
     "weight": 50.5,
     "basename": "227",
-    "en": "Skarmory"
+    "en": "Skarmory",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "デルビル": {
     "no": 228,
@@ -2813,7 +3578,10 @@
     "height": 0.6,
     "weight": 10.8,
     "basename": "228",
-    "en": "Houndour"
+    "en": "Houndour",
+    "evolution": 1,
+    "from": [],
+    "to": ["ヘルガー"]
   },
   "ヘルガー": {
     "no": 229,
@@ -2824,7 +3592,10 @@
     "height": 1.4,
     "weight": 35.0,
     "basename": "229",
-    "en": "Houndoom"
+    "en": "Houndoom",
+    "evolution": 2,
+    "from": ["デルビル"],
+    "to": []
   },
   "キングドラ": {
     "no": 230,
@@ -2835,7 +3606,10 @@
     "height": 1.8,
     "weight": 152.0,
     "basename": "230",
-    "en": "Kingdra"
+    "en": "Kingdra",
+    "evolution": 3,
+    "from": ["シードラ"],
+    "to": []
   },
   "ゴマゾウ": {
     "no": 231,
@@ -2846,7 +3620,10 @@
     "height": 0.5,
     "weight": 33.5,
     "basename": "231",
-    "en": "Phanpy"
+    "en": "Phanpy",
+    "evolution": 1,
+    "from": [],
+    "to": ["ドンファン"]
   },
   "ドンファン": {
     "no": 232,
@@ -2857,7 +3634,10 @@
     "height": 1.1,
     "weight": 120.0,
     "basename": "232",
-    "en": "Donphan"
+    "en": "Donphan",
+    "evolution": 2,
+    "from": ["ゴマゾウ"],
+    "to": []
   },
   "ポリゴン2": {
     "no": 233,
@@ -2868,7 +3648,10 @@
     "height": 0.6,
     "weight": 32.5,
     "basename": "233",
-    "en": "Porygon2"
+    "en": "Porygon2",
+    "evolution": 2,
+    "from": ["ポリゴン"],
+    "to": []
   },
   "オドシシ": {
     "no": 234,
@@ -2879,7 +3662,10 @@
     "height": 1.4,
     "weight": 71.2,
     "basename": "234",
-    "en": "Stantler"
+    "en": "Stantler",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ドーブル": {
     "no": 235,
@@ -2890,7 +3676,10 @@
     "height": 1.2,
     "weight": 58.0,
     "basename": "235",
-    "en": "Smeargle"
+    "en": "Smeargle",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "バルキー": {
     "no": 236,
@@ -2901,7 +3690,10 @@
     "height": 0.7,
     "weight": 21.0,
     "basename": "236",
-    "en": "Tyrogue"
+    "en": "Tyrogue",
+    "evolution": 1,
+    "from": [],
+    "to": ["サワムラー", "エビワラー", "カポエラー"]
   },
   "カポエラー": {
     "no": 237,
@@ -2912,7 +3704,10 @@
     "height": 1.4,
     "weight": 48.0,
     "basename": "237",
-    "en": "Hitmontop"
+    "en": "Hitmontop",
+    "evolution": 2,
+    "from": ["バルキー"],
+    "to": []
   },
   "ムチュール": {
     "no": 238,
@@ -2923,7 +3718,10 @@
     "height": 0.4,
     "weight": 6.0,
     "basename": "238",
-    "en": "Smoochum"
+    "en": "Smoochum",
+    "evolution": 1,
+    "from": [],
+    "to": ["ルージュラ"]
   },
   "エレキッド": {
     "no": 239,
@@ -2934,7 +3732,10 @@
     "height": 0.6,
     "weight": 23.5,
     "basename": "239",
-    "en": "Elekid"
+    "en": "Elekid",
+    "evolution": 1,
+    "from": [],
+    "to": ["エレブー"]
   },
   "ブビィ": {
     "no": 240,
@@ -2945,7 +3746,10 @@
     "height": 0.7,
     "weight": 21.4,
     "basename": "240",
-    "en": "Magby"
+    "en": "Magby",
+    "evolution": 1,
+    "from": [],
+    "to": ["ブーバー"]
   },
   "ミルタンク": {
     "no": 241,
@@ -2956,7 +3760,10 @@
     "height": 1.2,
     "weight": 75.5,
     "basename": "241",
-    "en": "Miltank"
+    "en": "Miltank",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ハピナス": {
     "no": 242,
@@ -2967,7 +3774,10 @@
     "height": 1.5,
     "weight": 46.8,
     "basename": "242",
-    "en": "Blissey"
+    "en": "Blissey",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ライコウ": {
     "no": 243,
@@ -2978,7 +3788,10 @@
     "height": 1.9,
     "weight": 178.0,
     "basename": "243",
-    "en": "Raikou"
+    "en": "Raikou",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "エンテイ": {
     "no": 244,
@@ -2989,7 +3802,10 @@
     "height": 2.1,
     "weight": 198.0,
     "basename": "244",
-    "en": "Entei"
+    "en": "Entei",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "スイクン": {
     "no": 245,
@@ -3000,7 +3816,10 @@
     "height": 2.0,
     "weight": 187.0,
     "basename": "245",
-    "en": "Suicune"
+    "en": "Suicune",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ヨーギラス": {
     "no": 246,
@@ -3011,7 +3830,10 @@
     "height": 0.6,
     "weight": 72.0,
     "basename": "246",
-    "en": "Larvitar"
+    "en": "Larvitar",
+    "evolution": 1,
+    "from": [],
+    "to": ["サナギラス"]
   },
   "サナギラス": {
     "no": 247,
@@ -3022,7 +3844,10 @@
     "height": 1.2,
     "weight": 152.0,
     "basename": "247",
-    "en": "Pupitar"
+    "en": "Pupitar",
+    "evolution": 2,
+    "from": ["ヨーギラス"],
+    "to": ["バンギラス"]
   },
   "バンギラス": {
     "no": 248,
@@ -3033,7 +3858,10 @@
     "height": 2.0,
     "weight": 202.0,
     "basename": "248",
-    "en": "Tyranitar"
+    "en": "Tyranitar",
+    "evolution": 3,
+    "from": ["サナギラス"],
+    "to": []
   },
   "ルギア": {
     "no": 249,
@@ -3044,7 +3872,10 @@
     "height": 5.2,
     "weight": 216.0,
     "basename": "249",
-    "en": "Lugia"
+    "en": "Lugia",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ホウオウ": {
     "no": 250,
@@ -3055,7 +3886,10 @@
     "height": 3.8,
     "weight": 199.0,
     "basename": "250",
-    "en": "Ho-oh"
+    "en": "Ho-oh",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "セレビィ": {
     "no": 251,
@@ -3066,7 +3900,10 @@
     "height": 0.6,
     "weight": 5.0,
     "basename": "251",
-    "en": "Celebi"
+    "en": "Celebi",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "キモリ": {
     "no": 252,
@@ -3077,7 +3914,10 @@
     "height": 0.5,
     "weight": 5.0,
     "basename": "252",
-    "en": "Treecko"
+    "en": "Treecko",
+    "evolution": 1,
+    "from": [],
+    "to": ["ジュプトル"]
   },
   "ジュプトル": {
     "no": 253,
@@ -3088,7 +3928,10 @@
     "height": 0.9,
     "weight": 21.6,
     "basename": "253",
-    "en": "Grovyle"
+    "en": "Grovyle",
+    "evolution": 2,
+    "from": ["キモリ"],
+    "to": ["ジュカイン"]
   },
   "ジュカイン": {
     "no": 254,
@@ -3099,7 +3942,10 @@
     "height": 1.7,
     "weight": 52.2,
     "basename": "254",
-    "en": "Sceptile"
+    "en": "Sceptile",
+    "evolution": 3,
+    "from": ["ジュプトル"],
+    "to": []
   },
   "アチャモ": {
     "no": 255,
@@ -3110,7 +3956,10 @@
     "height": 0.4,
     "weight": 2.5,
     "basename": "255",
-    "en": "Torchic"
+    "en": "Torchic",
+    "evolution": 1,
+    "from": [],
+    "to": ["ワカシャモ"]
   },
   "ワカシャモ": {
     "no": 256,
@@ -3121,7 +3970,10 @@
     "height": 0.9,
     "weight": 19.5,
     "basename": "256",
-    "en": "Combusken"
+    "en": "Combusken",
+    "evolution": 2,
+    "from": ["アチャモ"],
+    "to": ["バシャーモ"]
   },
   "バシャーモ": {
     "no": 257,
@@ -3132,7 +3984,10 @@
     "height": 1.9,
     "weight": 52.0,
     "basename": "257",
-    "en": "Blaziken"
+    "en": "Blaziken",
+    "evolution": 3,
+    "from": ["ワカシャモ"],
+    "to": []
   },
   "ミズゴロウ": {
     "no": 258,
@@ -3143,7 +3998,10 @@
     "height": 0.4,
     "weight": 7.6,
     "basename": "258",
-    "en": "Mudkip"
+    "en": "Mudkip",
+    "evolution": 1,
+    "from": [],
+    "to": ["ヌマクロー"]
   },
   "ヌマクロー": {
     "no": 259,
@@ -3154,7 +4012,10 @@
     "height": 0.7,
     "weight": 28.0,
     "basename": "259",
-    "en": "Marshtomp"
+    "en": "Marshtomp",
+    "evolution": 2,
+    "from": ["ミズゴロウ"],
+    "to": ["ラグラージ"]
   },
   "ラグラージ": {
     "no": 260,
@@ -3165,7 +4026,10 @@
     "height": 1.5,
     "weight": 81.9,
     "basename": "260",
-    "en": "Swampert"
+    "en": "Swampert",
+    "evolution": 3,
+    "from": ["ヌマクロー"],
+    "to": []
   },
   "ポチエナ": {
     "no": 261,
@@ -3176,7 +4040,10 @@
     "height": 0.5,
     "weight": 13.6,
     "basename": "261",
-    "en": "Poochyena"
+    "en": "Poochyena",
+    "evolution": 1,
+    "from": [],
+    "to": ["グラエナ"]
   },
   "グラエナ": {
     "no": 262,
@@ -3187,7 +4054,10 @@
     "height": 1.0,
     "weight": 37.0,
     "basename": "262",
-    "en": "Mightyena"
+    "en": "Mightyena",
+    "evolution": 2,
+    "from": ["ポチエナ"],
+    "to": []
   },
   "ジグザグマ": {
     "no": 263,
@@ -3198,7 +4068,10 @@
     "height": 0.4,
     "weight": 17.5,
     "basename": "263",
-    "en": "Zigzagoon"
+    "en": "Zigzagoon",
+    "evolution": 1,
+    "from": [],
+    "to": ["マッスグマ"]
   },
   "マッスグマ": {
     "no": 264,
@@ -3209,7 +4082,10 @@
     "height": 0.5,
     "weight": 32.5,
     "basename": "264",
-    "en": "Linoone"
+    "en": "Linoone",
+    "evolution": 2,
+    "from": ["ジグザグマ"],
+    "to": []
   },
   "ケムッソ": {
     "no": 265,
@@ -3220,7 +4096,10 @@
     "height": 0.3,
     "weight": 3.6,
     "basename": "265",
-    "en": "Wurmple"
+    "en": "Wurmple",
+    "evolution": 1,
+    "from": [],
+    "to": ["カラサリス", "マユルド"]
   },
   "カラサリス": {
     "no": 266,
@@ -3231,7 +4110,10 @@
     "height": 0.6,
     "weight": 10.0,
     "basename": "266",
-    "en": "Silcoon"
+    "en": "Silcoon",
+    "evolution": 2,
+    "from": ["ケムッソ"],
+    "to": ["アゲハント"]
   },
   "アゲハント": {
     "no": 267,
@@ -3242,7 +4124,10 @@
     "height": 1.0,
     "weight": 28.4,
     "basename": "267",
-    "en": "Beautifly"
+    "en": "Beautifly",
+    "evolution": 3,
+    "from": ["カラサリス"],
+    "to": []
   },
   "マユルド": {
     "no": 268,
@@ -3253,7 +4138,10 @@
     "height": 0.7,
     "weight": 11.5,
     "basename": "268",
-    "en": "Cascoon"
+    "en": "Cascoon",
+    "evolution": 2,
+    "from": ["ケムッソ"],
+    "to": ["ドクケイル"]
   },
   "ドクケイル": {
     "no": 269,
@@ -3264,7 +4152,10 @@
     "height": 1.2,
     "weight": 31.6,
     "basename": "269",
-    "en": "Dustox"
+    "en": "Dustox",
+    "evolution": 3,
+    "from": ["マユルド"],
+    "to": []
   },
   "ハスボー": {
     "no": 270,
@@ -3275,7 +4166,10 @@
     "height": 0.5,
     "weight": 2.6,
     "basename": "270",
-    "en": "Lotad"
+    "en": "Lotad",
+    "evolution": 1,
+    "from": [],
+    "to": ["ハスブレロ"]
   },
   "ハスブレロ": {
     "no": 271,
@@ -3286,7 +4180,10 @@
     "height": 1.2,
     "weight": 32.5,
     "basename": "271",
-    "en": "Lombre"
+    "en": "Lombre",
+    "evolution": 2,
+    "from": ["ハスボー"],
+    "to": ["ルンパッパ"]
   },
   "ルンパッパ": {
     "no": 272,
@@ -3297,7 +4194,10 @@
     "height": 1.5,
     "weight": 55.0,
     "basename": "272",
-    "en": "Ludicolo"
+    "en": "Ludicolo",
+    "evolution": 3,
+    "from": ["ハスブレロ"],
+    "to": []
   },
   "タネボー": {
     "no": 273,
@@ -3308,7 +4208,10 @@
     "height": 0.5,
     "weight": 4.0,
     "basename": "273",
-    "en": "Seedot"
+    "en": "Seedot",
+    "evolution": 1,
+    "from": [],
+    "to": ["コノハナ"]
   },
   "コノハナ": {
     "no": 274,
@@ -3319,7 +4222,10 @@
     "height": 1.0,
     "weight": 28.0,
     "basename": "274",
-    "en": "Nuzleaf"
+    "en": "Nuzleaf",
+    "evolution": 2,
+    "from": ["タネボー"],
+    "to": ["ダーテング"]
   },
   "ダーテング": {
     "no": 275,
@@ -3330,7 +4236,10 @@
     "height": 1.3,
     "weight": 59.6,
     "basename": "275",
-    "en": "Shiftry"
+    "en": "Shiftry",
+    "evolution": 3,
+    "from": ["コノハナ"],
+    "to": []
   },
   "スバメ": {
     "no": 276,
@@ -3341,7 +4250,10 @@
     "height": 0.3,
     "weight": 2.3,
     "basename": "276",
-    "en": "Taillow"
+    "en": "Taillow",
+    "evolution": 1,
+    "from": [],
+    "to": ["オオスバメ"]
   },
   "オオスバメ": {
     "no": 277,
@@ -3352,7 +4264,10 @@
     "height": 0.7,
     "weight": 19.8,
     "basename": "277",
-    "en": "Swellow"
+    "en": "Swellow",
+    "evolution": 2,
+    "from": ["スバメ"],
+    "to": []
   },
   "キャモメ": {
     "no": 278,
@@ -3363,7 +4278,10 @@
     "height": 0.6,
     "weight": 9.5,
     "basename": "278",
-    "en": "Wingull"
+    "en": "Wingull",
+    "evolution": 1,
+    "from": [],
+    "to": ["ペリッパー"]
   },
   "ペリッパー": {
     "no": 279,
@@ -3374,7 +4292,10 @@
     "height": 1.2,
     "weight": 28.0,
     "basename": "279",
-    "en": "Pelipper"
+    "en": "Pelipper",
+    "evolution": 2,
+    "from": ["キャモメ"],
+    "to": []
   },
   "ラルトス": {
     "no": 280,
@@ -3385,7 +4306,10 @@
     "height": 0.4,
     "weight": 6.6,
     "basename": "280",
-    "en": "Ralts"
+    "en": "Ralts",
+    "evolution": 1,
+    "from": [],
+    "to": ["キルリア"]
   },
   "キルリア": {
     "no": 281,
@@ -3396,7 +4320,10 @@
     "height": 0.8,
     "weight": 20.2,
     "basename": "281",
-    "en": "Kirlia"
+    "en": "Kirlia",
+    "evolution": 2,
+    "from": ["ラルトス"],
+    "to": ["サーナイト"]
   },
   "サーナイト": {
     "no": 282,
@@ -3407,7 +4334,10 @@
     "height": 1.6,
     "weight": 48.4,
     "basename": "282",
-    "en": "Gardevoir"
+    "en": "Gardevoir",
+    "evolution": 3,
+    "from": ["キルリア"],
+    "to": []
   },
   "アメタマ": {
     "no": 283,
@@ -3418,7 +4348,10 @@
     "height": 0.5,
     "weight": 1.7,
     "basename": "283",
-    "en": "Surskit"
+    "en": "Surskit",
+    "evolution": 1,
+    "from": [],
+    "to": ["アメモース"]
   },
   "アメモース": {
     "no": 284,
@@ -3429,7 +4362,10 @@
     "height": 0.8,
     "weight": 3.6,
     "basename": "284",
-    "en": "Masquerain"
+    "en": "Masquerain",
+    "evolution": 2,
+    "from": ["アメタマ"],
+    "to": []
   },
   "キノココ": {
     "no": 285,
@@ -3440,7 +4376,10 @@
     "height": 0.4,
     "weight": 4.5,
     "basename": "285",
-    "en": "Shroomish"
+    "en": "Shroomish",
+    "evolution": 1,
+    "from": [],
+    "to": ["キノガッサ"]
   },
   "キノガッサ": {
     "no": 286,
@@ -3451,7 +4390,10 @@
     "height": 1.2,
     "weight": 39.2,
     "basename": "286",
-    "en": "Breloom"
+    "en": "Breloom",
+    "evolution": 2,
+    "from": ["キノココ"],
+    "to": []
   },
   "ナマケロ": {
     "no": 287,
@@ -3462,7 +4404,10 @@
     "height": 0.8,
     "weight": 24.0,
     "basename": "287",
-    "en": "Slakoth"
+    "en": "Slakoth",
+    "evolution": 1,
+    "from": [],
+    "to": ["ヤルキモノ"]
   },
   "ヤルキモノ": {
     "no": 288,
@@ -3473,7 +4418,10 @@
     "height": 1.4,
     "weight": 46.5,
     "basename": "288",
-    "en": "Vigoroth"
+    "en": "Vigoroth",
+    "evolution": 2,
+    "from": ["ナマケロ"],
+    "to": ["ケッキング"]
   },
   "ケッキング": {
     "no": 289,
@@ -3484,7 +4432,10 @@
     "height": 2.0,
     "weight": 130.5,
     "basename": "289",
-    "en": "Slaking"
+    "en": "Slaking",
+    "evolution": 3,
+    "from": ["ヤルキモノ"],
+    "to": []
   },
   "ツチニン": {
     "no": 290,
@@ -3495,7 +4446,10 @@
     "height": 0.5,
     "weight": 5.5,
     "basename": "290",
-    "en": "Nincada"
+    "en": "Nincada",
+    "evolution": 1,
+    "from": [],
+    "to": ["テッカニン", "ヌケニン"]
   },
   "テッカニン": {
     "no": 291,
@@ -3506,7 +4460,10 @@
     "height": 0.8,
     "weight": 12.0,
     "basename": "291",
-    "en": "Ninjask"
+    "en": "Ninjask",
+    "evolution": 2,
+    "from": ["ツチニン"],
+    "to": []
   },
   "ヌケニン": {
     "no": 292,
@@ -3517,7 +4474,10 @@
     "height": 0.8,
     "weight": 1.2,
     "basename": "292",
-    "en": "Shedinja"
+    "en": "Shedinja",
+    "evolution": 2,
+    "from": ["ツチニン"],
+    "to": []
   },
   "ゴニョニョ": {
     "no": 293,
@@ -3528,7 +4488,10 @@
     "height": 0.6,
     "weight": 16.3,
     "basename": "293",
-    "en": "Whismur"
+    "en": "Whismur",
+    "evolution": 1,
+    "from": [],
+    "to": ["ドゴーム"]
   },
   "ドゴーム": {
     "no": 294,
@@ -3539,7 +4502,10 @@
     "height": 1.0,
     "weight": 40.5,
     "basename": "294",
-    "en": "Loudred"
+    "en": "Loudred",
+    "evolution": 2,
+    "from": ["ゴニョニョ"],
+    "to": ["バクオング"]
   },
   "バクオング": {
     "no": 295,
@@ -3550,7 +4516,10 @@
     "height": 1.5,
     "weight": 84.0,
     "basename": "295",
-    "en": "Exploud"
+    "en": "Exploud",
+    "evolution": 3,
+    "from": ["ドゴーム"],
+    "to": []
   },
   "マクノシタ": {
     "no": 296,
@@ -3561,7 +4530,10 @@
     "height": 1.0,
     "weight": 86.4,
     "basename": "296",
-    "en": "Makuhita"
+    "en": "Makuhita",
+    "evolution": 1,
+    "from": [],
+    "to": ["ハリテヤマ"]
   },
   "ハリテヤマ": {
     "no": 297,
@@ -3572,7 +4544,10 @@
     "height": 2.3,
     "weight": 253.8,
     "basename": "297",
-    "en": "Hariyama"
+    "en": "Hariyama",
+    "evolution": 2,
+    "from": ["マクノシタ"],
+    "to": []
   },
   "ルリリ": {
     "no": 298,
@@ -3583,7 +4558,10 @@
     "height": 0.2,
     "weight": 2.0,
     "basename": "298",
-    "en": "Azurill"
+    "en": "Azurill",
+    "evolution": 1,
+    "from": [],
+    "to": ["マリル"]
   },
   "ノズパス": {
     "no": 299,
@@ -3594,7 +4572,10 @@
     "height": 1.0,
     "weight": 97.0,
     "basename": "299",
-    "en": "Nosepass"
+    "en": "Nosepass",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "エネコ": {
     "no": 300,
@@ -3605,7 +4586,10 @@
     "height": 0.6,
     "weight": 11.0,
     "basename": "300",
-    "en": "Skitty"
+    "en": "Skitty",
+    "evolution": 1,
+    "from": [],
+    "to": ["エネコロロ"]
   },
   "エネコロロ": {
     "no": 301,
@@ -3616,7 +4600,10 @@
     "height": 1.1,
     "weight": 32.6,
     "basename": "301",
-    "en": "Delcatty"
+    "en": "Delcatty",
+    "evolution": 2,
+    "from": ["エネコ"],
+    "to": []
   },
   "ヤミラミ": {
     "no": 302,
@@ -3627,7 +4614,10 @@
     "height": 0.5,
     "weight": 11.0,
     "basename": "302",
-    "en": "Sableye"
+    "en": "Sableye",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "クチート": {
     "no": 303,
@@ -3638,7 +4628,10 @@
     "height": 0.6,
     "weight": 11.5,
     "basename": "303",
-    "en": "Mawile"
+    "en": "Mawile",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ココドラ": {
     "no": 304,
@@ -3649,7 +4642,10 @@
     "height": 0.4,
     "weight": 60.0,
     "basename": "304",
-    "en": "Aron"
+    "en": "Aron",
+    "evolution": 1,
+    "from": [],
+    "to": ["コドラ"]
   },
   "コドラ": {
     "no": 305,
@@ -3660,7 +4656,10 @@
     "height": 0.9,
     "weight": 120.0,
     "basename": "305",
-    "en": "Lairon"
+    "en": "Lairon",
+    "evolution": 2,
+    "from": ["ココドラ"],
+    "to": ["ボスゴドラ"]
   },
   "ボスゴドラ": {
     "no": 306,
@@ -3671,7 +4670,10 @@
     "height": 2.1,
     "weight": 360.0,
     "basename": "306",
-    "en": "Aggron"
+    "en": "Aggron",
+    "evolution": 3,
+    "from": ["コドラ"],
+    "to": []
   },
   "アサナン": {
     "no": 307,
@@ -3682,7 +4684,10 @@
     "height": 0.6,
     "weight": 11.2,
     "basename": "307",
-    "en": "Meditite"
+    "en": "Meditite",
+    "evolution": 1,
+    "from": [],
+    "to": ["チャーレム"]
   },
   "チャーレム": {
     "no": 308,
@@ -3693,7 +4698,10 @@
     "height": 1.3,
     "weight": 31.5,
     "basename": "308",
-    "en": "Medicham"
+    "en": "Medicham",
+    "evolution": 2,
+    "from": ["アサナン"],
+    "to": []
   },
   "ラクライ": {
     "no": 309,
@@ -3704,7 +4712,10 @@
     "height": 0.6,
     "weight": 15.2,
     "basename": "309",
-    "en": "Electrike"
+    "en": "Electrike",
+    "evolution": 1,
+    "from": [],
+    "to": ["ライボルト"]
   },
   "ライボルト": {
     "no": 310,
@@ -3715,7 +4726,10 @@
     "height": 1.5,
     "weight": 40.2,
     "basename": "310",
-    "en": "Manectric"
+    "en": "Manectric",
+    "evolution": 2,
+    "from": ["ラクライ"],
+    "to": []
   },
   "プラスル": {
     "no": 311,
@@ -3726,7 +4740,10 @@
     "height": 0.4,
     "weight": 4.2,
     "basename": "311",
-    "en": "Plusle"
+    "en": "Plusle",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "マイナン": {
     "no": 312,
@@ -3737,7 +4754,10 @@
     "height": 0.4,
     "weight": 4.2,
     "basename": "312",
-    "en": "Minun"
+    "en": "Minun",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "バルビート": {
     "no": 313,
@@ -3748,7 +4768,10 @@
     "height": 0.7,
     "weight": 17.7,
     "basename": "313",
-    "en": "Volbeat"
+    "en": "Volbeat",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "イルミーゼ": {
     "no": 314,
@@ -3759,7 +4782,10 @@
     "height": 0.6,
     "weight": 17.7,
     "basename": "314",
-    "en": "Illumise"
+    "en": "Illumise",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ロゼリア": {
     "no": 315,
@@ -3770,7 +4796,10 @@
     "height": 0.3,
     "weight": 2.0,
     "basename": "315",
-    "en": "Roselia"
+    "en": "Roselia",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ゴクリン": {
     "no": 316,
@@ -3781,7 +4810,10 @@
     "height": 0.4,
     "weight": 10.3,
     "basename": "316",
-    "en": "Gulpin"
+    "en": "Gulpin",
+    "evolution": 1,
+    "from": [],
+    "to": ["マルノーム"]
   },
   "マルノーム": {
     "no": 317,
@@ -3792,7 +4824,10 @@
     "height": 1.7,
     "weight": 80.0,
     "basename": "317",
-    "en": "Swalot"
+    "en": "Swalot",
+    "evolution": 2,
+    "from": ["ゴクリン"],
+    "to": []
   },
   "キバニア": {
     "no": 318,
@@ -3803,7 +4838,10 @@
     "height": 0.8,
     "weight": 20.8,
     "basename": "318",
-    "en": "Carvanha"
+    "en": "Carvanha",
+    "evolution": 1,
+    "from": [],
+    "to": ["サメハダー"]
   },
   "サメハダー": {
     "no": 319,
@@ -3814,7 +4852,10 @@
     "height": 1.8,
     "weight": 88.8,
     "basename": "319",
-    "en": "Sharpedo"
+    "en": "Sharpedo",
+    "evolution": 2,
+    "from": ["キバニア"],
+    "to": []
   },
   "ホエルコ": {
     "no": 320,
@@ -3825,7 +4866,10 @@
     "height": 2.0,
     "weight": 130.0,
     "basename": "320",
-    "en": "Wailmer"
+    "en": "Wailmer",
+    "evolution": 1,
+    "from": [],
+    "to": ["ホエルオー"]
   },
   "ホエルオー": {
     "no": 321,
@@ -3836,7 +4880,10 @@
     "height": 14.5,
     "weight": 398.0,
     "basename": "321",
-    "en": "Wailord"
+    "en": "Wailord",
+    "evolution": 2,
+    "from": ["ホエルコ"],
+    "to": []
   },
   "ドンメル": {
     "no": 322,
@@ -3847,7 +4894,10 @@
     "height": 0.7,
     "weight": 24.0,
     "basename": "322",
-    "en": "Numel"
+    "en": "Numel",
+    "evolution": 1,
+    "from": [],
+    "to": ["バクーダ"]
   },
   "バクーダ": {
     "no": 323,
@@ -3858,7 +4908,10 @@
     "height": 1.9,
     "weight": 220.0,
     "basename": "323",
-    "en": "Camerupt"
+    "en": "Camerupt",
+    "evolution": 2,
+    "from": ["ドンメル"],
+    "to": []
   },
   "コータス": {
     "no": 324,
@@ -3869,7 +4922,10 @@
     "height": 0.5,
     "weight": 80.4,
     "basename": "324",
-    "en": "Torkoal"
+    "en": "Torkoal",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "バネブー": {
     "no": 325,
@@ -3880,7 +4936,10 @@
     "height": 0.7,
     "weight": 30.6,
     "basename": "325",
-    "en": "Spoink"
+    "en": "Spoink",
+    "evolution": 1,
+    "from": [],
+    "to": ["ブーピッグ"]
   },
   "ブーピッグ": {
     "no": 326,
@@ -3891,7 +4950,10 @@
     "height": 0.9,
     "weight": 71.5,
     "basename": "326",
-    "en": "Grumpig"
+    "en": "Grumpig",
+    "evolution": 2,
+    "from": ["バネブー"],
+    "to": []
   },
   "パッチール": {
     "no": 327,
@@ -3902,7 +4964,10 @@
     "height": 1.1,
     "weight": 5.0,
     "basename": "327",
-    "en": "Spinda"
+    "en": "Spinda",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ナックラー": {
     "no": 328,
@@ -3913,7 +4978,10 @@
     "height": 0.7,
     "weight": 15.0,
     "basename": "328",
-    "en": "Trapinch"
+    "en": "Trapinch",
+    "evolution": 1,
+    "from": [],
+    "to": ["ビブラーバ"]
   },
   "ビブラーバ": {
     "no": 329,
@@ -3924,7 +4992,10 @@
     "height": 1.1,
     "weight": 15.3,
     "basename": "329",
-    "en": "Vibrava"
+    "en": "Vibrava",
+    "evolution": 2,
+    "from": ["ナックラー"],
+    "to": ["フライゴン"]
   },
   "フライゴン": {
     "no": 330,
@@ -3935,7 +5006,10 @@
     "height": 2.0,
     "weight": 82.0,
     "basename": "330",
-    "en": "Flygon"
+    "en": "Flygon",
+    "evolution": 3,
+    "from": ["ビブラーバ"],
+    "to": []
   },
   "サボネア": {
     "no": 331,
@@ -3946,7 +5020,10 @@
     "height": 0.4,
     "weight": 51.3,
     "basename": "331",
-    "en": "Cacnea"
+    "en": "Cacnea",
+    "evolution": 1,
+    "from": [],
+    "to": ["ノクタス"]
   },
   "ノクタス": {
     "no": 332,
@@ -3957,7 +5034,10 @@
     "height": 1.3,
     "weight": 77.4,
     "basename": "332",
-    "en": "Cacturne"
+    "en": "Cacturne",
+    "evolution": 2,
+    "from": ["サボネア"],
+    "to": []
   },
   "チルット": {
     "no": 333,
@@ -3968,7 +5048,10 @@
     "height": 0.4,
     "weight": 1.2,
     "basename": "333",
-    "en": "Swablu"
+    "en": "Swablu",
+    "evolution": 1,
+    "from": [],
+    "to": ["チルタリス"]
   },
   "チルタリス": {
     "no": 334,
@@ -3979,7 +5062,10 @@
     "height": 1.1,
     "weight": 20.6,
     "basename": "334",
-    "en": "Altaria"
+    "en": "Altaria",
+    "evolution": 2,
+    "from": ["チルット"],
+    "to": []
   },
   "ザングース": {
     "no": 335,
@@ -3990,7 +5076,10 @@
     "height": 1.3,
     "weight": 40.3,
     "basename": "335",
-    "en": "Zangoose"
+    "en": "Zangoose",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ハブネーク": {
     "no": 336,
@@ -4001,7 +5090,10 @@
     "height": 2.7,
     "weight": 52.5,
     "basename": "336",
-    "en": "Seviper"
+    "en": "Seviper",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ルナトーン": {
     "no": 337,
@@ -4012,7 +5104,10 @@
     "height": 1.0,
     "weight": 168.0,
     "basename": "337",
-    "en": "Lunatone"
+    "en": "Lunatone",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ソルロック": {
     "no": 338,
@@ -4023,7 +5118,10 @@
     "height": 1.2,
     "weight": 154.0,
     "basename": "338",
-    "en": "Solrock"
+    "en": "Solrock",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ドジョッチ": {
     "no": 339,
@@ -4034,7 +5132,10 @@
     "height": 0.4,
     "weight": 1.9,
     "basename": "339",
-    "en": "Barboach"
+    "en": "Barboach",
+    "evolution": 1,
+    "from": [],
+    "to": ["ナマズン"]
   },
   "ナマズン": {
     "no": 340,
@@ -4045,7 +5146,10 @@
     "height": 0.9,
     "weight": 23.6,
     "basename": "340",
-    "en": "Whiscash"
+    "en": "Whiscash",
+    "evolution": 2,
+    "from": ["ドジョッチ"],
+    "to": []
   },
   "ヘイガニ": {
     "no": 341,
@@ -4056,7 +5160,10 @@
     "height": 0.6,
     "weight": 11.5,
     "basename": "341",
-    "en": "Corphish"
+    "en": "Corphish",
+    "evolution": 1,
+    "from": [],
+    "to": ["シザリガー"]
   },
   "シザリガー": {
     "no": 342,
@@ -4067,7 +5174,10 @@
     "height": 1.1,
     "weight": 32.8,
     "basename": "342",
-    "en": "Crawdaunt"
+    "en": "Crawdaunt",
+    "evolution": 2,
+    "from": ["ヘイガニ"],
+    "to": []
   },
   "ヤジロン": {
     "no": 343,
@@ -4078,7 +5188,10 @@
     "height": 0.5,
     "weight": 21.5,
     "basename": "343",
-    "en": "Baltoy"
+    "en": "Baltoy",
+    "evolution": 1,
+    "from": [],
+    "to": ["ネンドール"]
   },
   "ネンドール": {
     "no": 344,
@@ -4089,7 +5202,10 @@
     "height": 1.5,
     "weight": 108.0,
     "basename": "344",
-    "en": "Claydol"
+    "en": "Claydol",
+    "evolution": 2,
+    "from": ["ヤジロン"],
+    "to": []
   },
   "リリーラ": {
     "no": 345,
@@ -4100,7 +5216,10 @@
     "height": 1.0,
     "weight": 23.8,
     "basename": "345",
-    "en": "Lileep"
+    "en": "Lileep",
+    "evolution": 1,
+    "from": [],
+    "to": ["ユレイドル"]
   },
   "ユレイドル": {
     "no": 346,
@@ -4111,7 +5230,10 @@
     "height": 1.5,
     "weight": 60.4,
     "basename": "346",
-    "en": "Cradily"
+    "en": "Cradily",
+    "evolution": 2,
+    "from": ["リリーラ"],
+    "to": []
   },
   "アノプス": {
     "no": 347,
@@ -4122,7 +5244,10 @@
     "height": 0.7,
     "weight": 12.5,
     "basename": "347",
-    "en": "Anorith"
+    "en": "Anorith",
+    "evolution": 1,
+    "from": [],
+    "to": ["アーマルド"]
   },
   "アーマルド": {
     "no": 348,
@@ -4133,7 +5258,10 @@
     "height": 1.5,
     "weight": 68.2,
     "basename": "348",
-    "en": "Armaldo"
+    "en": "Armaldo",
+    "evolution": 2,
+    "from": ["アノプス"],
+    "to": []
   },
   "ヒンバス": {
     "no": 349,
@@ -4144,7 +5272,10 @@
     "height": 0.6,
     "weight": 7.4,
     "basename": "349",
-    "en": "Feebas"
+    "en": "Feebas",
+    "evolution": 1,
+    "from": [],
+    "to": ["ミロカロス"]
   },
   "ミロカロス": {
     "no": 350,
@@ -4155,7 +5286,10 @@
     "height": 6.2,
     "weight": 162.0,
     "basename": "350",
-    "en": "Milotic"
+    "en": "Milotic",
+    "evolution": 2,
+    "from": ["ヒンバス"],
+    "to": []
   },
   "ポワルン": {
     "no": 351,
@@ -4166,7 +5300,10 @@
     "height": 0.3,
     "weight": 0.8,
     "basename": "351",
-    "en": "Castform"
+    "en": "Castform",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ポワルン(H)": {
     "no": 351,
@@ -4177,7 +5314,10 @@
     "height": 0.3,
     "weight": 0.8,
     "basename": "351(H)",
-    "en": "Castform(H)"
+    "en": "Castform(H)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ポワルン(R)": {
     "no": 351,
@@ -4188,7 +5328,10 @@
     "height": 0.3,
     "weight": 0.8,
     "basename": "351(R)",
-    "en": "Castform(R)"
+    "en": "Castform(R)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ポワルン(S)": {
     "no": 351,
@@ -4199,7 +5342,10 @@
     "height": 0.3,
     "weight": 0.8,
     "basename": "351(S)",
-    "en": "Castform(S)"
+    "en": "Castform(S)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "カクレオン": {
     "no": 352,
@@ -4210,7 +5356,10 @@
     "height": 1.0,
     "weight": 22.0,
     "basename": "352",
-    "en": "Kecleon"
+    "en": "Kecleon",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "カゲボウズ": {
     "no": 353,
@@ -4221,7 +5370,10 @@
     "height": 0.6,
     "weight": 2.3,
     "basename": "353",
-    "en": "Shuppet"
+    "en": "Shuppet",
+    "evolution": 1,
+    "from": [],
+    "to": ["ジュペッタ"]
   },
   "ジュペッタ": {
     "no": 354,
@@ -4232,7 +5384,10 @@
     "height": 1.1,
     "weight": 12.5,
     "basename": "354",
-    "en": "Banette"
+    "en": "Banette",
+    "evolution": 2,
+    "from": ["カゲボウズ"],
+    "to": []
   },
   "ヨマワル": {
     "no": 355,
@@ -4243,7 +5398,10 @@
     "height": 0.8,
     "weight": 15.0,
     "basename": "355",
-    "en": "Duskull"
+    "en": "Duskull",
+    "evolution": 1,
+    "from": [],
+    "to": ["サマヨール"]
   },
   "サマヨール": {
     "no": 356,
@@ -4254,7 +5412,10 @@
     "height": 1.6,
     "weight": 30.6,
     "basename": "356",
-    "en": "Dusclops"
+    "en": "Dusclops",
+    "evolution": 2,
+    "from": ["ヨマワル"],
+    "to": []
   },
   "トロピウス": {
     "no": 357,
@@ -4265,7 +5426,10 @@
     "height": 2.0,
     "weight": 100.0,
     "basename": "357",
-    "en": "Tropius"
+    "en": "Tropius",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "チリーン": {
     "no": 358,
@@ -4276,7 +5440,10 @@
     "height": 0.6,
     "weight": 1.0,
     "basename": "358",
-    "en": "Chimecho"
+    "en": "Chimecho",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "アブソル": {
     "no": 359,
@@ -4287,7 +5454,10 @@
     "height": 1.2,
     "weight": 47.0,
     "basename": "359",
-    "en": "Absol"
+    "en": "Absol",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ソーナノ": {
     "no": 360,
@@ -4298,7 +5468,10 @@
     "height": 0.6,
     "weight": 14.0,
     "basename": "360",
-    "en": "Wynaut"
+    "en": "Wynaut",
+    "evolution": 1,
+    "from": [],
+    "to": ["ソーナンス"]
   },
   "ユキワラシ": {
     "no": 361,
@@ -4309,7 +5482,10 @@
     "height": 0.7,
     "weight": 16.8,
     "basename": "361",
-    "en": "Snorunt"
+    "en": "Snorunt",
+    "evolution": 1,
+    "from": [],
+    "to": ["オニゴーリ"]
   },
   "オニゴーリ": {
     "no": 362,
@@ -4320,7 +5496,10 @@
     "height": 1.5,
     "weight": 256.5,
     "basename": "362",
-    "en": "Glalie"
+    "en": "Glalie",
+    "evolution": 2,
+    "from": ["ユキワラシ"],
+    "to": []
   },
   "タマザラシ": {
     "no": 363,
@@ -4331,7 +5510,10 @@
     "height": 0.8,
     "weight": 39.5,
     "basename": "363",
-    "en": "Spheal"
+    "en": "Spheal",
+    "evolution": 1,
+    "from": [],
+    "to": ["トドグラー"]
   },
   "トドグラー": {
     "no": 364,
@@ -4342,7 +5524,10 @@
     "height": 1.1,
     "weight": 87.6,
     "basename": "364",
-    "en": "Sealeo"
+    "en": "Sealeo",
+    "evolution": 2,
+    "from": ["タマザラシ"],
+    "to": ["トドゼルガ"]
   },
   "トドゼルガ": {
     "no": 365,
@@ -4353,7 +5538,10 @@
     "height": 1.4,
     "weight": 150.6,
     "basename": "365",
-    "en": "Walrein"
+    "en": "Walrein",
+    "evolution": 3,
+    "from": ["トドグラー"],
+    "to": []
   },
   "パールル": {
     "no": 366,
@@ -4364,7 +5552,10 @@
     "height": 0.4,
     "weight": 52.5,
     "basename": "366",
-    "en": "Clamperl"
+    "en": "Clamperl",
+    "evolution": 1,
+    "from": [],
+    "to": ["ハンテール", "サクラビス"]
   },
   "ハンテール": {
     "no": 367,
@@ -4375,7 +5566,10 @@
     "height": 1.7,
     "weight": 27.0,
     "basename": "367",
-    "en": "Huntail"
+    "en": "Huntail",
+    "evolution": 2,
+    "from": ["パールル"],
+    "to": []
   },
   "サクラビス": {
     "no": 368,
@@ -4386,7 +5580,10 @@
     "height": 1.8,
     "weight": 22.6,
     "basename": "368",
-    "en": "Gorebyss"
+    "en": "Gorebyss",
+    "evolution": 2,
+    "from": ["パールル"],
+    "to": []
   },
   "ジーランス": {
     "no": 369,
@@ -4397,7 +5594,10 @@
     "height": 1.0,
     "weight": 23.4,
     "basename": "369",
-    "en": "Relicanth"
+    "en": "Relicanth",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ラブカス": {
     "no": 370,
@@ -4408,7 +5608,10 @@
     "height": 0.6,
     "weight": 8.7,
     "basename": "370",
-    "en": "Luvdisc"
+    "en": "Luvdisc",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "タツベイ": {
     "no": 371,
@@ -4419,7 +5622,10 @@
     "height": 0.6,
     "weight": 42.1,
     "basename": "371",
-    "en": "Bagon"
+    "en": "Bagon",
+    "evolution": 1,
+    "from": [],
+    "to": ["コモルー"]
   },
   "コモルー": {
     "no": 372,
@@ -4430,7 +5636,10 @@
     "height": 1.1,
     "weight": 110.5,
     "basename": "372",
-    "en": "Shelgon"
+    "en": "Shelgon",
+    "evolution": 2,
+    "from": ["タツベイ"],
+    "to": ["ボーマンダ"]
   },
   "ボーマンダ": {
     "no": 373,
@@ -4441,7 +5650,10 @@
     "height": 1.5,
     "weight": 102.6,
     "basename": "373",
-    "en": "Salamence"
+    "en": "Salamence",
+    "evolution": 3,
+    "from": ["コモルー"],
+    "to": []
   },
   "ダンバル": {
     "no": 374,
@@ -4452,7 +5664,10 @@
     "height": 0.6,
     "weight": 95.2,
     "basename": "374",
-    "en": "Beldum"
+    "en": "Beldum",
+    "evolution": 1,
+    "from": [],
+    "to": ["メタング"]
   },
   "メタング": {
     "no": 375,
@@ -4463,7 +5678,10 @@
     "height": 1.2,
     "weight": 202.5,
     "basename": "375",
-    "en": "Metang"
+    "en": "Metang",
+    "evolution": 2,
+    "from": ["ダンバル"],
+    "to": ["メタグロス"]
   },
   "メタグロス": {
     "no": 376,
@@ -4474,7 +5692,10 @@
     "height": 1.6,
     "weight": 550.0,
     "basename": "376",
-    "en": "Metagross"
+    "en": "Metagross",
+    "evolution": 3,
+    "from": ["メタング"],
+    "to": []
   },
   "レジロック": {
     "no": 377,
@@ -4485,7 +5706,10 @@
     "height": 1.7,
     "weight": 230.0,
     "basename": "377",
-    "en": "Regirock"
+    "en": "Regirock",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "レジアイス": {
     "no": 378,
@@ -4496,7 +5720,10 @@
     "height": 1.8,
     "weight": 175.0,
     "basename": "378",
-    "en": "Regice"
+    "en": "Regice",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "レジスチル": {
     "no": 379,
@@ -4507,7 +5734,10 @@
     "height": 1.9,
     "weight": 205.0,
     "basename": "379",
-    "en": "Registeel"
+    "en": "Registeel",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ラティアス": {
     "no": 380,
@@ -4518,7 +5748,10 @@
     "height": 1.4,
     "weight": 40.0,
     "basename": "380",
-    "en": "Latias"
+    "en": "Latias",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ラティオス": {
     "no": 381,
@@ -4529,7 +5762,10 @@
     "height": 2.0,
     "weight": 60.0,
     "basename": "381",
-    "en": "Latios"
+    "en": "Latios",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "カイオーガ": {
     "no": 382,
@@ -4540,7 +5776,10 @@
     "height": 4.5,
     "weight": 352.0,
     "basename": "382",
-    "en": "Kyogre"
+    "en": "Kyogre",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "グラードン": {
     "no": 383,
@@ -4551,7 +5790,10 @@
     "height": 3.5,
     "weight": 950.0,
     "basename": "383",
-    "en": "Groudon"
+    "en": "Groudon",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "レックウザ": {
     "no": 384,
@@ -4562,7 +5804,10 @@
     "height": 7.0,
     "weight": 206.5,
     "basename": "384",
-    "en": "Rayquaza"
+    "en": "Rayquaza",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "ジラーチ": {
     "no": 385,
@@ -4573,7 +5818,10 @@
     "height": 0.3,
     "weight": 1.1,
     "basename": "385",
-    "en": "Jirachi"
+    "en": "Jirachi",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "デオキシス": {
     "no": 386,
@@ -4584,7 +5832,10 @@
     "height": 1.7,
     "weight": 60.8,
     "basename": "386",
-    "en": "Deoxys"
+    "en": "Deoxys",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "デオキシス(A)": {
     "no": 386,
@@ -4595,7 +5846,10 @@
     "height": 1.7,
     "weight": 60.8,
     "basename": "386(A)",
-    "en": "Deoxys(A)"
+    "en": "Deoxys(A)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "デオキシス(D)": {
     "no": 386,
@@ -4606,7 +5860,10 @@
     "height": 1.7,
     "weight": 60.8,
     "basename": "386(D)",
-    "en": "Deoxys(D)"
+    "en": "Deoxys(D)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   },
   "デオキシス(S)": {
     "no": 386,
@@ -4617,6 +5874,9 @@
     "height": 1.7,
     "weight": 60.8,
     "basename": "386(S)",
-    "en": "Deoxys(S)"
+    "en": "Deoxys(S)",
+    "evolution": 1,
+    "from": [],
+    "to": []
   }
 }

@@ -43,125 +43,143 @@
       "kanji": "無",
       "item": ["シルクのスカーフ"],
       "move_class": "攻撃",
-      "en": "Normal"
+      "en": "Normal",
+      "rgb": [168, 168, 120]
     },
     "ほのお": {
       "color": "#F08030",
       "kanji": "炎",
       "item": ["もくたん"],
       "move_class": "特殊",
-      "en": "Fire"
+      "en": "Fire",
+      "rgb": [240, 128, 48]
     },
     "みず": {
       "color": "#6890F0",
       "kanji": "水",
       "item": ["うしおのおこう", "しんぴのしずく"],
       "move_class": "特殊",
-      "en": "Water"
+      "en": "Water",
+      "rgb": [104, 144, 240]
     },
     "でんき": {
       "color": "#F8D030",
       "kanji": "電",
       "item": ["じしゃく"],
       "move_class": "特殊",
-      "en": "Electric"
+      "en": "Electric",
+      "rgb": [248, 208, 48]
     },
     "くさ": {
       "color": "#78C850",
       "kanji": "草",
       "item": ["きせきのタネ"],
       "move_class": "特殊",
-      "en": "Grass"
+      "en": "Grass",
+      "rgb": [120, 200, 80]
     },
     "こおり": {
       "color": "#98D8D8",
       "kanji": "氷",
       "item": ["とけないこおり"],
       "move_class": "特殊",
-      "en": "Ice"
+      "en": "Ice",
+      "rgb": [152, 216, 216]
     },
     "かくとう": {
       "color": "#C03028",
       "kanji": "格",
       "item": ["くろおび"],
       "move_class": "攻撃",
-      "en": "Fighting"
+      "en": "Fighting",
+      "rgb": [192, 48, 40]
     },
     "どく": {
       "color": "#A040A0",
       "kanji": "毒",
       "item": ["どくバリ"],
       "move_class": "攻撃",
-      "en": "Poison"
+      "en": "Poison",
+      "rgb": [160, 64, 160]
     },
     "じめん": {
       "color": "#E0C068",
       "kanji": "地",
       "item": ["やわらかいすな"],
       "move_class": "攻撃",
-      "en": "Ground"
+      "en": "Ground",
+      "rgb": [224, 192, 104]
     },
     "ひこう": {
       "color": "#A890F0",
       "kanji": "飛",
       "item": ["するどいくちばし"],
       "move_class": "攻撃",
-      "en": "Flying"
+      "en": "Flying",
+      "rgb": [168, 144, 240]
     },
     "エスパー": {
       "color": "#F85888",
       "kanji": "超",
       "item": ["まがったスプーン"],
       "move_class": "特殊",
-      "en": "Psychic"
+      "en": "Psychic",
+      "rgb": [248, 88, 136]
     },
     "むし": {
       "color": "#A8B820",
       "kanji": "虫",
       "item": ["ぎんのこな"],
-      "move_class": "攻撃"
+      "move_class": "攻撃",
+      "rgb": [168, 184, 32]
     },
     "いわ": {
       "color": "#B8A038",
       "kanji": "岩",
       "item": ["かたいいし"],
       "move_class": "攻撃",
-      "en": "Rock"
+      "en": "Rock",
+      "rgb": [184, 160, 56]
     },
     "ゴースト": {
       "color": "#705898",
       "kanji": "霊",
       "item": ["のろいのおふだ"],
       "move_class": "攻撃",
-      "en": "Ghost"
+      "en": "Ghost",
+      "rgb": [112, 88, 152]
     },
     "ドラゴン": {
       "color": "#7038F8",
       "kanji": "竜",
       "item": ["りゅうのキバ"],
       "move_class": "特殊",
-      "en": "Dragon"
+      "en": "Dragon",
+      "rgb": [112, 56, 248]
     },
     "あく": {
       "color": "#705848",
       "kanji": "悪",
       "item": ["くろいメガネ"],
       "move_class": "特殊",
-      "en": "Dark"
+      "en": "Dark",
+      "rgb": [112, 88, 72]
     },
     "はがね": {
       "color": "#B8B8D0",
       "kanji": "鋼",
       "item": ["メタルコート"],
       "move_class": "攻撃",
-      "en": "Steel"
+      "en": "Steel",
+      "rgb": [184, 184, 208]
     },
     "？": {
       "color": "#68A090",
       "kanji": "？",
       "item": [""],
       "move_class": "変化",
-      "en": "Unknown"
+      "en": "Unknown",
+      "rgb": [104, 160, 144]
     }
   }
 }

@@ -44,6 +44,15 @@
       "overworld": ["Lady.png"]
     }
   },
+  "おとなのおねえさん": {
+    "女性": {
+      "en": "female",
+      "match": "single",
+      "front": "Beauty.png",
+      "back": "",
+      "overworld": ["Beauty.png"]
+    }
+  },
   "おぼっちゃま": {
     "男性": {
       "en": "male",
@@ -57,7 +66,7 @@
     "男性": {
       "en": "male",
       "match": "single",
-      "front": "Poke_Maniac.png",
+      "front": "Pokemaniac.png",
       "back": "",
       "overworld": ["Fossil_Maniac.png"]
     }
@@ -96,6 +105,22 @@
       "front": "Bug_Maniac.png",
       "back": "",
       "overworld": ["Fossil_Maniac.png"]
+    }
+  },
+  "じゅくがえり": {
+    "男性": {
+      "en": "male",
+      "match": "single",
+      "front": "School_Kid_M.png",
+      "back": "",
+      "overworld": ["Battle_Girl.png"]
+    },
+    "女性": {
+      "en": "female",
+      "match": "single",
+      "front": "School_Kid_F.png",
+      "back": "",
+      "overworld": ["Battle_Girl.png"]
     }
   },
   "たつじん": {
@@ -141,11 +166,20 @@
       "overworld": ["Guitarist.pn"]
     }
   },
+  "ふたごちゃん": {
+    "女女": {
+      "en": "female",
+      "match": "double",
+      "front": "Twins.png",
+      "back": "",
+      "overworld": ["Twin.png", "Twin.png"]
+    }
+  },
   "ふなのり": {
     "男性": {
       "en": "male",
       "match": "single",
-      "front": "Sailor_JP.png",
+      "front": "Sailor.png",
       "back": "",
       "overworld": ["Sailor.png"]
     }
@@ -179,14 +213,14 @@
     "男性": {
       "en": "male",
       "match": "single",
-      "front": "Team_Aqua_Grunt_M.png",
+      "front": "Aqua_Grunt_M.png",
       "back": "",
       "overworld": ["Aqua_Grunt_M.png"]
     },
     "女性": {
       "en": "female",
       "match": "single",
-      "front": "Team_Aqua_Grunt_F.png",
+      "front": "Aqua_Grunt_F.png",
       "back": "",
       "overworld": ["Aqua_Grunt_F.png"]
     }
@@ -218,6 +252,22 @@
       "overworld": ["Interviewer_F.png", "Interviewer_M.png"]
     }
   },
+  "エリートトレーナー": {
+    "男性": {
+      "en": "male",
+      "match": "single",
+      "front": "Cooltrainer_M.png",
+      "back": "",
+      "overworld": ["Cooltrainer_M.png"]
+    },
+    "女性": {
+      "en": "female",
+      "match": "single",
+      "front": "Cooltrainer_F.png",
+      "back": "",
+      "overworld": ["Cooltrainer_F.png"]
+    }
+  },
   "オカルトマニア": {
     "女性": {
       "en": "female",
@@ -231,16 +281,16 @@
     "ハルヒコ": {
       "en": "Victor",
       "match": "single",
-      "front": "Poke_fan_M.png",
+      "front": "Pokefan_M.png",
       "back": "",
       "overworld": ["Dock.png"]
     },
     "ヤスエ": {
       "en": "Victoria",
       "match": "single",
-      "front": "Poke_fan_F.png",
+      "front": "Pokefan_F.png",
       "back": "",
-      "overworld": ["Poke_fan_F.png"]
+      "overworld": ["Pokefan_F.png"]
     },
     "アキ": {
       "en": "Vivi",
@@ -302,7 +352,7 @@
     "女性": {
       "en": "female",
       "match": "single",
-      "front": "Psychic_F_JP.png",
+      "front": "Psychic_F.png",
       "back": "",
       "overworld": ["Lass.png"]
     }
@@ -484,14 +534,14 @@
     "男性": {
       "en": "male",
       "match": "single",
-      "front": "Team_Magma_Grunt_M.png",
+      "front": "Magma_Grunt_M.png",
       "back": "",
       "overworld": ["Magma_Grunt_M.png"]
     },
     "女性": {
       "en": "female",
       "match": "single",
-      "front": "Team_Magma_Grunt_F.png",
+      "front": "Magma_Grunt_F.png",
       "back": "",
       "overworld": ["Magma_Grunt_F.png"]
     }
@@ -512,31 +562,6 @@
       "front": "Young_Couple.png",
       "back": "",
       "overworld": ["Young_Couple_F.png", "Pokemon_Breeder_M.png"]
-    }
-  },
-  "塾がえり": {
-    "男性": {
-      "en": "male",
-      "match": "single",
-      "front": "School_Kid_M.png",
-      "back": "",
-      "overworld": ["Battle_Girl.png"]
-    },
-    "女性": {
-      "en": "female",
-      "match": "single",
-      "front": "School_Kid_F.png",
-      "back": "",
-      "overworld": ["Battle_Girl.png"]
-    }
-  },
-  "大人のおねえさん": {
-    "女性": {
-      "en": "female",
-      "match": "single",
-      "front": "Beauty.png",
-      "back": "",
-      "overworld": ["Beauty.png"]
     }
   },
   "アリーナキャプテン": {
@@ -727,6 +752,34 @@
       "front": "May.png",
       "back": "May.png",
       "overworld": ["May.png"]
+    },
+    "ユウキ(RS)": {
+      "en": "Brendan(RS)",
+      "match": "single",
+      "front": "RS_Brendan.png",
+      "back": "RS_Brendan.png",
+      "overworld": ["RS_Brendan.png"]
+    },
+    "ハルカ(RS)": {
+      "en": "May(RS)",
+      "match": "single",
+      "front": "RS_May.png",
+      "back": "RS_May.png",
+      "overworld": ["RS_May.png"]
+    },
+    "レッド": {
+      "en": "Red",
+      "match": "single",
+      "front": "Red.png",
+      "back": "Red.png",
+      "overworld": ["Red.png"]
+    },
+    "リーフ": {
+      "en": "Leaf",
+      "match": "single",
+      "front": "Leaf.png",
+      "back": "Leaf.png",
+      "overworld": ["Leaf.png"]
     }
   }
 }
